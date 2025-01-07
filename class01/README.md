@@ -49,8 +49,8 @@ Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours 
 
 1. Review the [website](https://thomaselove.github.io/432-2025/) and [Calendar](https://thomaselove.github.io/432-2025/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2025/) and [Course Notes](https://thomaselove.github.io/432-notes/).
 2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
-3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2025/software.html) and install these R Packages and data/code from 432-Data.
-4. Get started on [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), which is due Tuesday 2024-01-23 at Noon. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
+3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2025/software.html) and install the [necessary R Packages](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) and [data/code from 432-Data](https://github.com/THOMASELOVE/432-data).
+4. Get started on [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), which is due when the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) says it is. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
 
 ---
 

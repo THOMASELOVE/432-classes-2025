@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-01 | 2025-01-14 | **[Slides 01]** | **[Word 01]** | **[Code 01]** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2025-01-14 | **[Slides 01](https://thomaselove.github.io/432-slides-2025/slides01.html)** | **[Word 01](https://thomaselove.github.io/432-slides-2025/slides01w.docx)** | **[Code 01](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
 - The Word link will let you download the material in the slides as a Word (.docx) document.
@@ -25,14 +25,11 @@ You can do this. It's a lot of work, but it's worth it.
 
 ## TA Office Hours
 
-TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
+Details to come.
 
-- The schedule appears on [the Calendar](https://thomaselove.github.io/432-2024/calendar.html) and [the Contact Us page](https://thomaselove.github.io/432-2024/contact.html). 
-- Details on joining the Zoom sessions for Office Hours will be found on our Shared (Google) Drive before the first office hour begins on Friday.
-- No appointment is necessary - please just drop in.
+## Campuswire
 
 Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions.
-    - In fact, there's a quick poll up there now.
 
 ---
 

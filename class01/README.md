@@ -23,7 +23,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
  
 You can do this. It's a lot of work, but it's worth it.
 
-## TA Office Hours
+## TA Office Hours will start Friday 2025-01-17
 
 Details to come.
 

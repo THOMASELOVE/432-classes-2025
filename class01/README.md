@@ -44,24 +44,6 @@ Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours 
 
 ---
 
-## What Should I Be Working On?
-
-### By Wednesday 2025-01-15 at Noon:
-
-1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
-2. Complete the Welcome to 432 survey at <https://bit.ly/432-2025-welcome-survey>.
-    - Thanks to those of you who've already done this.
-3. Accept your invitation to [Campuswire](https://campuswire.com/) (see your email or just look at your existing account). There's a poll up there at the moment (closes Wednesday at noon.)
-
-### Before our next class Thursday 2025-01-16 at 1 PM
-
-1. Review the [website](https://thomaselove.github.io/432-2025/) and [Calendar](https://thomaselove.github.io/432-2025/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2025/) and [Course Notes](https://thomaselove.github.io/432-notes/).
-2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
-3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2025/software.html) and install the [necessary R Packages](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) and [data/code from 432-Data](https://github.com/THOMASELOVE/432-data).
-4. Get started on [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), which is due when the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) says it is. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
-
----
-
 ## References from Today's Slides
 
 - Course Mechanics
@@ -94,6 +76,26 @@ Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours 
     - It's still worth it to learn about how Quarto works, and why it differs from R Markdown when it does.
 - Building and Validating Linear Prediction Models
     - See the [431 Course Notes](https://thomaselove.github.io/431-book/), as well as the [432 Course Notes](https://thomaselove.github.io/432-notes/). Both will remain online until 2025-06-01.
+
+---
+
+## What Should I Be Working On?
+
+### By Wednesday 2025-01-15 at Noon:
+
+1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
+2. Complete the Welcome to 432 survey at <https://bit.ly/432-2025-welcome-survey>.
+    - Thanks to those of you who've already done this.
+3. Accept your invitation to [Campuswire](https://campuswire.com/) (see your email or just look at your existing account). There's a poll up there at the moment (closes Wednesday at noon.)
+
+### Before our next class Thursday 2025-01-16 at 1 PM
+
+1. Review the [website](https://thomaselove.github.io/432-2025/) and [Calendar](https://thomaselove.github.io/432-2025/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2025/) and [Course Notes](https://thomaselove.github.io/432-notes/).
+2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
+3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2025/software.html) and install the [necessary R Packages](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) and [data/code from 432-Data](https://github.com/THOMASELOVE/432-data).
+4. Get started on [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), which is due when the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) says it is. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
+
+---
 
 # One Last Thing
 

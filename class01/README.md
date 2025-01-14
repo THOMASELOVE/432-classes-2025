@@ -100,7 +100,8 @@ Email Professor Love at `thomas dot love` at `case dot edu` with any individual 
 1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
 2. Complete the Welcome to 432 survey at <https://bit.ly/432-2025-welcome-survey>.
     - Thanks to those of you who've already done this.
-3. Accept your invitation to [Campuswire](https://campuswire.com/) (see your email or just look at your existing account). There's a poll up there at the moment (closes Wednesday at noon.)
+3. Accept your invitation to [Campuswire](https://campuswire.com/) (see your email or just look at your existing account).
+    - There's a poll up there at the moment (closes Wednesday at noon.)
 
 ### Before our next class Thursday 2025-01-16 at 1 PM
 

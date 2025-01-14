@@ -46,9 +46,9 @@ Zoom information to join these sessions is posted to our **Shared Google Drive**
 Day	| Time(s)
 :---------: | :-------------------------------------------------------------
 Fridays | 12:15 to 1:45 PM
-Sundays	| 6 to 7:30 PM and 8:30 to 10 PM
-Mondays	| 11:30 AM to 1 PM and 7:30 to 9 PM and 9 to 10:30 PM
-Tuesdays | 11:15 AM to 12:45 PM and 6 to 7:30 PM and 9 to 10:30 PM
+Sundays	| 6 to 7:30 PM *and* 8:30 to 10 PM
+Mondays	| 11:30 AM to 1 PM *and* 7:30 to 9 PM *and* 9 to 10:30 PM
+Tuesdays | 11:15 AM to 12:45 PM *and* 6 to 7:30 PM *and* 9 to 10:30 PM
 
 (*Note*: virtually all assignments for this course are due on Wednesdays at noon. See [the Course Calendar](https://thomaselove.github.io/432-2025/calendar.html) for the final word on all deadlines.)
 

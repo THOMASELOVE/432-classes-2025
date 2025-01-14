@@ -25,7 +25,18 @@ You can do this. It's a lot of work, but it's worth it.
 
 ## TA Office Hours will start Friday 2025-01-17
 
-Details to come.
+Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2025-01-17, and continue through Tuesday 2025-04-22, except for Martin Luther King Day (Monday 2025-01-20) and Spring Break (hours are cancelled from 2025-03-08 through 2025-03-14.) 
+
+Zoom information to join these sessions is posted to our Shared Google Drive. TA office hours will be held over Zoom according to the following schedule:
+
+Day	| Time(s)
+:---------: | :-------------------------------------------------------------
+Fridays | 	12:15 to 1:45 PM
+Sundays	| 6 to 7:30 PM and 8:30 to 10 PM
+Mondays	| 11:30 AM to 1 PM and 7:30 to 9 PM and 9 to 10:30 PM
+Tuesdays | 	11:15 AM to 12:45 PM and 6 to 7:30 PM and 9 to 10:30 PM
+
+(*note*: virtually all assignments for this course are due on Wednesdays at noon.
 
 ## Campuswire
 
@@ -83,3 +94,9 @@ Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours 
     - It's still worth it to learn about how Quarto works, and why it differs from R Markdown when it does.
 - Building and Validating Linear Prediction Models
     - See the [431 Course Notes](https://thomaselove.github.io/431-book/), as well as the [432 Course Notes](https://thomaselove.github.io/432-notes/). Both will remain online until 2025-06-01.
+
+# One Last Thing
+
+I don't know whether our cat, Josephine, will join us during class today, or not, but here's a picture. Our other cat, Fuzzington, passed away just after Christmas. It was his time.
+
+![](josie_1.jpg)

@@ -23,7 +23,19 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
  
 You can do this. It's a lot of work, but it's worth it.
 
-## TA Office Hours will start Friday 2025-01-17
+
+
+---
+
+## Getting Help
+
+If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:
+
+### Campuswire discussion forum is open 24/7
+
+Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions. In fact, there's a poll up there now! The system is highly catered to getting you help fast and efficiently from classmates, the TAs, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Campuswire. If you’re new to Campuswire, sign up via the email you received from me at your CWRU email. If you can't find the email, email me at `thomas dot love` at `case dot edu`, and I'll send another.
+
+### TA Office Hours will start Friday 2025-01-17
 
 Attend TA office hours to get one-on-one help or share a computer problem. TA office hours are held via Zoom, and will begin on Friday 2025-01-17, and continue through Tuesday 2025-04-22, except for Martin Luther King Day (Monday 2025-01-20) and Spring Break (hours are cancelled from 2025-03-08 through 2025-03-14.) 
 
@@ -38,9 +50,9 @@ Tuesdays | 	11:15 AM to 12:45 PM and 6 to 7:30 PM and 9 to 10:30 PM
 
 (*note*: virtually all assignments for this course are due on Wednesdays at noon.
 
-## Campuswire
+### If all else fails...
 
-Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions.
+Email Professor Love at `thomas dot love` at `case dot edu` with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting. I will also hold “drop in” hours for as long as necessary after each class. Just let me know that you want to talk with me at the end of class.
 
 ---
 

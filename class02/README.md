@@ -28,6 +28,6 @@ Not at all (that's OK) | 1 to 3 times | More than 3 times | Responses
 :--------------------: | :--------------------: | :--------------------: | :--------:
 12 (37.5%) | 9 (28.1%) | 11 (34.4%) | 32
 
-3. Some Results from the Welcome to 432 Survey are posted to our Shared Drive.
+3. Some Results from the Welcome to 432 Survey are [posted to our Shared Drive](https://docs.google.com/document/d/1mpLfZoKDNFJ79hdOyNnpiEs6OxDL-0DWFAf-gUjnJwo/edit?usp=drive_link).
 
 

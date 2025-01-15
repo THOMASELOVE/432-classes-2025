@@ -22,12 +22,19 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. For [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), in question 1b, I meant to list 15 candidate variables, but accidentally listed `unins` twice, and left out `unemp`. I've now fixed that to corrrectly list both `unins` and `unemp` as candidates. I've also added a couple of **tips** to the [instructions](https://thomaselove.github.io/432-2025/lab1.html) that may be helpful.
-2. Results of the little pair of polls on [Campuswire](https://campuswire.com/), where I asked "About how many times have you opened R Studio in 2025?"
+2. Results of the little pair of polls on [Campuswire](https://campuswire.com/), where I asked "About how many times have you opened R Studio in 2025?" Thanks very much to those of you who completed it (in either version.)
  
 Not at all (that's OK) | 1 to 3 times | More than 3 times | Responses
 :--------------------: | :--------------------: | :--------------------: | :--------:
 12 (37.5%) | 9 (28.1%) | 11 (34.4%) | 32
 
-3. Some Results from the Welcome to 432 Survey are [posted to our Shared Drive](https://docs.google.com/document/d/1mpLfZoKDNFJ79hdOyNnpiEs6OxDL-0DWFAf-gUjnJwo/edit?usp=drive_link).
+3. Some Results from the Welcome to 432 Survey are [posted to our Shared Drive](https://docs.google.com/document/d/1mpLfZoKDNFJ79hdOyNnpiEs6OxDL-0DWFAf-gUjnJwo/edit?usp=drive_link). Thanks to those of you who completed it on time.
+4. TA Office Hours begin on Friday. A complete schedule, with Zoom links, is available on our Shared Google Drive, and as an announcement on [Canvas](https://canvas.case.edu/).
 
+## What should I be working on?
+
+1. [Lab 1](https://thomaselove.github.io/432-2025/lab1.html) is due next Wednesday at noon to [Canvas](https://canvas.case.edu/). To do the Lab, you'll want to have installed/updated all of [the necessary software](https://thomaselove.github.io/432-2025/software.html).
+2. Read through the [Syllabus](https://thomaselove.github.io/432-2025/), and familiarize yourself with the other materials on [our website](https://thomaselove.github.io/432-2025/), especially the [Course Notes](https://thomaselove.github.io/432-notes/).
+3. The [Project A instructions](https://thomaselove.github.io/432-2025/projA.html) are available, and I would read them soon, so you know what you need to be thinking about.
+4. Ideally, you'd also be reading [How to be a modern scientist](https://leanpub.com/modernscientist), which you need to finish by the end of January. It's almost ten years old now, but it still has a lot to offer in a small package.
 

@@ -28,7 +28,7 @@ Not at all (that's OK) | 1 to 3 times | More than 3 times | Responses
 :--------------------: | :--------------------: | :--------------------: | :--------:
 12 (37.5%) | 9 (28.1%) | 11 (34.4%) | 32
 
-3. Some Results from the Welcome to 432 Survey are [posted to our Shared Drive](https://docs.google.com/document/d/1mpLfZoKDNFJ79hdOyNnpiEs6OxDL-0DWFAf-gUjnJwo/edit?usp=drive_link). Thanks to those of you who completed it on time.
+3. Some results from the Welcome to 432 Survey are [posted to our Shared Drive](https://docs.google.com/document/d/1mpLfZoKDNFJ79hdOyNnpiEs6OxDL-0DWFAf-gUjnJwo/edit?usp=drive_link). Thanks to those of you who completed it on time.
 4. TA Office Hours begin on Friday. A complete schedule, with Zoom links, is available on our Shared Google Drive, and as an announcement on [Canvas](https://canvas.case.edu/). Remember that we won't hold any office hours this Monday 2025-01-20, because of the Martin Luther King, Jr. Holiday.
 
 ## What should I be working on?

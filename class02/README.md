@@ -21,5 +21,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. For [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), in question 1b, I meant to list 15 candidate variables, but accidentally listed `unins` twice, and left out `unemp`. I've now fixed that to corrrectly list both `unins` and `unemp` as candidates. I've also added a couple of **hints** to the [instructions](https://thomaselove.github.io/432-2025/lab1.html) that may be helpful.
+1. For [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), in question 1b, I meant to list 15 candidate variables, but accidentally listed `unins` twice, and left out `unemp`. I've now fixed that to corrrectly list both `unins` and `unemp` as candidates. I've also added a couple of **tips** to the [instructions](https://thomaselove.github.io/432-2025/lab1.html) that may be helpful.
 2. 

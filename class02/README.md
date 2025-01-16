@@ -19,6 +19,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
+## Post-Class
+
+- I added the **nh1982.Rds** file to our [432-data page](https://github.com/THOMASELOVE/432-data) right after class.
+- I also made the following changes after class to the slides from Class 02 - the HTML, Word and Quarto versions. They should appear on Github by 3 PM, and all of these were things I caught during the session.
+    - changed title of Slide 7
+    - fixed typo (should be 95% not 90%) in Slide 23
+    - added `compare_models(model1, model2)` code to Slide 45
+    - fixed typo (should be 3054 not 2054) in Slide 52
+
 ## Announcements
 
 1. For [Lab 1](https://thomaselove.github.io/432-2025/lab1.html), in question 1b, I meant to list 15 candidate variables, but accidentally listed `unins` twice, and left out `unemp`. I've now fixed that to corrrectly list both `unins` and `unemp` as candidates. I've also added a couple of **tips** to the [instructions](https://thomaselove.github.io/432-2025/lab1.html) that may be helpful.

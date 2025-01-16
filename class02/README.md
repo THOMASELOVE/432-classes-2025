@@ -38,3 +38,6 @@ Not at all (that's OK) | 1 to 3 times | More than 3 times | Responses
 3. The [Project A instructions](https://thomaselove.github.io/432-2025/projA.html) are available, and I would read them soon, so you know what you need to be thinking about.
 4. Ideally, you'd also be reading [How to be a modern scientist](https://leanpub.com/modernscientist), which you need to finish by the end of January. It's almost ten years old now, but it still has a lot to offer in a small package.
 
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/features_of_adulthood.png) from [XKCD](https://xkcd.com/3034)

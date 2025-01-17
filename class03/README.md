@@ -21,4 +21,4 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. If you're still having trouble getting the `performance` package updated to version 0.13.0, and you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png).

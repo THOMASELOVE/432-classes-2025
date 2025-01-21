@@ -34,6 +34,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - The next substantial assignment is [Lab 2](https://thomaselove.github.io/432-2025/lab2.html), due 2025-01-29.
 2. Thanks to those of you who have carefully read [the Syllabus](https://thomaselove.github.io/432-syllabus-2025/). For those of you that haven't finished that task yet, I encourage you to do so before Thursday 2025-01-23 at 9 AM.
 3. Please continue reading [How to be a modern scientist](https://leanpub.com/modernscientist) so that you finish that by the end of January.
+4. My intention is to discuss [Project A](https://thomaselove.github.io/432-2025/projA.html) in some detail in class 5 (one week from today) but I'm happy to address questions about it (especially via [Campuswire](https://campuswire.com/)) at any time.
 
 ## One Last Thing
 

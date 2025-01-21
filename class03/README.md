@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Please try **not** to join the Zoom meeting more than five minutes before 1 PM, if you can. If you start it earlier, it creates a long stretch of recording at the beginning which I have been unable to edit out. Thanks. I'll be on by 12:55 each day.
+1. Please try **not** to join the Zoom meeting more than five minutes before 1 PM, if you can. If you start it earlier, it creates a long stretch of recording at the beginning which I have been unable to edit out. Thanks. I'll be joining at 12:55 each day.
 2. The problem with CRAN backlog is settled, and if you update the `performance` package to version 0.13.0 (as well as [any other updates](https://thomaselove.github.io/432-2025/software.html#updating-your-r-packages) for the packages you're using in R), you shouldn't have a problem using `check_model()` or other tools we've demonstrated.
      - If you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png), but you should now be able to generate this on your own.
 3. I tweaked the instructions for [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) on 2025-01-17 and [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) on 2025-01-20 and [Lab 4](https://thomaselove.github.io/432-2025/lab4.html) today (2025-01-21), so make sure you look at the current versions as you plan your work on those assignments.

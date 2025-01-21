@@ -21,10 +21,20 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The problem with CRAN backlog are settled, and if you upgrade the `performance` package to version 0.13.0 as well as any other upgrades for the packages you're using in R, you shouldn't still have a problem using `check_model()`.
-     - If you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png).
-2. [Lab 1](https://thomaselove.github.io/432-2025/lab1.html)  is due tomorrow at noon to Canvas. Make sure you are looking at the version of the instructions posted 2025-01-15, which includes a pair of tips.
-3. I tweaked the instructions for [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) on 2025-01-17 and [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) on 2025-01-20, so make sure you look at the current versions as you plan your work on those assignments.
-4. The most obvious options for real-time project collaboration seem to be [Google Colab](https://colab.research.google.com/) and Posit Cloud. Since Google Colab is free, I feel more comfortable recommending it, at least for this semester.
-5. I am compiling a list of errors in the current version of the [432 Class Notes](https://thomaselove.github.io/432-notes/), and will make that available to you soon.
- 
+1. The problem with CRAN backlog are settled, and if you update the `performance` package to version 0.13.0 (as well as [any other updates](https://thomaselove.github.io/432-2025/software.html#updating-your-r-packages) for the packages you're using in R), you shouldn't have a problem using `check_model()` or other tools we've demonstrated.
+     - If you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png), but you should now be able to generate this on your own.
+2. I tweaked the instructions for [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) on 2025-01-17 and [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) on 2025-01-20, so make sure you look at the current versions as you plan your work on those assignments.
+3. The most obvious options for real-time project collaboration seem to be [Google Colab](https://colab.research.google.com/) and Posit Cloud. Since Google Colab is free, I feel more comfortable recommending it, at least for this semester.
+4. I am compiling a list of errors in the current version of the [432 Class Notes](https://thomaselove.github.io/432-notes/), and will make that available to you soon.
+
+## Reminders
+
+1. [Lab 1](https://thomaselove.github.io/432-2025/lab1.html)  is due tomorrow at noon to Canvas. Make sure you are looking at the version of the instructions posted 2025-01-15, which includes a pair of tips.
+    - [TA office hours](https://thomaselove.github.io/432-2025/calendar.html#ta-office-hours) continue later today, and [Campuswire](https://campuswire.com/) remains available 24/7 for help.
+    - The next substantial assignment is [Lab 2](https://thomaselove.github.io/432-2025/lab2.html), due 2025-01-29.
+2. Thanks to those of you who have carefully read [the Syllabus](https://thomaselove.github.io/432-syllabus-2025/). For those of you that haven't finished that task yet, I encourage you to do so before Thursday 2025-01-23 at 9 AM.
+3. Please continue reading [How to be a modern scientist](https://leanpub.com/modernscientist) so that you finish that by the end of January.
+
+## One Last Thing
+
+from [Flowing Data](https://flowingdata.com/2025/01/21/where-you-would-feel-richer-and-poorer/), "Bloomberg has an interactive by Claire Ballentine and Charlie Wells that lets you compare how income in one metro area would feel like in another due to differences in cost of living."

@@ -25,7 +25,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
      - If you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png), but you should now be able to generate this on your own.
 2. I tweaked the instructions for [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) on 2025-01-17 and [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) on 2025-01-20 and [Lab 4](https://thomaselove.github.io/432-2025/lab4.html) today (2025-01-21), so make sure you look at the current versions as you plan your work on those assignments.
 3. The most obvious options for real-time project collaboration seem to be [Google Colab](https://colab.research.google.com/) and Posit Cloud. Since Google Colab is free, I feel more comfortable recommending it, at least for this semester.
-4. I am compiling a list of errors in the current version of the [432 Class Notes](https://thomaselove.github.io/432-notes/), and will make that available to you soon.
+4. I am compiling a list of errors in the current version of the [432 Class Notes](https://thomaselove.github.io/432-notes/), and you can find that list now by clicking on Notes on [the top bar of our website](https://thomaselove.github.io/432-2025/), or [at this link](https://thomaselove.github.io/432-2025/notes.html).
+    - If you find any errors in the 432 notes, please submit them to [Campuswire](https://campuswire.com/) in the "Notes edits" folder. I'd really appreciate it.
+    - The [431 course notes from Fall 2024](https://thomaselove.github.io/431-book/) are available at <https://thomaselove.github.io/431-book/>. If you find errors there, I'm very interested in hearing about them, too.
 
 ## Reminders
 

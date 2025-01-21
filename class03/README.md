@@ -40,7 +40,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## One Last Thing
 
-from [Flowing Data](https://flowingdata.com/2025/01/21/where-you-would-feel-richer-and-poorer/), 
+from [Flowing Data](https://flowingdata.com/2025/01/21/where-you-would-feel-richer-and-poorer/)... 
 
 > Bloomberg has an interactive by Claire Ballentine and Charlie Wells that lets you [compare how income in one metro area would feel like in another due to differences in cost of living](https://www.bloomberg.com/graphics/2023-are-you-rich-best-cities-to-live-salary/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczNzM0MjY4OSwiZXhwIjoxNzM3OTQ3NDg5LCJhcnRpY2xlSWQiOiJSWkRJQzhEV1gyUFMwMSIsImJjb25uZWN0SWQiOiIzRDhGMEEzMTc2MDc0NUM5OTg4NkFCNzA1NDk2RUNEQSJ9.vCwLzZvfJX_g3d0LkJbZILUIZZ-gUTx3Mhifpx_p420).
 

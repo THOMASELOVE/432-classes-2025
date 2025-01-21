@@ -21,4 +21,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. If you're still having trouble getting the `performance` package updated to version 0.13.0, and you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png).
+1. The problem with CRAN backlog are settled, and if you upgrade the `performance` package to version 0.13.0 as well as any other upgrades for the packages you're using in R, you shouldn't still have a problem using `check_model()`.
+     - If you want to see what the Lab 1 Question 2 (model 1) `check_model()` result should look like, here's [an image of it](check_models_lab1.png).
+2. [Lab 1](https://thomaselove.github.io/432-2025/lab1.html)  is due tomorrow at noon to Canvas. Make sure you are looking at the version of the instructions posted 2025-01-15, which includes a pair of tips.
+3. I tweaked the instructions for [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) on 2025-01-17 and [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) on 2025-01-20, so make sure you look at the current versions as you plan your work on those assignments.
+4. The most obvious options for real-time project collaboration seem to be [Google Colab](https://colab.research.google.com/) and Posit Cloud. Since Google Colab is free, I feel more comfortable recommending it, at least for this semester.
+5. I am compiling a list of errors in the current version of the [432 Class Notes](https://thomaselove.github.io/432-notes/), and will make that available to you soon.
+ 

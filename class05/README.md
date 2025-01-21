@@ -14,4 +14,4 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. We'll discuss the instructions for [Project A](https://thomaselove.github.io/432-2025/projA.html) in some detail today.

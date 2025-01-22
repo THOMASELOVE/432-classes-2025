@@ -2,7 +2,7 @@
 
 Here is the list:
 
-- The Americans, Arcane (mentioned by 4 students), Better Call Saul, Boardwalk Empire, Buffy the Vampire Slayer
+- [The Americans](#the-americans), [Arcane](#arcane) (mentioned by 4 students), [Better Call Saul](#better-call-saul), Boardwalk Empire, Buffy the Vampire Slayer
 - 
 
 

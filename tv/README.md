@@ -9,13 +9,13 @@ Here is the list of shows mentioned by more than one student:
 Here are the shows mentioned by one student each:
 
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
-- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
+- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
 - [Grace and Frankie](#grace-and-frankie-imdb), [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb)
 - [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
-- [The Mindy Project](#the-mindy-project-imdb), NCIS, Northern Exposure, Parks and Recreation, Queer Eye
-- River Monsters, Shrinking, Suits, Supernatural, Ted Lasso
-- True Detective, The White Lotus
+- [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [Queer Eye](#queer-eye-imdb)
+- [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb)
+- [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
 ## Details for each show, including student comments on why you might like it...
 
@@ -31,7 +31,7 @@ Hulu, Apple TV, Amazon | 75 | 2013-2018 | TV-MA | Period Drama, Political Thrill
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix | 18 | 2021-2024 | TV-14 | Action Epic, Adult Animation | Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.
+Netflix | 18 | 2021-2024 | TV-14 | Action Epic, Adult Animation | Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies an7d clashing convictions.
 
 1. I thought the characters in [Arcane](https://www.imdb.com/title/tt11126994/) were complex and interesting, the world-building was good, and the animation was very well done.
 2. The French animation studio Fortiche has done an INCREDIBLE job on [Arcane](https://www.imdb.com/title/tt11126994/). The Sound Design/Production is also well done, it builds the world, fleshes out the characters, and they created a ton of original songs for the show. Somehow they got artists like Sting and Strommae on board and that's no small feat.
@@ -134,7 +134,7 @@ Max | 74 | 2011-2019 | TV-MA | Dark Fantasy, Epic | Nine noble families fight fo
 
 1. [Game of Thrones](https://www.imdb.com/title/tt0944947/) offers a fantasy world filled with complex characters and intricate storylines. I believe others will also enjoy the show for its exciting story and the unforgettable characters.
 
-### Gilmore Girls [IMDB](https://www.imdb.com/title/tt0238784)
+### The Gilmore Girls [IMDB](https://www.imdb.com/title/tt0238784)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -247,90 +247,90 @@ Hulu | 250 | 2009-2020 | TV-PG | Mockumentary, Sitcom | Three different, but rel
 1. The reason I like [Modern Family](https://www.imdb.com/title/tt1442437) is you do not really have to follow along and watch every episode in order to understand it. Others in the class that do not stay up to date on shows might also enjoy it.
 2. I like [Modern Family](https://www.imdb.com/title/tt1442437) because it's humorous and can teach you how to get along with family members.
 
-### [NCIS]()
+### NCIS [IMDB](https://www.imdb.com/title/tt0364845)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix
+Netflix, Hulu, Paramount+ | 478 | 2003- | TV-14 | Cop Drama, Police Procedural | Follows the Major Case Response Team (MCRT) from the Naval Criminal Investigative Service (NCIS), as they get to the bottom of criminal cases connected to Navy and Marine Corps personnel.
 
-1. It's a crime solving show, most of the murder victims are military personnel. It's funny and carries a bunch of different plot lines throughout the seasons. I don’t recommend anything after 2020, but the first 14 seasons are pretty good.
+1. [NCIS](https://www.imdb.com/title/tt0364845) is a crime solving show, most of the murder victims are military personnel. It's funny and carries a bunch of different plot lines throughout the seasons. I don’t recommend anything after 2020, but the first 14 seasons are pretty good.
 
-### [Northern Exposure]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Amazon Prime
-
-1. I don't normally like medical shows but this particular series highlights and humanizes the limits of modern medicine (it's from the 90s) across different cultures/populations. It's a fish-out-of water story about a NY physician working in rural Alaska.
-
-### [Parks and Recreation]()
+### Northern Exposure [IMDB](https://www.imdb.com/title/tt0098878)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Peacock | 
+Amazon Prime | 110 | 1990-1995 | TV-PG | Comedy, Drama | A city doctor is forced to work in the remote Alaskan town of Cicely, where he encounters peculiar locals, including a former astronaut, as he adjusts to small-town life.
 
-1. It has always been my go to show when I need something to distract me. I find that it is funny in a good-hearted way unlike some other sitcoms that can lean into second hand embarrassment.
+1. I don't normally like medical shows but [Northern Exposure](https://www.imdb.com/title/tt0098878) highlights and humanizes the limits of modern medicine (it's from the 90's) across different cultures/populations. It's a fish-out-of water story about a NY physician working in rural Alaska.
 
-### [Queer Eye]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix | 
-
-1. The show centers around kindness, inclusivity, and helping others to live their best lives. I find the show to be very uplifting and a welcome reprieve from the pervasive misery in the modern news cycle.
-
-### [River Monsters]()
+### Parks and Recreation [IMDB](https://www.imdb.com/title/tt1266020)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Amazon Prime | 
+Peacock | 124 | 2009-2015 | TV-14 | Mockumentary, Satire | The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
 
-1. This show appeals to a sense of wonder and adventure, as many of the "legendary" fish he aims to catch have myths associated with them. Then, when he inevitably captures the fish, the show ties together fact and fiction in a fun and informative way.
+1. [Parks and Recreation](https://www.imdb.com/title/tt1266020) has always been my go to show when I need something to distract me. I find that it is funny in a good-hearted way unlike some other sitcoms that can lean into second hand embarrassment.
 
-### [Shrinking]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Apple TV+
-
-1. Shrinking is about a psychiatrist who is dealing with his own grief while trying to help his patients. The show explores themes of mental health, personal growth, and the human side of therapy, which I find really insightful and engaging. It's a great blend of humor and emotion, and I’ve found it to be both thought-provoking and entertaining.
-
-### [Suits]()
+### Queer Eye [IMDB](https://www.imdb.com/title/tt7259746)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix
+Netflix | 76 | 2018- | TV-14 | Beauty Makeover, Home Improvement | A new Fab Five set out to Atlanta to help some of the city's people refine their wardrobes, grooming, diet, cultural pursuits, and home décor.
 
-1. I like it because it has clever writing with well-developed characters. It is a good show to watch for time-killing.
+1. [Queer Eye](https://www.imdb.com/title/tt7259746) centers around kindness, inclusivity, and helping others to live their best lives. I find the show to be very uplifting and a welcome reprieve from the pervasive misery in the modern news cycle.
 
-### [Supernatural]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix 
-
-1. Supernatural is a captivating blend of family drama and paranormal adventure, following two brothers as they navigate life's challenges while battling demons, monsters, and otherworldly forces. It's a unique mix of action, emotion, and mystery that keeps you hooked as you watch their personal growth and the evolution of their relationship over time. If you're into thrilling stories with a touch of heart, this one's for you!
-
-### [Ted Lasso]()
+### River Monsters [IMDB](https://www.imdb.com/title/tt1476750)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Apple TV+ 
+Max | 89 | 2009-2017 | Not Rated | Adventure, Documentary | Jeremy Wade searches the world for legendary and flesh-eating freshwater fish.
 
-1. The show is well-written, wholesome, funny and talks about more serious topics with nuance.
+1. [River Monsters](https://www.imdb.com/title/tt1476750) appeals to a sense of wonder and adventure, as many of the "legendary" fish he aims to catch have myths associated with them. Then, when he inevitably captures the fish, the show ties together fact and fiction in a fun and informative way.
 
-### [True Detective]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Max, Amazon Prime 
-
-1. I loved this show because of how crazy and spooky it is. It follows a quasi-real-world plot and brings elements of supernatural realism. It is fairly dark, but Matthew McConaughey and Woody Harrelson knock it out of the park.
-
-### [The White Lotus]()
+### Shrinking [IMDB](https://www.imdb.com/title/tt15677150)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Max
+Apple TV+ | 23 | 2023- | TV-MA | Comedy, Drama | A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.
 
-1. This anthology series is a social satire and compelling drama following privileged vacationers and hotel staff at a luxurious resort where their flaws and dysfunctions slowly surface. Its an exploration of human nature using a mix of humor, intrigue, and dark complexity.
+1. [Shrinking](https://www.imdb.com/title/tt15677150) is about a psychiatrist who is dealing with his own grief while trying to help his patients. The show explores themes of mental health, personal growth, and the human side of therapy, which I find really insightful and engaging. It's a great blend of humor and emotion, and I’ve found it to be both thought-provoking and entertaining.
+
+### Suits [IMDB](https://www.imdb.com/title/tt1632701)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Netflix, Peacock | 134 | 2011-2019 | TV-14 | Legal Drama, Workplace Drama | On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.
+
+1. I like [Suits](https://www.imdb.com/title/tt1632701) because it has clever writing with well-developed characters. It is a good show to watch for time-killing.
+
+### Supernatural [IMDB](https://www.imdb.com/title/tt0460681)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Netflix | 327 | 2005-2020 | TV-14 | Dark Fantasy, Monster Horror | Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
+
+1. [Supernatural](https://www.imdb.com/title/tt0460681) is a captivating blend of family drama and paranormal adventure, following two brothers as they navigate life's challenges while battling demons, monsters, and otherworldly forces. It's a unique mix of action, emotion, and mystery that keeps you hooked as you watch their personal growth and the evolution of their relationship over time. If you're into thrilling stories with a touch of heart, this one's for you!
+
+### Ted Lasso [IMDB](https://www.imdb.com/title/tt10986410)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Apple TV+ | 35 | 2020- | TV-MA | Soccer, Workplace Drama | American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.
+
+1. [Ted Lasso](https://www.imdb.com/title/tt10986410) is well-written, wholesome, funny and talks about more serious topics with nuance.
+
+### True Detective [IMDB](https://www.imdb.com/title/tt2356777)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Max, Peacock, Amazon Prime | 31 | 2014- | TV-MA | Cop Drama, Epic | Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.
+
+1. I loved [True Detective](https://www.imdb.com/title/tt2356777) because of how crazy and spooky it is. It follows a quasi-real-world plot and brings elements of supernatural realism. It is fairly dark, but Matthew McConaughey and Woody Harrelson knock it out of the park.
+
+### The White Lotus [IMDB](https://www.imdb.com/title/tt13406094)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Max | 21 | 2021-2025 | TV-MA | Dark Comedy, Satire | The exploits of various guests and employees of a luxury resort over the span of a week.
+
+1. [The White Lotus](https://www.imdb.com/title/tt13406094) anthology series is a social satire and compelling drama following privileged vacationers and hotel staff at a luxurious resort where their flaws and dysfunctions slowly surface. Its an exploration of human nature using a mix of humor, intrigue, and dark complexity.

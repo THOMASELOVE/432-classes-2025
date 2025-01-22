@@ -11,6 +11,7 @@ Here are the shows mentioned by one student each:
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-IMDB), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
+- [Grace and Frankie](#grace-and-frankie-imdb), 
 
 ## Details for each show, including student comments on why you might like it...
 
@@ -129,29 +130,29 @@ Max | 74 | 2011-2019 | TV-MA | Dark Fantasy, Epic | Nine noble families fight fo
 
 1. [Game of Thrones](https://www.imdb.com/title/tt0944947/) offers a fantasy world filled with complex characters and intricate storylines. I believe others will also enjoy the show for its exciting story and the unforgettable characters.
 
-### [Gilmore Girls]()
+### Gilmore Girls [IMDB](https://www.imdb.com/title/tt0238784)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix 
+Netflix | 154 | 2000-2007 | TV-PG | Coming-of-Age, Teen Drama | A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.
 
-1. A big portion of this being my favorite series is nostalgia since I grew up watching it every Tuesday night with my mom and sisters, but it’s a fun fast-paced comedy/drama that is filled with witty dialogue and pop culture references.
+1. A big portion of [Gilmore Girls](https://www.imdb.com/title/tt0238784) being my favorite series is nostalgia since I grew up watching it every Tuesday night with my mom and sisters, but it’s a fun fast-paced comedy/drama that is filled with witty dialogue and pop culture references.
 
-### [The Good Place]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix 
-
-1. I like the series because of its mix of humor and philosophical themes. It takes place in a unique setting of the afterlife that allows for a lot of creative worldbuilding.
-
-### [Grace and Frankie]()
+### The Good Place [IMDB](https://www.imdb.com/title/tt4955642)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix
+Netflix | 50 | 2016-2020 | TV-PG | Feel-Good Romance, High-Concept Comedy | Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.
 
-1. I like this series because of the main characters' shared friendship and respective families, as well as the show's generally dry humor/sarcasm. Even though it's centered around a pair of women in their 70s, the humor and some of the life situations depicted could apply to most young adult to older adult generations.
+1. I like [The Good Place](https://www.imdb.com/title/tt4955642) because of its mix of humor and philosophical themes. It takes place in a unique setting of the afterlife that allows for a lot of creative worldbuilding.
+
+### Grace and Frankie [IMDB](https://www.imdb.com/title/tt3609352)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Netflix | 94 | 2015-2022 | TV-MA | Buddy Comedy, Sitcom | Finding out that their husbands are not just work partners, but have also been romantically involved for the last twenty years, two women with an already strained relationship try to cope with the circumstances together.
+
+1. I like [Grace and Frankie](https://www.imdb.com/title/tt3609352) because of the main characters' shared friendship and respective families, as well as the show's generally dry humor/sarcasm. Even though it's centered around a pair of women in their 70s, the humor and some of the life situations depicted could apply to most young adult to older adult generations.
 
 ### [Grey's Anatomy]()
 
@@ -200,6 +201,14 @@ Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 Netflix | 
 
 1. It's the last great weekly serialized show that people could discuss around the water cooler between episodes. The gradual realization that the writers were mostly making it up as they were going along means you can largely just enjoy it as popcorn entertainment.
+
+### [Love Island]()
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Peacock | 
+
+1. I love this show because it’s trash reality television and allows me to turn my brain off, while still being entertaining! A lot of us use our brains for work often so it’s nice to take a break when watching TV.
 
 ### [Matlock (original)]()
 

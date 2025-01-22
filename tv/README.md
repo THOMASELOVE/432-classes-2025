@@ -9,8 +9,8 @@ Here is the list of shows mentioned by more than one student:
 Here are the shows mentioned by one student each:
 
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
-- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-IMDB), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), Friends
-- Fringe, Futurama, Game of Thrones, The Gilmore Girls, The Good Place
+- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-IMDB), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
+- [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
 
 ## Details for each show, including student comments on why you might like it...
 
@@ -97,7 +97,7 @@ Netflix, Paramount+ | 67 | 2021- | TV-14 | Cop Drama, Police Procedural | An eni
 
 1. I like [The Equalizer](https://www.imdb.com/title/tt11242246) because it has a lot of action. I think others would like this show because it has a new "villain" in every episode, and each case gets solved in one episode.
 
-### [Friends](https://www.imdb.com/title/tt0108778)
+### Friends [IMDB](https://www.imdb.com/title/tt0108778)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -105,7 +105,7 @@ Netflix | 235 | 1994-2004 | TV-14 | Feel-Good Romance, Parody | Follows the pers
 
 1. I recommend [Friends](https://www.imdb.com/title/tt0108778) because not only do I have fun watching it, but I also improve my listening and speaking skills as an international student.
 
-### [Fringe](https://www.imdb.com/title/tt0108778)
+### Fringe [IMDB](https://www.imdb.com/title/tt0108778)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -113,7 +113,7 @@ Max, Hulu | 100 | 2008-2013 | TV-14 | Suspense Mystery, Drama | An F.B.I. agent 
 
 1. I love [Fringe](https://www.imdb.com/title/tt0108778) because of the incredible blend of science and imagination in the mysteries that unfold with each episode. The show’s central characters have amazing chemistry, both as a group and in their individual relationships, creating emotional connections that grow stronger and more familial with each season. If you’re a fan of The X-Files, you’ll likely enjoy Fringe—it has a similar vibe but is less serious and a lot more fun, making it an engaging and entertaining ride from start to finish.
 
-### [Futurama](https://www.imdb.com/title/tt0149460/)
+### Futurama [IMDB](https://www.imdb.com/title/tt0149460/)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -121,7 +121,7 @@ Hulu | 180 | 1999- | TV-14 | Adult Animation, Hand-Drawn Animation | Philip J. F
 
 1. [Futurama](https://www.imdb.com/title/tt0149460/) is a good mixture of nerdy comedy.
 
-### [Game of Thrones](https://www.imdb.com/title/tt0944947/)
+### Game of Thrones [IMDB](https://www.imdb.com/title/tt0944947/)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------

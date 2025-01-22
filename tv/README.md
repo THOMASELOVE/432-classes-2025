@@ -12,8 +12,8 @@ Here are the shows mentioned by one student each:
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
 - [Grace and Frankie](#grace-and-frankie-imdb), [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb)
-- [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island](#love-island-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
-- The Mindy Project, NCIS, Northern Exposure, Parks and Recreation, Queer Eye
+- [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
+- [The Mindy Project](#the-mindy-project-imdb), NCIS, Northern Exposure, Parks and Recreation, Queer Eye
 - River Monsters, Shrinking, Suits, Supernatural, Ted Lasso
 - True Detective, The White Lotus
 
@@ -174,7 +174,7 @@ Netflix | 10 | 2018 | TV-MA | Psychological Horror, Supernatural Horror
 
 1. I like [The Haunting of Hill House](https://www.imdb.com/title/tt6763664/) because it is a horror series that doesn't rely completely on jump scares; it has an interesting plot and a great attention to detail. Others who enjoy horror movies (or those who can tolerate horror if it has a good plot) would enjoy it!
 
-### [How I Met Your Mother] [IMDB](https://www.imdb.com/title/tt0460649)
+### How I Met Your Mother [IMDB](https://www.imdb.com/title/tt0460649)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -198,54 +198,54 @@ Netflix | 9 | 2022 | TV-MA | Docudrama, Drama | A journalist with a lot to prove
 
 1. I like [Inventing Anna](https://www.imdb.com/title/tt2100976) because it is a drama based on a true story about a young woman who scams her way to the top of New York's most important and rich. The story is told from the perspective of a journalist who uncovers new clues about the woman in each episode, making it a captivating thriller about financial crime and the social dynamics of "high society."
 
-### [Lost]()
+### Lost [IMDB](https://www.imdb.com/title/tt0411008)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix | 
+Netflix | 121 | 2004-2010 | TV-14 | Adventure Epic, Psychological Drama | The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.
 
-1. It's the last great weekly serialized show that people could discuss around the water cooler between episodes. The gradual realization that the writers were mostly making it up as they were going along means you can largely just enjoy it as popcorn entertainment.
+1. [Lost](https://www.imdb.com/title/tt0411008) is the last great weekly serialized show that people could discuss around the water cooler between episodes. The gradual realization that the writers were mostly making it up as they were going along means you can largely just enjoy it as popcorn entertainment.
 
-### [Love Island]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Peacock | 
-
-1. I love this show because it’s trash reality television and allows me to turn my brain off, while still being entertaining! A lot of us use our brains for work often so it’s nice to take a break when watching TV.
-
-### [Matlock (original)]()
+### Love Island USA [IMDB](https://www.imdb.com/title/tt8819906)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Amazon Prime | 
+Peacock | 203 | 2019- | TV-MA | Dating Reality TV, Game Show | U.S. version of the British show [Love Island](https://www.imdb.com/title/tt4770018) where a group of singles come to stay in a villa for a few weeks and have to couple up with one another.
 
-1. I just watched Matlock during Christmas. I enjoy its clever storytelling and the way it keeps you guessing until the very end. The series combines intriguing legal cases with a touch of humor, making it a timeless and entertaining show. I think others might enjoy it for its charm and the brilliance of Andy Griffith’s performance as the titular lawyer.
+1. I love [Love Island USA](https://www.imdb.com/title/tt8819906) because it’s trash reality television and allows me to turn my brain off, while still being entertaining! A lot of us use our brains for work often so it’s nice to take a break when watching TV. 
 
-### [Mindhunter]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix | 
-
-1. I love this series because I really enjoy thrillers, this show is binge-worthy however it’s quite dark.
-
-### [The Mindy Project]()
+### Matlock [IMDB](https://www.imdb.com/title/tt0090481/)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Hulu
+Paramount+ | 181 | 1986-1995 | TV-PG | Legal Drama, Whodunnit | Ben Matlock is a very expensive criminal defense attorney, who charges one hundred thousand dollars to take a case. Fortunately, he's worth every penny, as he and his associates defend his clients by finding the real killer.
 
-1. It’s a hilarious and heartwarming romantic comedy centered around Dr. Mindy Lahiri’s life and career. The series showcases a strong, relatable, and flawed female lead navigating her personal and professional world and the witty humor and quirky characters make it an enjoyable watch. I believe others in the class might enjoy its mix of comedy, romance, and the charming, laugh-out-loud moments throughout.
+1. I just watched [Matlock](https://www.imdb.com/title/tt0090481/) during Christmas. I enjoy its clever storytelling and the way it keeps you guessing until the very end. The series combines intriguing legal cases with a touch of humor, making it a timeless and entertaining show. I think others might enjoy it for its charm and the brilliance of Andy Griffith’s performance as the titular lawyer.
 
-### Modern Family (mentioned by 2 students) [IMDB]()
+### Mindhunter [IMDB](https://www.imdb.com/title/tt5290382)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Hulu
+Netflix | 19 | 2017-2019 | TV-MA | Cop Drama, Docudrama | In the late 1970s, two FBI agents broaden the realm of criminal science by investigating the psychology behind murder and end up getting too close to real-life monsters.
 
-1. The reason I like this series is you do not really have to follow along and watch every episode in order to understand it. Others in the class that do not stay up to date on shows might also enjoy it.
-2. I like it because it's humorous and can teach you how to get along with family members.
+1. I love [Mindhunter](https://www.imdb.com/title/tt5290382) because I really enjoy thrillers, this show is binge-worthy however it’s quite dark.
+
+### The Mindy Project [IMDB](https://www.imdb.com/title/tt2211129)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Hulu | 117 | 2012-2017 | TV-14 | Quirky Comedy, Sitcom | A young Ob/Gyn doctor balances her personal and professional life, surrounded by quirky co-workers in a small office.
+
+1. [The Mindy Project](https://www.imdb.com/title/tt2211129) is a hilarious and heartwarming romantic comedy centered around Dr. Mindy Lahiri’s life and career. The series showcases a strong, relatable, and flawed female lead navigating her personal and professional world and the witty humor and quirky characters make it an enjoyable watch. I believe others in the class might enjoy its mix of comedy, romance, and the charming, laugh-out-loud moments throughout.
+
+### Modern Family (mentioned by 2 students) [IMDB](https://www.imdb.com/title/tt1442437)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Hulu | 250 | 2009-2020 | TV-PG | Mockumentary, Sitcom | Three different, but related, families face trials and tribulations in their own uniquely comedic ways.
+
+1. The reason I like [Modern Family](https://www.imdb.com/title/tt1442437) is you do not really have to follow along and watch every episode in order to understand it. Others in the class that do not stay up to date on shows might also enjoy it.
+2. I like [Modern Family](https://www.imdb.com/title/tt1442437) because it's humorous and can teach you how to get along with family members.
 
 ### [NCIS]()
 

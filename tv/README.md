@@ -1,22 +1,28 @@
 # Favorite TV Series for students in 432, Spring 2025
 
-Here is the list:
+See [Section 9.7](https://thomaselove.github.io/432-syllabus-2025/09-advice.html#a-bonus-opportunity) of our [Course Syllabus](https://thomaselove.github.io/432-syllabus-2025/). Thanks to those of you who participated.
 
-- [The Americans](#the-americans), [Arcane](#arcane-mentioned-by-4-students), [Better Call Saul](#better-call-saul), Boardwalk Empire, Buffy the Vampire Slayer
-- 
+Here is the list of shows mentioned by more than one student:
 
+- [Arcane](#arcane-mentioned-by-4-students-imdb), [Modern Family](#modern-family-mentioned-by-2-students-imdb)
 
-## Details
+Here are the shows mentioned by one student each:
 
-### [The Americans](https://www.imdb.com/title/tt2149175)
+- [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
+- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-IMDB), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), Friends
+- Fringe, Futurama, Game of Thrones, The Gilmore Girls, The Good Place
+
+## Details for each show, including student comments on why you might like it...
+
+### The Americans [IMDB](https://www.imdb.com/title/tt2149175)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
 Hulu, Apple TV, Amazon | 75 | 2013-2018 | TV-MA | Period Drama, Political Thriller | At the height of the Cold War, married KGB spies pose as Americans in Washington, D.C.
 
-1. I love this series because the show is based on real historical events. The show is so well paced and directed, highly recommended to those looking for a TV series that is both thrilling, but also touches on some common themes that one can relate to (e.g. like having a dysfunctional family and the process that comes from healing those relationships).
+1. I love [The Americans](https://www.imdb.com/title/tt2149175) because the show is based on real historical events. The show is so well paced and directed, highly recommended to those looking for a TV series that is both thrilling, but also touches on some common themes that one can relate to (e.g. like having a dysfunctional family and the process that comes from healing those relationships).
 
-### [Arcane](https://www.imdb.com/title/tt11126994/) (mentioned by 4 students)
+### Arcane (mentioned by 4 students) [IMDB](https://www.imdb.com/title/tt11126994/)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -27,7 +33,7 @@ Netflix | 18 | 2021-2024 | TV-14 | Action Epic, Adult Animation | Amid the stark
 3. [Arcane](https://www.imdb.com/title/tt11126994/) is animated, and the artwork + music is outstanding. The plot is a dystopian political drama, with elements of fantasy. It centers community and family relationships with the main characters being sisters that are caught in the middle of the political wars.
 4. Excellent character writing and world building in [Arcane](https://www.imdb.com/title/tt11126994/), which is especially rare coming from something adapted from a video game IP.
 
-### [Better Call Saul](https://www.imdb.com/title/tt3032476)
+### Better Call Saul [IMDB](https://www.imdb.com/title/tt3032476)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -35,7 +41,7 @@ Netflix | 63 | 2015-2022 | TV-MA | Drug Crime, Epic | The trials and tribulation
 
 1. A lot of people recommend [Breaking Bad](https://www.imdb.com/title/tt0903747), which I also really enjoyed, but I loved [Better Call Saul](https://www.imdb.com/title/tt3032476) even more. I really enjoyed the character development of Saul and others in the show and generally found it very gripping and hard not to watch the next episode. I would say there are some "slow" parts in the show but I did not find them that disinteresting that I wanted to stop watching.
 
-### [Boardwalk Empire](https://www.imdb.com/title/tt0979432)
+### Boardwalk Empire [IMDB](https://www.imdb.com/title/tt0979432)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -43,7 +49,7 @@ Max, Hulu | 56 | 2010-2014 | TV-MA | Epic, Gangster | An Atlantic City politicia
 
 1. [Boardwalk Empire](https://www.imdb.com/title/tt0979432) is about the prohibition era, and very well conducted. I love the Steve Buscemi role, and actually my nickname (that only one person uses) is "Nucki", as the name of the main character was Nucki Thompson.
 
-### [Buffy the Vampire Slayer](https://www.imdb.com/title/tt0118276)
+### Buffy the Vampire Slayer [IMDB](https://www.imdb.com/title/tt0118276)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -51,31 +57,31 @@ Hulu | 145 | 1997-2003 | TV-14 | Supernatural Fantasy, Teen Drama | A young woma
 
 1. I love the way [Buffy the Vampire Slayer](https://www.imdb.com/title/tt0118276) uses supernatural creatures to represent real-life struggles, and I love the ensemble cast. Some of my attachment to this series might be the nostalgia I feel when watching it — I started watching when it first aired, and I can’t think of a series that impacted me more when I was growing up. Others might enjoy it for its strong character development and genre-bending episodes.
 
-### [The Chosen]()
+### The Chosen [IMDB](https://www.imdb.com/title/tt0118276)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-YouTube 
+YouTube | 36 | 2017- | TV-PG | Historical Epic, Drama | The Chosen is a historical drama based on the life of Jesus and those who knew him. Set against the backdrop of Roman oppression in first-century Israel, the series shares an authentic look at Jesus' revolutionary life and teachings.
 
-1. I like this series because it intends to portray the human aspect of Jesus's life. I believe others may enjoy it because it does not overly emphasize his Divine essence.
+1. I like [The Chosen](https://www.imdb.com/title/tt0118276) because it intends to portray the human aspect of Jesus's life. I believe others may enjoy it because it does not overly emphasize his Divine essence.
 
-### [The Clinic]()
+### The Clinic [IMDB](https://www.imdb.com/title/tt0383087)
 
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+Stream? | Episodes | Years | Rating | IMDB Genre | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Amazon, Apple TV
+Amazon, Apple TV | 65 | 2003-2009 | Not Rated | Drama | Drama centering around the work and private lives of the doctors, medical professionals and staff attached to a busy Dublin clinic.
 
-1. The action goes in the Dublin (Ireland) multi-disciplinary health center. The serial depicts everyday doctors work in different fields (sa,y surgery, drug abuse recovery, women's health etc.).
+1. [The Clinic](https://www.imdb.com/title/tt0383087)'s action goes in the Dublin (Ireland) multi-disciplinary health center. The serial depicts everyday doctors work in different fields (say surgery, drug abuse recovery, women's health etc.).
 
-### [Dark Matter (2024)](https://www.imdb.com/title/tt19231492)
+### Dark Matter [IMDB](https://www.imdb.com/title/tt19231492)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
 Apple TV+ | 10 | 2024- | TV-MA | Psychological Drama, Drama | A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could've lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself.
 
-1. [Dark Matter (2024)](https://www.imdb.com/title/tt19231492) is mind-boggling sci-fi and talks about the parallel universe concept.  Anyone who loves Quantum physics will appreciate this series.
+1. [Dark Matter](https://www.imdb.com/title/tt19231492) is mind-boggling sci-fi and talks about the parallel universe concept.  Anyone who loves Quantum physics will appreciate this series.
 
-### [Dune: Prophecy](https://www.imdb.com/title/tt10466872)
+### Dune: Prophecy [IMDB](https://www.imdb.com/title/tt10466872)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
@@ -83,13 +89,13 @@ Max | 7 | 2024- | TV-MA | Action Epic, Adventure, Epic | Two Harkonnen sisters c
 
 1. [Dune: Prophecy](https://www.imdb.com/title/tt10466872) has many layered stories that explore human resilience, politics and power. It is set in a futuristic setting, where all "thinking machines" or technology as we know it, is banned but still used to secretly guide humanity.
 
-### [The Equalizer]()
+### The Equalizer [IMDB](https://www.imdb.com/title/tt11242246)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix, Amazon Prime 
+Netflix, Paramount+ | 67 | 2021- | TV-14 | Cop Drama, Police Procedural | An enigmatic figure uses her extensive skills to help those with nowhere else to turn.
 
-1. I like this show because it has a lot of action. I think others would like this show because it has a new "villain" in every episode, and each case gets solved in one episode.
+1. I like [The Equalizer](https://www.imdb.com/title/tt11242246) because it has a lot of action. I think others would like this show because it has a new "villain" in every episode, and each case gets solved in one episode.
 
 ### [Friends](https://www.imdb.com/title/tt0108778)
 
@@ -219,7 +225,7 @@ Hulu
 
 1. It’s a hilarious and heartwarming romantic comedy centered around Dr. Mindy Lahiri’s life and career. The series showcases a strong, relatable, and flawed female lead navigating her personal and professional world and the witty humor and quirky characters make it an enjoyable watch. I believe others in the class might enjoy its mix of comedy, romance, and the charming, laugh-out-loud moments throughout.
 
-### [Modern Family]() (mentioned by 2 students)
+### Modern Family (mentioned by 2 students) [IMDB]()
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------

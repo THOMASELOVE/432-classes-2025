@@ -9,9 +9,13 @@ Here is the list of shows mentioned by more than one student:
 Here are the shows mentioned by one student each:
 
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
-- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-IMDB), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
+- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-IMDB), [The Equalizer](#the-equalizer-IMDB), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
-- [Grace and Frankie](#grace-and-frankie-imdb), 
+- [Grace and Frankie](#grace-and-frankie-imdb), [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb)
+- [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island](#love-island-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
+- The Mindy Project, NCIS, Northern Exposure, Parks and Recreation, Queer Eye
+- River Monsters, Shrinking, Suits, Supernatural, Ted Lasso
+- True Detective, The White Lotus
 
 ## Details for each show, including student comments on why you might like it...
 
@@ -154,45 +158,45 @@ Netflix | 94 | 2015-2022 | TV-MA | Buddy Comedy, Sitcom | Finding out that their
 
 1. I like [Grace and Frankie](https://www.imdb.com/title/tt3609352) because of the main characters' shared friendship and respective families, as well as the show's generally dry humor/sarcasm. Even though it's centered around a pair of women in their 70s, the humor and some of the life situations depicted could apply to most young adult to older adult generations.
 
-### [Grey's Anatomy]()
+### Grey's Anatomy [IMDB](https://www.imdb.com/title/tt0413573)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix, Hulu
+Netflix, Hulu | 448 | 2005- | TV-14 | Feel-Good Romance, Medical Drama | A drama centered on the personal and professional lives of five surgical interns and their supervisors.
 
-1. I love this series because it combines intense medical drama with deeply emotional and relatable character arcs, making it both engaging and heartfelt.
+1. I love [Grey's Anatomy](https://www.imdb.com/title/tt0413573) because it combines intense medical drama with deeply emotional and relatable character arcs, making it both engaging and heartfelt.
 
-### [The Haunting of Hill House]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix 
-
-1. I like this series because it is a horror series that doesn't rely completely on jump scares; it has an interesting plot and a great attention to detail. Others who enjoy horror movies (or those who can tolerate horror if it has a good plot) would enjoy it!
-
-### [How I Met Your Mother]()
+### The Haunting of Hill House [IMDB](https://www.imdb.com/title/tt6763664/)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix
+Netflix | 10 | 2018 | TV-MA | Psychological Horror, Supernatural Horror
 
-1. Just a lighthearted show that invokes joy, nostalgia, sadness, laughter, etc.
+1. I like [The Haunting of Hill House](https://www.imdb.com/title/tt6763664/) because it is a horror series that doesn't rely completely on jump scares; it has an interesting plot and a great attention to detail. Others who enjoy horror movies (or those who can tolerate horror if it has a good plot) would enjoy it!
 
-### [Impractical Jokers]()
-
-Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
-:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-truTV (cable)
-
-1. The challenges and things the four friends in the show do I find to be quite hilarious. I think others in the class that have not previously watched the show would enjoy the humor in it as well. 
-
-### [Inventing Anna]()
+### [How I Met Your Mother] [IMDB](https://www.imdb.com/title/tt0460649)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
-Netflix | 
+Netflix, Hulu | 208 | 2005-2014 | TV-14 | Romantic Comedy, Sitcom | A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.
 
-1. I like this show because it is a drama based on a true story about a young woman who scams her way to the top of New York's most important and rich. The story is told from the perspective of a journalist who uncovers new clues about the woman in each episode, making it a captivating thriller about financial crime and the social dynamics of "high society."
+1. [How I Met Your Mother](https://www.imdb.com/title/tt0460649) is just a lighthearted show that invokes joy, nostalgia, sadness, laughter, etc.
+
+### Impractical Jokers [IMDB](https://www.imdb.com/title/tt2100976)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Hulu | 305 | 2011- | TV-14 | Hidden Camera, Comedy | Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera.
+
+1. The challenges and things the four friends in [Impractical Jokers](https://www.imdb.com/title/tt2100976) do I find to be quite hilarious. I think others in the class that have not previously watched the show would enjoy the humor in it as well. 
+
+### Inventing Anna [IMDB](https://www.imdb.com/title/tt2100976)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Netflix | 9 | 2022 | TV-MA | Docudrama, Drama | A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.
+
+1. I like [Inventing Anna](https://www.imdb.com/title/tt2100976) because it is a drama based on a true story about a young woman who scams her way to the top of New York's most important and rich. The story is told from the perspective of a journalist who uncovers new clues about the woman in each episode, making it a captivating thriller about financial crime and the social dynamics of "high society."
 
 ### [Lost]()
 

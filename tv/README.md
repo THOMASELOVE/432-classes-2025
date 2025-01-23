@@ -17,7 +17,7 @@ Here are the shows mentioned by one student each:
 - [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb)
 - [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
-[A few recommendations from Dr. Love](#a-few-recommendations-from-dr.-love)
+[A few recommendations from Dr. Love](#a-few-recommendations-from-dr-love)
 
 ## Details for each show, including student comments on why you might like it...
 

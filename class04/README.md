@@ -21,4 +21,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. Here's [something we'll look at today](https://github.com/THOMASELOVE/432-classes-2025/tree/main/tv).
+2. The `support1000` example might interest you. It's posted (in its current form) to our Shared Google Drive.
+3. The Lab 1 answer sketch and grading rubric will be posted to our Shared Google Drive Friday at noon. If you haven't yet submitted Lab 1, do so before noon Friday.

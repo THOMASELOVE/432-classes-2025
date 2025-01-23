@@ -5,7 +5,7 @@ See [Section 9.7](https://thomaselove.github.io/432-syllabus-2025/09-advice.html
 Here is the list of shows mentioned by more than one student:
 
 - Four mentioned [Arcane](#arcane-mentioned-by-4-students-imdb)
-- Two mentioned [The Good Place](#the-good-place-mentioned-by-2-students-imdb), and [Modern Family](#modern-family-mentioned-by-2-students-imdb)
+- Two mentioned [The Good Place](#the-good-place-mentioned-by-2-students-imdb), [Grey's Anatomy](#greys-anatomy-mentioned-by-2-students-imdb), and [Modern Family](#modern-family-mentioned-by-2-students-imdb)
 
 Here are the shows mentioned by one student each:
 
@@ -162,13 +162,14 @@ Netflix | 94 | 2015-2022 | TV-MA | Buddy Comedy, Sitcom | Finding out that their
 
 1. I like [Grace and Frankie](https://www.imdb.com/title/tt3609352) because of the main characters' shared friendship and respective families, as well as the show's generally dry humor/sarcasm. Even though it's centered around a pair of women in their 70s, the humor and some of the life situations depicted could apply to most young adult to older adult generations.
 
-### Grey's Anatomy [IMDB](https://www.imdb.com/title/tt0413573)
+### Grey's Anatomy (mentioned by 2 students) [IMDB](https://www.imdb.com/title/tt0413573)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
 Netflix, Hulu | 448 | 2005- | TV-14 | Feel-Good Romance, Medical Drama | A drama centered on the personal and professional lives of five surgical interns and their supervisors.
 
 1. I love [Grey's Anatomy](https://www.imdb.com/title/tt0413573) because it combines intense medical drama with deeply emotional and relatable character arcs, making it both engaging and heartfelt.
+2. I’m drawn to [Grey's Anatomy](https://www.imdb.com/title/tt0413573) because it masterfully blends intense medical situations with deep character exploration. The show addresses intricate personal challenges and societal issues while offering a sense of familiarity through its recurring characters and plots. This combination makes it both impactful and relatable for audiences
 
 ### The Haunting of Hill House [IMDB](https://www.imdb.com/title/tt6763664/)
 

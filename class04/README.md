@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The Lab 1 answer sketch and grading rubric is now available on on Shared Google Drive, since it seems everyone has submitted the Lab.
+1. The Lab 1 answer sketch and grading rubric is now available on our Shared Google Drive, since it seems everyone has submitted the Lab.
 2. Here's [something we'll look at today](https://github.com/THOMASELOVE/432-classes-2025/tree/main/tv).
 3. The `support1000` example might interest you. It's posted (in its current form) to our Shared Google Drive. More to come.
 

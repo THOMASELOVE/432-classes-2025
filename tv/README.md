@@ -4,18 +4,19 @@ See [Section 9.7](https://thomaselove.github.io/432-syllabus-2025/09-advice.html
 
 Here is the list of shows mentioned by more than one student:
 
-- [Arcane](#arcane-mentioned-by-4-students-imdb), [Modern Family](#modern-family-mentioned-by-2-students-imdb)
+- Four mentioned [Arcane](#arcane-mentioned-by-4-students-imdb)
+- Two mentioned [The Good Place](#the-good-place-mentioned-by-2-students-imdb), and [Modern Family](#modern-family-mentioned-by-2-students-imdb)
 
 Here are the shows mentioned by one student each:
 
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
-- [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
-- [Grace and Frankie](#grace-and-frankie-imdb), [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb)
-- [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
-- [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb)
-- [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb)
-- [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
+- [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [Grace and Frankie](#grace-and-frankie-imdb),
+- [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb)
+- [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb)
+- [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb)
+- [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb)
+- [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
 [A few recommendations from Dr. Love](#a-few-recommendations-from-dr-love)
 
@@ -144,13 +145,14 @@ Netflix | 154 | 2000-2007 | TV-PG | Coming-of-Age, Teen Drama | A dramedy center
 
 1. A big portion of [Gilmore Girls](https://www.imdb.com/title/tt0238784) being my favorite series is nostalgia since I grew up watching it every Tuesday night with my mom and sisters, but it’s a fun fast-paced comedy/drama that is filled with witty dialogue and pop culture references.
 
-### The Good Place [IMDB](https://www.imdb.com/title/tt4955642)
+### The Good Place (mentioned by 2 students) [IMDB](https://www.imdb.com/title/tt4955642)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
 Netflix | 50 | 2016-2020 | TV-PG | Feel-Good Romance, High-Concept Comedy | Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.
 
 1. I like [The Good Place](https://www.imdb.com/title/tt4955642) because of its mix of humor and philosophical themes. It takes place in a unique setting of the afterlife that allows for a lot of creative worldbuilding.
+2. I like [The Good Place](https://www.imdb.com/title/tt4955642) because it is a funny sitcom but also makes you think as it engages with deep questions like how to lead a meaningful life in an entertaining way
 
 ### Grace and Frankie [IMDB](https://www.imdb.com/title/tt3609352)
 
@@ -353,7 +355,7 @@ YouTube | [Taskmaster](https://www.imdb.com/title/tt4934214/)
 Netflix | [The Great British Baking Show](https://www.imdb.com/title/tt1877368), [Arrested Development](https://www.imdb.com/title/tt0367279) (seasons 1-3)
 Amazon Prime | [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792), [Bosch](https://www.imdb.com/title/tt3502248), [Frasier](https://www.imdb.com/title/tt0106004)
 Disney+ | [Agents of S.H.I.E.L.D](https://www.imdb.com/title/tt2364582), [The Simpsons](https://www.imdb.com/title/tt0096697)
-Hulu | [Welcome to Wrexham](https://www.imdb.com/title/tt14674086/), [Only Murders in the Building](https://www.imdb.com/title/tt11691774), [Sherlock](https://www.imdb.com/title/tt1475582) (seasons 1-3), [MASH](https://www.imdb.com/title/tt0068098)
+Hulu | [Welcome to Wrexham](https://www.imdb.com/title/tt14674086/), [Only Murders in the Building](https://www.imdb.com/title/tt11691774), [Sherlock](https://www.imdb.com/title/tt1475582) (seasons 1-3), [MASH](https://www.imdb.com/title/tt0068098), [Brooklyn 99](https://www.imdb.com/title/tt2467372/)
 Max | [The West Wing](https://www.imdb.com/title/tt0200276/), [Veep](https://www.imdb.com/title/tt1759761), [The Wire](https://www.imdb.com/title/tt0306414)
 Peacock | [30 Rock](https://www.imdb.com/title/tt0496424), [Parks and Recreation](https://www.imdb.com/title/tt1266020), [Columbo](https://www.imdb.com/title/tt1466074) (1970s episodes)
 Paramount+ | [Star Trek: Strange New Worlds](https://www.imdb.com/title/tt12327578), [Taxi](https://www.imdb.com/title/tt0077089), [The Odd Couple](https://www.imdb.com/title/tt0065329)

@@ -17,6 +17,8 @@ Here are the shows mentioned by one student each:
 - [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb)
 - [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
+[A few recommendations from Dr. Love](#a-few-recommendations-from-dr.-love)
+
 ## Details for each show, including student comments on why you might like it...
 
 ### The Americans [IMDB](https://www.imdb.com/title/tt2149175)
@@ -342,3 +344,19 @@ Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 Max | 21 | 2021-2025 | TV-MA | Dark Comedy, Satire | The exploits of various guests and employees of a luxury resort over the span of a week.
 
 1. [The White Lotus](https://www.imdb.com/title/tt13406094) anthology series is a social satire and compelling drama following privileged vacationers and hotel staff at a luxurious resort where their flaws and dysfunctions slowly surface. Its an exploration of human nature using a mix of humor, intrigue, and dark complexity.
+
+## A few recommendations from Dr. Love
+
+If you have | then I recommend...
+:----------: | :----------------------------------------------------------------------------------------------
+YouTube | [Taskmaster](https://www.imdb.com/title/tt4934214/)
+Netflix | [The Great British Baking Show](https://www.imdb.com/title/tt1877368), [Arrested Development](https://www.imdb.com/title/tt0367279) (seasons 1-3)
+Amazon Prime | [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792), [Bosch](https://www.imdb.com/title/tt3502248), [Frasier](https://www.imdb.com/title/tt0106004)
+Disney+ | [Agents of S.H.I.E.L.D](https://www.imdb.com/title/tt2364582), [The Simpsons](https://www.imdb.com/title/tt0096697)
+Hulu | [Welcome to Wrexham](https://www.imdb.com/title/tt14674086/), [Only Murders in the Building](https://www.imdb.com/title/tt11691774), [Sherlock](https://www.imdb.com/title/tt1475582) (seasons 1-3), [M*A*S*H](https://www.imdb.com/title/tt0068098)
+Max | [The West Wing](https://www.imdb.com/title/tt0200276/), [Veep](https://www.imdb.com/title/tt1759761), [The Wire](https://www.imdb.com/title/tt0306414)
+Peacock | [30 Rock](https://www.imdb.com/title/tt0496424), [Parks and Recreation](https://www.imdb.com/title/tt1266020), [Columbo](https://www.imdb.com/title/tt1466074) (1970s episodes)
+Paramount+ | [Star Trek: Strange New Worlds](https://www.imdb.com/title/tt12327578), [Taxi](https://www.imdb.com/title/tt0077089), [The Odd Couple](https://www.imdb.com/title/tt0065329)
+Apple TV+ | [Slow Horses](https://www.imdb.com/title/tt5875444), [Ted Lasso](https://www.imdb.com/title/tt10986410)
+
+I also watch a fair amount of [Dropout](https://signup.dropout.tv/), which is great if you like what they do.

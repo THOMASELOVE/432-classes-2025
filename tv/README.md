@@ -13,9 +13,9 @@ Here are the shows mentioned by one student each:
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [The Good Place](#the-good-place-imdb)
 - [Grace and Frankie](#grace-and-frankie-imdb), [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb)
 - [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb)
-- [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [Queer Eye](#queer-eye-imdb)
-- [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb)
-- [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
+- [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb)
+- [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb)
+- [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
 ## Details for each show, including student comments on why you might like it...
 
@@ -270,6 +270,14 @@ Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 Peacock | 124 | 2009-2015 | TV-14 | Mockumentary, Satire | The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
 
 1. [Parks and Recreation](https://www.imdb.com/title/tt1266020) has always been my go to show when I need something to distract me. I find that it is funny in a good-hearted way unlike some other sitcoms that can lean into second hand embarrassment.
+
+### The Queen's Gambit [IMDB](https://www.imdb.com/title/tt10048342/)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Netflix | 7 | 2020 | TV-MA | Coming-of-Age, Epic | Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.
+
+1. I love [The Queen's Gambit](https://www.imdb.com/title/tt10048342/) because I think it's a great balance between thought-provoking and dramatic. I also love that it takes place in the 50s-60s, since the outfits and sets are really interesting.
 
 ### Queer Eye [IMDB](https://www.imdb.com/title/tt7259746)
 

@@ -21,6 +21,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Here's [something we'll look at today](https://github.com/THOMASELOVE/432-classes-2025/tree/main/tv).
-2. The `support1000` example might interest you. It's posted (in its current form) to our Shared Google Drive.
-3. The Lab 1 answer sketch and grading rubric will be posted to our Shared Google Drive Friday at noon. If you haven't yet submitted Lab 1, do so before noon Friday.
+1. The Lab 1 answer sketch and grading rubric is now available on on Shared Google Drive, since it seems everyone has submitted the Lab.
+2. Here's [something we'll look at today](https://github.com/THOMASELOVE/432-classes-2025/tree/main/tv).
+3. The `support1000` example might interest you. It's posted (in its current form) to our Shared Google Drive. More to come.
+
+## What should I be working on?
+
+- Lab 2, due Wednesday 2025-01-29 at noon.
+- Project A Plan, due Wednesday 2025-02-05 at noon
+- Finish reading "[How to be a modern scientist](https://leanpub.com/modernscientist)" by the end of January.

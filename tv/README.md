@@ -12,11 +12,11 @@ Here are the shows mentioned by one student each:
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [Grace and Frankie](#grace-and-frankie-imdb),
-- [Grey's Anatomy](#greys-anatomy-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb)
-- [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb)
-- [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb)
-- [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb)
-- [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
+- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb)
+- [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb)
+- [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb)
+- [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb)
+- [The White Lotus](#the-white-lotus-imdb)
 
 [A few recommendations from Dr. Love](#a-few-recommendations-from-dr-love)
 
@@ -361,5 +361,3 @@ Max | [The West Wing](https://www.imdb.com/title/tt0200276/), [Veep](https://www
 Peacock | [30 Rock](https://www.imdb.com/title/tt0496424), [Parks and Recreation](https://www.imdb.com/title/tt1266020), [Columbo](https://www.imdb.com/title/tt1466074) (1970s episodes)
 Paramount+ | [Star Trek: Strange New Worlds](https://www.imdb.com/title/tt12327578), [Taxi](https://www.imdb.com/title/tt0077089), [The Odd Couple](https://www.imdb.com/title/tt0065329)
 Apple TV+ | [Slow Horses](https://www.imdb.com/title/tt5875444), [Ted Lasso](https://www.imdb.com/title/tt10986410)
-
-I also watch a fair amount of [Dropout](https://signup.dropout.tv/), which is great if you like what they do.

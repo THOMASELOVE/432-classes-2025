@@ -14,4 +14,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. We'll discuss the instructions for [Project A](https://thomaselove.github.io/432-2025/projA.html) in some detail today.
+1. I adjusted [the template for Lab 2](https://github.com/THOMASELOVE/432-data/blob/master/data/432_lab2_template.qmd) on 2025-01-24 to include Question 1, part D. Make sure you include a response to **1d** in your submission to [Canvas](https://canvas.case.edu) due Wednesday 2025-01-29 at noon.
+2. We'll discuss the instructions for [Project A](https://thomaselove.github.io/432-2025/projA.html) in some detail today.

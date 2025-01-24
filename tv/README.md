@@ -5,14 +5,14 @@ See [Section 9.7](https://thomaselove.github.io/432-syllabus-2025/09-advice.html
 Here is the list of shows mentioned by more than one student:
 
 - Four mentioned [Arcane](#arcane-mentioned-by-4-students-imdb)
-- Two mentioned [The Good Place](#the-good-place-mentioned-by-2-students-imdb), [Grey's Anatomy](#greys-anatomy-mentioned-by-2-students-imdb), and [Modern Family](#modern-family-mentioned-by-2-students-imdb)
+- Two mentioned [The Good Place](#the-good-place-mentioned-by-2-students-imdb), [Grey's Anatomy](#greys-anatomy-mentioned-by-2-students-imdb), [How I Met Your Mother](#how-i-met-your-mother-mentioned-by-2-students-imdb), and [Modern Family](#modern-family-mentioned-by-2-students-imdb)
 
 Here are the shows mentioned by one student each:
 
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [Grace and Frankie](#grace-and-frankie-imdb),
-- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [How I Met Your Mother](#how-i-met-your-mother-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb)
+- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb)
 - [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb)
 - [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb)
 - [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb)
@@ -179,13 +179,14 @@ Netflix | 10 | 2018 | TV-MA | Psychological Horror, Supernatural Horror
 
 1. I like [The Haunting of Hill House](https://www.imdb.com/title/tt6763664/) because it is a horror series that doesn't rely completely on jump scares; it has an interesting plot and a great attention to detail. Others who enjoy horror movies (or those who can tolerate horror if it has a good plot) would enjoy it!
 
-### How I Met Your Mother [IMDB](https://www.imdb.com/title/tt0460649)
+### How I Met Your Mother (mentioned by 2 students) [IMDB](https://www.imdb.com/title/tt0460649)
 
 Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 :---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
 Netflix, Hulu | 208 | 2005-2014 | TV-14 | Romantic Comedy, Sitcom | A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.
 
 1. [How I Met Your Mother](https://www.imdb.com/title/tt0460649) is just a lighthearted show that invokes joy, nostalgia, sadness, laughter, etc.
+2. [How I Met Your Mother](https://www.imdb.com/title/tt0460649) is a light-hearted comedy sitcom with a unique storyline and good actors. Ideal for a stress-free watch following a long day at work or after spending hours on a 432 Lab due the same day!
 
 ### Impractical Jokers [IMDB](https://www.imdb.com/title/tt2100976)
 

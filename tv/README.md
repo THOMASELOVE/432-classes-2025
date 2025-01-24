@@ -12,10 +12,10 @@ Here are the shows mentioned by one student each:
 - [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
 - [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
 - [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [Grace and Frankie](#grace-and-frankie-imdb),
-- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb)
-- [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb)
-- [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb)
-- [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb)
+- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb)
+- [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb)
+- [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb)
+- [Suits](#suits-imdb), [The Sopranos](#the-sopranos-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb)
 - [The White Lotus](#the-white-lotus-imdb)
 
 [A few recommendations from Dr. Love](#a-few-recommendations-from-dr-love)
@@ -308,6 +308,14 @@ Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 Apple TV+ | 23 | 2023- | TV-MA | Comedy, Drama | A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people's lives - including his own.
 
 1. [Shrinking](https://www.imdb.com/title/tt15677150) is about a psychiatrist who is dealing with his own grief while trying to help his patients. The show explores themes of mental health, personal growth, and the human side of therapy, which I find really insightful and engaging. It's a great blend of humor and emotion, and I’ve found it to be both thought-provoking and entertaining.
+
+### The Sopranos [IMDB](https://www.imdb.com/title/tt0141842/)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Max | 86 | 1999-2007 | TV-MA | Epic, Gangster | New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.
+
+1. I enjoy [The Sopranos](https://www.imdb.com/title/tt0141842/) due to the complex and nuanced portrayal of the main characters and their morals/motivations, which is interesting to see in a fictional work.
 
 ### Suits [IMDB](https://www.imdb.com/title/tt1632701)
 

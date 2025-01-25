@@ -19,5 +19,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. I've added a bonus opportunity on [Campuswire](https://campuswire.com/). It's pinned at the top of the list for now, and doesn't expire until at least Spring Break. Please respond, and give a thumbs up to your colleagues with helpful suggestions.
 4. Today, we'll start using the `rms` package, and here is a useful [Introduction to the R `rms` package: The Linear Model](https://hbiostat.org/bbr/rmsintro.html) by Frank Harrell.
 5. Be sure you finish reading [How to be a Modern Scientist](https://leanpub.com/modernscientist) before Class 7, next Tuesday.
-
+6. The `support1000` example includes material on the `rms` package for both linear and logistic regression. Remember to find it on our Shared Google Drive.
 

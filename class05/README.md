@@ -20,7 +20,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. Be sure you finish reading [How to be a Modern Scientist](https://leanpub.com/modernscientist) before Class 7, next Tuesday.
 5. Today, we'll start using the `rms` package, and here is a useful [Introduction to the R `rms` package: The Linear Model](https://hbiostat.org/bbr/rmsintro.html) by Frank Harrell.
 6. The `support1000` example includes material on the `rms` package for both linear and logistic regression. Remember to find it on our Shared Google Drive.
-7. The Course Notes discuss the `rms` package for linear regression and the use of polynomials and splines (all topics for this week) in Chapters [13](https://thomaselove.github.io/432-notes/nonlinearity.html) and [14](https://thomaselove.github.io/432-notes/olsfitting.html), primarily. For logistic rregression, it's mostly chapter [21](https://thomaselove.github.io/432-notes/logistic3.html), although chapter [22](https://thomaselove.github.io/432-notes/effectsize.html) has some very useful material (which applies to all kinds of regression models) on effect sizes.
+7. The Course Notes discuss the `rms` package for linear regression and the use of polynomials and splines (all topics for this week) in Chapters [13](https://thomaselove.github.io/432-notes/nonlinearity.html) and [14](https://thomaselove.github.io/432-notes/olsfitting.html), primarily. For logistic regression, it's mostly chapter [21](https://thomaselove.github.io/432-notes/logistic3.html), although chapter [22](https://thomaselove.github.io/432-notes/effectsize.html) has some very useful material (which applies to all kinds of regression models) on effect sizes.
 
 ## Coming Soon
 

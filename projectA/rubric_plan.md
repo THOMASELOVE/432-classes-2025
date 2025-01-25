@@ -1,12 +1,16 @@
 # How Will We Assess the Project A Plans?
 
-Step 1 for me is to ensure that your planned linear and logistic regression outcomes, as outlined in Sections 6 and 7 of the Plan document, are appropriate for what you're going to be doing in the rest of the Project. If that's not true, I won't look at anything else, because that has to be right before we move on. Instructions on [Choosing Your Data are found here](https://thomaselove.github.io/432-2025/projA.html#choosing-your-data).
+Step 1 for me once I see your files appear on Canvas will be to ensure that your planned linear and logistic regression outcomes, as outlined in Sections 6 and 7 of the Plan document, are appropriate for what you're going to be doing in the rest of the Project. If that's not true, I won't look at anything else, because that has to be right before we move on. Instructions on [Choosing Your Data are found here](https://thomaselove.github.io/432-2025/projA.html#choosing-your-data).
 
 Step 2 for me is to ensure that you have a reasonable set of predictors (matching what is required in the instructions) and a reasonable sample size (also matching what is required in the instructions) for both your linear regression model and your logistic regression model. Again, if that's not true, I won't look at anything else, because that has to be right before we move on.
 
-The third step is to look the Plan over much more carefully. In doing this, I have 20 things in mind, some more complex than others, and some more important than others. I thought sharing my list might help before you start polishing up your submission. Instructions for [the Plan are found here](https://thomaselove.github.io/432-2025/projA.html#the-project-a-plan).
+**If you don't get through Steps 1 and 2 here, I'll make you resubmit the work, at a penalty.**
 
-1. Does your on-time Canvas submission include your HTML file, your Quarto file, and your .Rds cleaned data set?
+Once I think your choice of data and other issues related to Steps 1 and 2 above, then my last step is to look the Plan over much more carefully. In doing this, I have 20 things in mind, some more complex than others, and some more important than others. I may assess all of them, perhaps with the help of the TAs, or just some. We'll see what happens, but all of these issues are also important in the final Project A, not just in the plan.
+
+I thought sharing my list might help before you start polishing up your Project A Plan submission. Instructions for [the Plan are found here](https://thomaselove.github.io/432-2025/projA.html#the-project-a-plan).
+
+1. Does your **on-time** Canvas submission include your HTML file, your Quarto file, and your .Rds cleaned data set?
 2. Are you working alone or with a partner?
     - If you are working with a partner, did your partner also submit a one-page note on Canvas, as requested?
     - If you are working with a partner, are both your names in the "author" section of the YAML?

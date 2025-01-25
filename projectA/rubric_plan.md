@@ -1,6 +1,10 @@
 # How Will We Assess the Project A Plans?
 
-I have 20 things in mind, some more complex than others, and some more important than others. I thought sharing my list might help.
+Step 1 for me is to ensure that your planned linear and logistic regression outcomes, as outlined in Sections 6 and 7 of the Plan document, are appropriate for what you're going to be doing in the rest of the Project. If that's not true, I won't look at anything else, because that has to be right before we move on. Instructions on [Choosing Your Data are found here](https://thomaselove.github.io/432-2025/projA.html#choosing-your-data).
+
+Step 2 for me is to ensure that you have a reasonable set of predictors (matching what is required in the instructions) and a reasonable sample size (also matching what is required in the instructions) for both your linear regression model and your logistic regression model. Again, if that's not true, I won't look at anything else, because that has to be right before we move on.
+
+The third step is to look the Plan over much more carefully. In doing this, I have 20 things in mind, some more complex than others, and some more important than others. I thought sharing my list might help before you start polishing up your submission. Instructions for [the Plan are found here](https://thomaselove.github.io/432-2025/projA.html#the-project-a-plan).
 
 1. Does your on-time Canvas submission include your HTML file, your Quarto file, and your .Rds cleaned data set?
 2. Are you working alone or with a partner?
@@ -49,6 +53,7 @@ I have 20 things in mind, some more complex than others, and some more important
     - Is section 6.2 called My Quantitative Outcome and does it contain what the instructions call for?
     - Is section 6.3 called My Planned Predictors (Linear Model) and does it contain what the instructions call for?
         - In particular, does the end of section 6.3 contain brief specifications of your guesses as to the expected direction of relationships between your (quantitative) outcome and each of your planned predictors, along with some brief motivation for those guesses from your understanding of the problem of interest (rather than a data display?)
+    - **Important**: Sections 6 and 7 are places where students often try to use the term "statistical significance" or any synonym for it. **Don't do this**. Set up your research questions so they define things (quantities, like percentages or mean differences or slopes in a model) that can be estimated.
 16. Is the section numbered 7 in the Table of Contents called Logistic Regression Plans?
     - Is section 7.1 called My Second Research Question and does it contain what the instructions call for?
     - Is section 7.2 called My Binary Outcome and does it contain what the instructions call for?
@@ -57,7 +62,8 @@ I have 20 things in mind, some more complex than others, and some more important
 17. Are the sections numbered 8-10 in the Table of Contents appropriately labeled "Affirmation", "References" and "Session Information", respectively, and does each of those sections contain what is required in them, according to the instructions?
 18. Is your R version 4.4.2 or later, according to your session information?
 19. How many spelling errors did we find by running F7 on your Quarto file? How many more did we find in the HTML document itself?
-20. Is all of your work in the HTML reasonably attractive?
+    - Did you use the term "statistical significance" or any synonym for this anywhere in the document? If so, we'll be unhappy. **Don't do this.**
+20. Is your HTML file reasonably attractive?
     - Do you exclusively use complete English sentences in each section of the document, outside of code chunks?
     - Have you remembered to leave a **blank line** in your Quarto file...
         - before and after **every code chunk**, **every heading for every section, subsection or subsubsection**, and **every paragraph of text**.

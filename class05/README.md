@@ -14,7 +14,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. We hope to have results for you today on [Lab 1]. I tweaked the rubric a bit on 2025-01-26, so be sure to grab the latest version from our Shared Drive. The main change I made is regarding Lab 1 question 2a.
+1. We have feedback and grades for [Lab 1](https://thomaselove.github.io/432-2025/lab1.html) posted today to the **Course Grading Roster for Students in 432 - Spring 2025** on our Shared Google Drive.
+    - I sent an email to your CWRU email this morning (2025-01-28) with your three-digit **Lab Code for 432**, which you'll need in order to identify your grade and feedback on Labs in that Roster.
+    - I tweaked the Lab 1 rubric a bit on 2025-01-26, so be sure to grab the latest version from our Shared Drive. The main change I made is regarding Lab 1 question 2a.
     - Some students attempted to interpret the results without comparing two counties, as in:
         - "Specifically, for every one-unit improvement in the food environment in a county, the obesity rate decreases by..."
     - **Going forward, we’d prefer to see your interpretation framed as a comparison between two different (hypothetical) counties, rather than as a causal effect implied by using a description of the impact of an improvement or decline of a certain size in a single county.**

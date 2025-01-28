@@ -9,14 +9,14 @@ Here is the list of shows mentioned by more than one student:
 
 Here are the shows mentioned by one student each:
 
-- [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [The Chosen](#the-chosen-imdb)
-- [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb), [Friends](#friends-imdb)
-- [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb), [Grace and Frankie](#grace-and-frankie-imdb),
-- [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb), [Love Island USA](#love-island-usa-imdb)
-- [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb), [Northern Exposure](#northern-exposure-imdb)
-- [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb), [Shrinking](#shrinking-imdb)
-- [Suits](#suits-imdb), [The Sopranos](#the-sopranos-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb), [True Detective](#true-detective-imdb)
-- [The White Lotus](#the-white-lotus-imdb)
+- [The Americans](#the-americans-imdb), [Better Call Saul](#better-call-saul-imdb), [Boardwalk Empire](#boardwalk-empire-imdb), [Buffy the Vampire Slayer](#buffy-the-vampire-slayer-imdb), [Burn Notice](#burn-notice-imdb),
+- [The Chosen](#the-chosen-imdb), [The Clinic](#the-clinic-imdb), [Dark Matter](#dark-matter-imdb), [Dune: Prophecy](#dune-prophecy-imdb), [The Equalizer](#the-equalizer-imdb)
+- [Friends](#friends-imdb), [Fringe](#fringe-imdb), [Futurama](#futurama-imdb), [Game of Thrones](#game-of-thrones-imdb), [The Gilmore Girls](#the-gilmore-girls-imdb)
+- [Grace and Frankie](#grace-and-frankie-imdb), [The Haunting of Hill House](#the-haunting-of-hill-house-imdb), [Impractical Jokers](#impractical-jokers-imdb), [Inventing Anna](#inventing-anna-imdb), [Lost](#lost-imdb)
+- [Love Island USA](#love-island-usa-imdb), [Matlock](#matlock-imdb), [Mindhunter](#mindhunter-imdb), [The Mindy Project](#the-mindy-project-imdb), [NCIS](#ncis-imdb)
+- [Northern Exposure](#northern-exposure-imdb), [Parks and Recreation](#parks-and-recreation-imdb), [The Queen's Gambit](#the-queens-gambit-imdb), [Queer Eye](#queer-eye-imdb), [River Monsters](#river-monsters-imdb)
+- [Shrinking](#shrinking-imdb), [Suits](#suits-imdb), [The Sopranos](#the-sopranos-imdb), [Supernatural](#supernatural-imdb), [Ted Lasso](#ted-lasso-imdb)
+- [True Detective](#true-detective-imdb), [The White Lotus](#the-white-lotus-imdb)
 
 [A few recommendations from Dr. Love](#a-few-recommendations-from-dr-love)
 
@@ -64,6 +64,14 @@ Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
 Hulu | 145 | 1997-2003 | TV-14 | Supernatural Fantasy, Teen Drama | A young woman, destined to slay vampires, demons and other infernal creatures, deals with her life fighting evil, with the help of her friends.
 
 1. I love the way [Buffy the Vampire Slayer](https://www.imdb.com/title/tt0118276) uses supernatural creatures to represent real-life struggles, and I love the ensemble cast. Some of my attachment to this series might be the nostalgia I feel when watching it — I started watching when it first aired, and I can’t think of a series that impacted me more when I was growing up. Others might enjoy it for its strong character development and genre-bending episodes.
+
+### Burn Notice [IMDB](https://www.imdb.com/title/tt0810788/)
+
+Stream? | Episodes | Years | Rating | IMDB Genres | IMDB Description
+:---------: | :--: | :-------: | :-------: | :----------------: | :--------------------------------------------------------------------------
+Hulu | 111 | 2007-2013 | TV-PG | Spy, Action | US spy Michael Weston suddenly finds himself 'burned'-discredited without any form of procedure. Since no one will really help him, he survives by doing impossible jobs for desperate people in Miami.
+
+1. [Burn Notice](https://www.imdb.com/title/tt0810788/) is a fun spy show with an intriguing premise that hits the right balance of action and humor.
 
 ### The Chosen [IMDB](https://www.imdb.com/title/tt0118276)
 

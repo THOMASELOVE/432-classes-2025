@@ -14,4 +14,4 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. I have added the `cobalt` package to the list of [R packages you should install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) for 432. We'll use it in Class 08.

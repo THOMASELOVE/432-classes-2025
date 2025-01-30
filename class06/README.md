@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - <https://nhorton.people.amherst.edu/help/> for more on the Health Evaluation and Linkage to Primary Care (HELP) trial
 - [Stack Overflow](https://stackoverflow.com/questions/38276973/r-how-to-read-nomograms-to-predict-the-desired-variable) has a nice response to the question "How do you read the kind of nomogram that `rms` fits produce?
-- Easystats tools, including [model_parameters](https://easystats.github.io/parameters/reference/model_parameters.default.html) and [model_performance](https://easystats.github.io/performance/reference/model_performance.lm.html)
+- Easystats tools, including [model_parameters](https://easystats.github.io/parameters/reference/model_parameters.default.html) and [model_performance](https://easystats.github.io/performance/reference/model_performance.lm.html) are very helpful. See [the 431 Book](https://thomaselove.github.io/431-book/) for more examples using [the easystats framework](https://easystats.github.io/easystats/) in R.
 - Gauthier, J., Wu, Q.V. & Gooley, T.A. [Cubic splines to model relationships between continuous variables and outcomes: a guide for clinicians](https://www.nature.com/articles/s41409-019-0679-x). Bone Marrow Transplant 55, 675–680 (2020).
 
 ## What should I be working on?

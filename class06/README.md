@@ -14,4 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I have added the `cobalt` package to the list of [R packages you should install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) for 432. We'll use it in Class 08.
+1. The [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) answer sketch and grading rubric is now available in our Shared Google Drive. Thanks to you all for submitting it in a timely way.
+2. I have added the `cobalt` package to the list of [R packages you should install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install) for 432. We'll use it in Class 08.
+
+

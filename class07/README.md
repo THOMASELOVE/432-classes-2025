@@ -23,3 +23,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If your outcomes don't meet these standards, I **might** be meaningfully concerned about your sample size, but I might not.
 3. The Project A plan is due at noon Wednesday 2025-02-05 to [Canvas](https://canvas.case.edu/). Please make that deadline.
 
+## One Last Thing
+
+We rescued another cat this weekend. Her name is Rosie, short for [Rose Maybud](https://en.wikipedia.org/wiki/Ruddigore).
+
+![](rosie_2025-02-02.jpg)

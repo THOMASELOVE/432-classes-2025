@@ -6,8 +6,14 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | HTML | Word | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :------: | :-------------:
-11 | 2025-02-18 | **[Slides 11](https://thomaselove.github.io/432-slides-2025/slides11.html)** | **[Word 11](https://thomaselove.github.io/432-slides-2025/slides11w.docx)** | **[Code 11](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | HTML | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :-------------:
+11 | 2025-02-18 | **[Slides 11](https://thomaselove.github.io/432-slides-2025/slides11.html)** | [Code 11](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides11.qmd) | **Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+- In today's class, we'll return to the [Slides from Class 10](https://thomaselove.github.io/432-slides-2025/slides10.html).
 
 ---
+
+## Announcements
+
+1. To come.

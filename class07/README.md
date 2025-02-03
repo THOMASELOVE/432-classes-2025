@@ -25,6 +25,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## One Last Thing
 
-We rescued another cat this weekend. Her name is Rosie, short for [Rose Maybud](https://en.wikipedia.org/wiki/Ruddigore).
+We rescued another cat this weekend. Her name is Rosie, short for [Rose Maybud](https://en.wikipedia.org/wiki/Ruddigore). We hope she and Josie will eventually become friends, but it will take a while.
 
 ![](rosie_2025-02-02.jpg)

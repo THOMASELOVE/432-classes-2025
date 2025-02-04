@@ -19,6 +19,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - Those of you who are scared (which I assume is all of you) about what the current presidential administration is doing, or the direction of the world in general, I understand and empathize.
     - I encourage you not to miss opportunities to take meaningful action in your life and career, and spare some time to comfort others instead of being overwhelmed by worry when no one really knows yet how any of this will shake out.
     - Like it or not, we live in very interesting times. Good luck to all of you.
+    - Here is an [archive of all CDC data sets updated before 2025-01-28](https://archive.org/details/20250128-cdc-datasets). You may find it easier to work with this [Google Drive](https://drive.google.com/drive/folders/1lk5DrQMKIKgZFBoT_ZYWOCkt7In87IG_) if you're focused on BRFSS data, in particular. (Thanks, Rebecca Stinson!)
 2. In Project A, if your linear regression outcome has at least 400 observed (i.e. non-missing) values, and if your logistic regression outcome has at least 200 observed values in the group you're calling "1" and 200 more in the group you're calling "0", then I'm not going to be meaningfully concerned about your sample size.
     - If your outcomes don't meet these standards, I **might** be meaningfully concerned about your sample size, but I might not.
 3. The Project A plan is due at noon Wednesday 2025-02-05 to [Canvas](https://canvas.case.edu/). Please make that deadline.

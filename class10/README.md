@@ -11,3 +11,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 10 | 2025-02-13 | **[Slides 10](https://thomaselove.github.io/432-slides-2025/slides10.html)** | **[Word 10](https://thomaselove.github.io/432-slides-2025/slides10w.docx)** | **[Code 10](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ---
+
+## Announcements
+
+1. To come.
+
+## Today in "How To Be A Modern Scientist"
+
+### On Scientific Blogging
+
+A blog can be a good place to document the things you are learning or working on. See [Lab 6](https://thomaselove.github.io/432-2025/lab6.html).
+
+The kinds of posts that are most useful for raising your profile in terms of job hunting tend to be posts that:
+
+- Show off your storytelling or communication skills
+- Show off your data visualization skills
+- Teach people how to do some kind of analysis
+- Discuss an important issue that is relevant in industry
+
+

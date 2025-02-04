@@ -23,6 +23,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If your outcomes don't meet these standards, I **might** be meaningfully concerned about your sample size, but I might not.
 3. The Project A plan is due at noon Wednesday 2025-02-05 to [Canvas](https://canvas.case.edu/). Please make that deadline.
 
+## Today's Thoughts from "How To Be A Modern Scientist"
+
+- <https://www.overleaf.com/gallery/tagged/cv> has an array of attractive CV templates, and I have used a free account at [Overleaf](https://www.overleaf.com/) to maintain my CV and other items for years.
+- Dr. Sherri Rose's thoughts on [Academic CVs for Statistical Science Faculty Positions](https://drsherrirose.org/academic-cvs-for-statistical-science-faculty-positions)
+- Each of my courses (431, 432 and 500) are designed in large part: (a) to teach you a wide range of technical skills (both about statistical thinking and coding in R) and (b) to dump as much of the practical experience I have into your head as quickly as I can.
+
+### On Paper Writing...
+
+See [Campuswire](https://campuswire.com/) for an opportunity to provide feedback related to these quotes.
+
+1. Write clearly and simply even though it may make your papers harder to publish.
+2. No one will care about your grades in graduate school but everyone will care what you produced.
+3. It is important to publish results that aren't surprising or novel.
+4. The first thing to do in writing a paper is not to write, but instead to create a set of 1-4 publication quality plots, and show them to someone to make sure they "get" your story before proceeding.
+5. An important thing to work on in graduate school is your own internal times that tells you "OK, we have done enough, time to write this up."
+
 ## One Last Thing
 
 We rescued another cat this weekend. Her name is Rosie, short for [Rose Maybud](https://en.wikipedia.org/wiki/Ruddigore). We hope she and Josie will eventually become friends, but it will take a while.

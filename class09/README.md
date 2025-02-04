@@ -18,4 +18,18 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 1. To come.
 
-2. 
+## Today in "How To Be A Modern Scientist"
+
+- Jeff Leek on "[How to share data with a statistician](https://github.com/jtleek/datasharing)"
+- Shannon Ellis and Jeff Leek's publication (2018) [How to share data for collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC7518408/). *The American Statistician*.
+
+### On Data Sharing...
+
+1. It is really hard to create a serious, research quality data set in almost any scientific discipline.
+2. Data should be made available when papers are published. The question with reproducibility isn't "if" anymore, it is "how".
+3. The transition toward reproducibility is likely to be rough.
+4. Data sharing isn't easy and it isn't cheap.
+5. Not knowing how to share data isn't an excuse - to be a modern scientist, this is one of the skills you have to have.
+6. The culture of credit hasn't caught up with the culture of science.
+
+

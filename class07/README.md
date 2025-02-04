@@ -23,6 +23,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. In Project A, if your linear regression outcome has at least 400 observed (i.e. non-missing) values, and if your logistic regression outcome has at least 200 observed values in the group you're calling "1" and 200 more in the group you're calling "0", then I'm not going to be meaningfully concerned about your sample size.
     - If your outcomes don't meet these standards, I **might** be meaningfully concerned about your sample size, but I might not.
 3. The Project A plan is due at noon Wednesday 2025-02-05 to [Canvas](https://canvas.case.edu/). Please make that deadline.
+4. I updated the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) to better reflect my plans for February in terms of what I'll cover in each class.
 
 ## Today's Thoughts from "How To Be A Modern Scientist"
 

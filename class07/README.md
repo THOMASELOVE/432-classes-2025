@@ -25,7 +25,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. The Project A plan is due at noon Wednesday 2025-02-05 to [Canvas](https://canvas.case.edu/). Please make that deadline.
 4. I updated the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) to better reflect my plans for February in terms of what I'll cover in each class.
 
-## Today's Thoughts from "How To Be A Modern Scientist"
+-------------
+
+## Some Thoughts motivated by "How To Be A Modern Scientist"
 
 - <https://www.overleaf.com/gallery/tagged/cv> has an array of attractive CV templates, and I have used a free account at [Overleaf](https://www.overleaf.com/) to maintain my CV and other items for years.
 - Dr. Sherri Rose's thoughts on [Academic CVs for Statistical Science Faculty Positions](https://drsherrirose.org/academic-cvs-for-statistical-science-faculty-positions)

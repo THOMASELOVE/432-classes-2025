@@ -17,3 +17,4 @@ Class | Date | HTML | Quarto .qmd | Recording
 ## Announcements
 
 1. To come.
+2. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.

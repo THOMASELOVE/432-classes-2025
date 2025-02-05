@@ -14,9 +14,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Today's slides are enormous, and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling. I am working on a similar example for classes 10 and 11, involving linear regression.
-2. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
-3. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
+1. Feedback and grades on Lab 2 are now posted to the Course Grading Roster on our Shared Drive.
+2. Today's slides are enormous, and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling. I am working on a similar example for classes 10 and 11, involving linear regression.
+3. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
+4. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
 
 
 ## Today in "How To Be A Modern Scientist"

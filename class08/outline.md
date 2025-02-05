@@ -75,6 +75,6 @@ Slides | Topic(s)
 169-172 | Spearman rho-squared plot to identify potential candidates for non-linear terms
 99 | splitting a factor into indicator variables using the **cobalt** package
 210-212 | summary statistics worthy of comparison after all five models are fit
+217-222 | test sample summaries
 26 | `tidy()` from **broom**
 54, 96, 131, 166, 203, 210, 212 | `validate()` key summaries (C, Nagelkerke R-square, and Brier score) after `lrm()`
-217-222 | test sample summaries

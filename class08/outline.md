@@ -46,7 +46,7 @@ Slides | Topic(s)
 5 | changing all character variables to factors
 17 | checking that ID variable values are unique
 49-52, 91-94, 126-129, 161-164, 198-201 | checking logistic regression model assumptions with `check_model()` from easystats
-80-90, 123-125, 158-160, 195-197 | checking six key assumptions of logistic regression including component + residual plots
+80-90, 123-125, 158-160, 195-197 | checking six key assumptions of logistic regression and component + residual plots
 206-208 | comparing parameters (coefficients) of various model fits
 65, 110, 145, 182, 209 | comparing performance on model indices in the model training sample
 47, 76, 121, 156, 193, 211 | confusion matrix - building using the **caret** package, and interpreting
@@ -76,5 +76,5 @@ Slides | Topic(s)
 99 | splitting a factor into indicator variables using the **cobalt** package
 210-212 | summary statistics worthy of comparison after all five models are fit
 26 | `tidy()` from **broom**
-54, 96, 131, 166, 203, 210, 212 | `validate()` key summaries (C, Nagelkerke R-square, and Brier score) after an `lrm()` fit
+54, 96, 131, 166, 203, 210, 212 | `validate()` key summaries (C, Nagelkerke R-square, and Brier score) after `lrm()`
 217-222 | test sample summaries

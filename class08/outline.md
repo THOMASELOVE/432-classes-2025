@@ -68,7 +68,7 @@ Slides | Topic(s)
 30, 62-63, 106-107, 141-142, 178-179 | Plot ROC curve
 37, 68, 113, 148, 185 | Prediction Plots from `ggplot(Predict(lrmmodel))`
 99-100, 134-135 | Predictor Subset Searching (Best Subsets) with the **bestglm** package
-31-34, 64, 108-109, 143-144, 180-181, 210 | Pseudo-$R^2$ measures and interpretations (Nagelkerke, Tjur, McFadden)
+31-34, 64, 108-109, 143-144, 180-181, 210 | Pseudo-R squared measures and interpretations (Nagelkerke, Tjur, McFadden)
 2 | R packages used in the **mov25** example
 5 | reading in data from an Excel sheet
 20 | relation of logit (log odds) to odds to probability

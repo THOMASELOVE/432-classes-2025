@@ -35,7 +35,7 @@ Group | Investigator(s) | Proposed Title | Proposed Subtitle
 31 | Ajay Mahenthiran | Effects of Illicit Substance Use on Employment and Health Insurance | --
 32 | Veda Machiraju | Prediction of BMI and Physical Activity for subjects from BRFSS 2023 Data | 432 Project A
 33 | Megan Zelinsky | Predicting Total Costs of 372 NINDS-Funded Clinical Trials | Data from RePORTER and ClinicalTrials.gov
-34 | Carly DaCosta & <br /> Gabrielle Davis | The Influence of Racial Representation Gaps in 2017 on For-Profit Status in California & Ohio Colleges | NA
+34 | Carly DaCosta & <br /> Gabrielle Davis | The Influence of Racial Representation Gaps in 2017 on For-Profit Status in California & Ohio Colleges | --
 35 | Ben Hauk | Analysis of perceived and actual health based on healthcare access | Healthcare Access and Health Perception in New England
 36 | Adam Salem | Exploring Social and Economic Determinants of Well-Being | --
 37 | Brooke Bhattacharya | Predicting Height and Anxiety Disorder in Children | How Childhood Experiences, Sleep, and Family Can Contribute to Diagnosed ADHD or ADD

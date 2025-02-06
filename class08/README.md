@@ -22,7 +22,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - The two students who have yet to submit their plans need to **stay on the line after class** to speak with me.
 3. The slides posted for Class 8 are enormous (224 slides), and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling.
     - Here is [an outline](outline.md) of the material discussed in these slides, which also includes [an index of key statistical topics discussed](outline.md#index-of-r-functions-and-key-statistical-ideas).
-    - The **support1000 example**, on our Shared Drive already includes many things from these slides, plus some other material. The **support1000** example will be finished in time for Class 12.
+    - The **support1000 example**, on our Shared Drive already includes many things from these slides, plus some other material. That example will be finished in time for Class 12.
     - In Classes 10 and 11, we will be working through a similarly detailed example, involving linear regression.
 4. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
 5. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).

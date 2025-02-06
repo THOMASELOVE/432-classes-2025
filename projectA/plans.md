@@ -3,7 +3,7 @@
 Group | Investigator(s) | Proposed Title | Proposed Subtitle 
 :---: | ------------------- | --------------------------------------------------------- | -----------------------------------------------------------
 1 | Jeff Lambe & <br /> Tatchaporn Ongphichetmetha | Predicting Asthma Attacks In Adult Patients in Ohio | Data from 2020-2021 BRFSS Asthma Call-back Survey
-2 | Spancer Zhou | Income, Lifestyle, and Food Environment: Predicting Diabetes Mortality in U.S. Counties | NA
+2 | Spancer Zhou | Income, Lifestyle, and Food Environment: Predicting Diabetes Mortality in U.S. Counties | --
 3 | JiaWei Yu | Predicting Stroke and CHD Using Health Outcomes and Health Risk Behaviors | --
 4 | Olivia Lindberg | Vet Visit Costs and Adoption Outcomes for Cleveland Cats | An Exploratory Analysis from the 2023-2024 Cleveland Community Cat Project
 5 | Dana Jian | Analyzing Adoption Outcomes in the Cleveland Community Cat Project 2023-2024 | Examining Key Factors That Influence Adoption Outcomes through Different Models

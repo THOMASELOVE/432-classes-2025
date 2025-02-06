@@ -1,4 +1,4 @@
-# Project A Plans
+# Project A Plans (as submitted)
 
 Group | Investigator(s) | Proposed Title | Proposed Subtitle 
 :---: | ------------------- | --------------------------------------------------------- | -----------------------------------------------------------

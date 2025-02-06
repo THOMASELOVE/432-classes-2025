@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback and grades on Lab 2 are available on the Course Grading Roster on our Shared Drive.
+1. Feedback and grades on [Lab 2](https://thomaselove.github.io/432-2025/lab2.html) are available on the Course Grading Roster on our Shared Drive.
 2. I am actively reviewing the [Project A Plans](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plans.md).
     - The list of plans (and the order in which I am reviewing them) is [available here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plans.md).
     - I will get back to all 40 project groups to let them know whether they need to substantially revise their linear or logistic regression plans first (I hope today.)

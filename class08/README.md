@@ -14,10 +14,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback and grades on Lab 2 are now posted to the Course Grading Roster on our Shared Drive.
-2. I am actively reviewing the Project A Plans.
+1. Feedback and grades on Lab 2 are available on the Course Grading Roster on our Shared Drive.
+2. I am actively reviewing the [Project A Plans](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plans.md).
     - The list of plans (and the order in which I am reviewing them) is [available here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plans.md).
-    - I will get back to all project groups to let them know whether they need to substantially revise their linear or logistic regression plans first (I hope today.)
+    - I will get back to all 40 project groups to let them know whether they need to substantially revise their linear or logistic regression plans first (I hope today.)
     - Then, after some meaningful additional review time, I will be in touch again with everyone to provide more detailed feedback (as soon as I can.).
     - The two students who have yet to submit their plans need to **stay on the line after class** to speak with me.
 3. The slides posted for Class 8 are enormous (224 slides), and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling.

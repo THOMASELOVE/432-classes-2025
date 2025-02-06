@@ -27,6 +27,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
 5. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
 6. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
+7. Sorry, but I clicked away from the screen I intended to share with the results of the in-class survey. You can see them in the Zoom recording if they're useful to you.
 
 ---
 

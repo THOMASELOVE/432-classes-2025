@@ -15,12 +15,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback and grades on Lab 2 are now posted to the Course Grading Roster on our Shared Drive.
-2. Today's slides are enormous, and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling.
-    - Here is [an outline](outline.md) of the material discussed in these slides, which also includes an index of key statistical topics discussed.
+2. I am actively reviewing the Project A Plans. At present, the list of plans (and the order in which I am reviewing them) is [available here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plans.md).
+    - I will get back to all project groups to let them know whether they need to substantially revise their linear or logistic regression plans first.
+    - Then, after some meaningful additional review time, I will be in touch again with everyone to provide more detailed feedback.
+    - The two students who have yet to submit their plans need to stay on the line after class to speak with me.
+3. The slides posted here for Class 8 are enormous, and will be discussed (at least) in classes 8 and 9. My effort there is to try to provide a logistic regression example which "covers" material from many different aspects of regression modeling.
+    - Here is [an outline](outline.md) of the material discussed in these slides, which also includes [an index of key statistical topics discussed](outline.md#index-of-r-functions-and-key-statistical-ideas).
     - In Classes 10 and 11, we will be working through a similar example, involving linear regression.
-3. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
-4. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
-5. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
+4. Today's data comes from the [favorite movies data gathered in 431 this past Fall and in prior years](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies). The version on our 432-data page is an Excel file, [downloadable here](https://github.com/THOMASELOVE/432-data/raw/refs/heads/master/data/movies_2025-01-28.xlsx).
+5. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
+6. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
+
+---
 
 ## Today in "How To Be A Modern Scientist"
 

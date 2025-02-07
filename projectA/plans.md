@@ -40,5 +40,5 @@ Group | Investigator(s) | Proposed Title | Proposed Subtitle
 36 | Adam Salem | Exploring Social and Economic Determinants of Well-Being | --
 37 | Brooke Bhattacharya | Predicting Height and Anxiety Disorder in Children | How Childhood Experiences, Sleep, and Family Can Contribute to Diagnosed ADHD or ADD
 38 | Anika Krishna | Exploring U.S. Viewership and the Balance Between Character and Narrator Dialogue in The Simpsons | --
-39 | Morgan McLoughlin | -- | --
+39 | Morgan McLoughlin | Predictors of homework time and educational aspirations among early high school students | An investigation using the Youth Development Study dataset
 40 | Manu Bulusu | -- | --

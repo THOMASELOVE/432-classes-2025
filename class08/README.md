@@ -28,7 +28,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 5. We won't get to it until Class 9, but there is an extra file of 50 more movies, as a .csv, also on our 432-data page, [downloadable here](https://github.com/THOMASELOVE/432-data/blob/master/data/movies_extra.csv).
 6. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
 7. Sorry, but I clicked away from the screen I intended to share with the results of the in-class survey. You can see them in the Zoom recording if they're useful to you.
-8. There was a typo - fixed after class 2025-02-06 in slides 54, 96, 131, 166, and 203 of the [Slides from Class 08](https://thomaselove.github.io/432-slides-2025/slides08.html), where the C = 0.5 + Dxy was missing the /2 part.
+8. There was a typo - fixed after class 2025-02-06 in slides 54, 96, 131, 166, and 203 of the [Slides from Class 08](https://thomaselove.github.io/432-slides-2025/slides08.html), where the C = 0.5 + Dxy/2 equation was missing the /2 part.
 
 ---
 

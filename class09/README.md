@@ -21,7 +21,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 ## Some General Thoughts on the Project A Plans
 
-1. In your portfolio, I'm adding the following requirements:
+1. In your portfolio, I'm adding the following requirements and I will change the template accordingly:
     - In section 6.2, I want to see the following three things for your linear outcome, in each case, restricting the data to the observations with complete data on that outcome.
         1. plots - at least a histogram and Normal Q-Q plot of the linear outcome, built using `ggplot2` and `patchwork`.
         2. numerical summaries - the results of both `Hmisc::describe()` and `mosaic::favstats()` for the linear outcome.

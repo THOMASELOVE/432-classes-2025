@@ -8,7 +8,7 @@ Group | Investigator(s) | Proposed Title | Proposed Subtitle
 4 | Olivia Lindberg | Vet Visit Costs and Adoption Outcomes for Cleveland Cats | An Exploratory Analysis from the 2023-2024 Cleveland Community Cat Project
 5 | Dana Jian | Analyzing Adoption Outcomes in the Cleveland Community Cat Project 2023-2024 | Examining Key Factors That Influence Adoption Outcomes through Different Models
 6 | Nihit Mehta | Unlocking Success: Key Factors for Cat Adoption in Cleveland | Cleveland Community Cat Project 2023-2024 Data Study
-7 | Medhat Farwati & </br> Mohammad Nasirpour | Analysis of Atrial Fibrillation Ablation Outcomes | Predicting Left Ventricular Ejection Fraction and Atrial Fibrillation Recurrence
+7 | Medhat Farwati & </br> Mohammad Nasirpour | Revision to come
 8 | Lingzhu Shen | How Family Background Influences Women’s Marital Outcomes | A Study on Foster Care, Intact Families, and Parental Marital Status
 9 | Saar Anis | Analysis of Racial and Ethnic Representation in U.S. Postsecondary Institutions | 432 project A: Using IPEDS and ACS Data from 8 US states
 10 | Katherine Papahadjopoulos | Predicting Depression Diagnoses Using Demographic Variables | Predicting Mental Health Outcomes using BRFSS 2023 Data from a Random Sample of 2000 Subjects Aged 18-65+
@@ -39,6 +39,6 @@ Group | Investigator(s) | Proposed Title | Proposed Subtitle
 35 | Ben Hauk | Analysis of perceived and actual health based on healthcare access | Healthcare Access and Health Perception in New England
 36 | Adam Salem | Exploring Social and Economic Determinants of Well-Being | --
 37 | Brooke Bhattacharya | Predicting Height and Anxiety Disorder in Children | How Childhood Experiences, Sleep, and Family Can Contribute to Diagnosed ADHD or ADD
-38 | Anika Krishna | Exploring U.S. Viewership and the Balance Between Character and Narrator Dialogue in The Simpsons | --
+38 | Anika Krishna | Exploring U.S. Viewership and the Balance Between Character and Narrator Dialogue in *The Simpsons* | --
 39 | Morgan McLoughlin | Predictors of homework time and educational aspirations among early high school students | An investigation using the Youth Development Study dataset
-40 | Manu Bulusu | -- | --
+40 | Manu Bulusu | Investigating Risk Factors of Cognitive Decline and Depression Among Older Adults | Using the 2022 Health and Retirement Study

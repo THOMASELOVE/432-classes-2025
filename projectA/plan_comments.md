@@ -23,5 +23,5 @@
 3. If your logistic regression outcome cannot be expressed in the form of a yes/no question, coded as 1 = yes and 0 = no, and if the name of that variable doesn't tell us what 1 means, then adjust your setup accordingly until this is true.
     - For example, don't use "Active / Inactive" for a `status` variable, instead use `active` = 1 or 0 for the same information.
     - This is because if you use a factor in R for your outcome, the logistic regression model will not necessarily choose the result (Yes instead of No, 1 instead of 0) that you're looking for unless you actually use 0 and 1 or No and Yes for the levels, and 0 and 1 have fewer characters.
-    - If your outcome was "Active / Inactive" it will choose Inactive because it is the second one alphabetically!
+    - If your outcome was "High / Low" it will choose Low because it is the second one alphabetically!
     - Also, if you use 1 and 0 as your levels, the prediction process I have described in slides 8 and in the support1000 example will work, every time. If you do something else, it might not.

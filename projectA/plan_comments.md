@@ -17,11 +17,16 @@
 
 ## General Comments
 
-1. I want to discourage you from using data set names, variable names and especially category level names that are long (more than 8-10 characters) if you can avoid it. You want to be clear, certainly, but long names are (a) harder to type and (b) harder to see in plots and tables.
+1. If you are considering a predictor for either your linear or logistic regression model which has 25% or more missing values among the observations where you have complete data on the relevant outcome, then either look elsewhere for a more informative predictor, or change your sampling strategy to require complete cases on that variable, as well.
+2. I want to discourage you from using data set names, variable names and especially category level names that are long (more than 8-10 characters) if you can avoid it. You want to be clear, certainly, but long names are (a) harder to type and (b) harder to see in plots and tables.
     - More than 8 characters in a category level's name will make a lot of plotting very irritating down the line, especially in something like a nomogram or prediction plot.
-2. I'm also not a fan of labels in R data sets for variables, as they make the results of many plots, tables and things like `data_codebook()` much harder to read.
-3. Use **association** instead of *correlation*, basically always, unless you are referring specifically to a correlation coefficient.
-4. If your logistic regression outcome cannot be expressed in the form of a yes/no question, coded as 1 = yes and 0 = no, and if the name of that variable doesn't tell us what 1 means, then adjust your setup accordingly until this is true.
+    - Don't use spaces in the names of variables or the names of categories - separate words with underscores.
+3. I'm also not a fan of labels in R data sets for variables, as they make the results of many plots, tables and things like `data_codebook()` much harder to read.
+4. Never use 1 and 2 as the levels of a binary variable, like sex = 1 for M and 2 for F, or anything like that. Always use 1 and 0, or actual names like "M" and "F" as the levels.
+5. Use **association** instead of *correlation*, basically always, unless you are referring specifically to a correlation coefficient.
+6. Be sure that if you have a multi-categorical variable with a natural order of levels (like Low, Medium, High, or Excellent, Very Good, Good, Fair, Poor or Strongly agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) be sure that the data_codebook() results you show in Section 5 show that order. If you need to fix this, the place to fix it is in Section 3.
+7. If you are using a cutpoint to split a quantitative measure into categories, be sure to include in the variable description part of Section 5 exactly what that cutoff (or set of cutoffs') value was (for example, "values above the mean" isn't sufficient, "values above 45.67 (the mean of the data)" is a sufficient response.)
+8. If your logistic regression outcome cannot be expressed in the form of a yes/no question, coded as 1 = yes and 0 = no, and if the name of that variable doesn't tell us what 1 means, then adjust your setup accordingly until this is true.
     - For example, don't use "Active / Inactive" for a `status` variable, instead use `active` = 1 or 0 for the same information.
     - This is because if you use a factor in R for your outcome, the logistic regression model will not necessarily choose the result (Yes instead of No, 1 instead of 0) that you're looking for unless you actually use 0 and 1 or No and Yes for the levels, and 0 and 1 have fewer characters.
     - If your outcome was "High / Low" it will choose Low because it is the second one alphabetically!

@@ -63,7 +63,7 @@ Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
     - In a new section 6.3, I want to see a missingness summary including `n_miss`, `miss_var_summary()` and `miss_case_table()` across all variables in the codebook that play a role in your planned linear regression model **after** filtering to the cases with complete data on your linear outcome.
     - Section 7 should begin by filtering the data to the observations with complete data on the binary outcome (for the logistic model.)
     - In section 7.2, I want to see a a `tabyl()` (again from the **janitor** package) of the values of your binary outcome, after restricting the data to the observations with complete data on your primary outcome.
-    - In a new section 7.3, I want to see a missingness summary including `n_miss`, `miss_var_summary()` and `miss_case_table()` across all variables in the codebook that play a role in your planned linear regression model **after** filtering to the cases with complete data on your binary outcome.
+    - In a new section 7.3, I want to see a missingness summary including `n_miss`, `miss_var_summary()` and `miss_case_table()` across all variables in the codebook that play a role in your planned logistic regression model **after** filtering to the cases with complete data on your binary outcome.
 
 ## General Comments
 

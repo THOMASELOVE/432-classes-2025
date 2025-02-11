@@ -23,7 +23,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Upcoming Deadlines
 
 1. Those of you who need to [submit a revision of your Project A Plan](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plan_comments.md#project-plans-for-which-i-need-to-see-a-full-revision-by-monday-2025-02-17-at-9-am), please remember to do so by 9 AM Monday 2025-02-17. Thanks.
-2. The [Lab 3] Answer Sketch and Grading Rubric will be posted to our Shared Drive as soon as all submissions are in, or at noon on Friday, whichever comes first.
+2. The [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) Answer Sketch and Grading Rubric will be posted to our Shared Drive as soon as all submissions are in, or at noon on Friday, whichever comes first.
 3. [Lab 4](https://thomaselove.github.io/432-2025/lab4.html) is due at noon on Wednesday 2025-02-19.
 4. It's never too early to get rolling on your [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html), or [Lab 6](https://thomaselove.github.io/432-2025/lab6.html).
 

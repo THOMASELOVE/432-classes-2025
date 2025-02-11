@@ -1,6 +1,56 @@
 # Project A Plan Comments from Dr. Love
 
-**If you come across this, ignore it until Dr. Love has made final plans, which should be Monday 2025-02-10. Thanks.**
+## Project Plans for which I want to see a full revision.
+
+Next Step: Submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than Monday 2025-02-17 at 9 AM.
+Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
+
+Group | Investigators | Reason
+:---: | :----------------------: | :---------------
+7 | Medhat Farwati and Mohammad Nasirpour | New data set required.
+11 | Gina Lin | New pull of data, to focus on 2017 only.
+20 | Arya Patel | New sample and new linear model.
+21 | Tom Kupferer | New data set required.
+23 | Reilly Burhanna and Jose Diz Ferre | New sample and new linear model.
+28 | Leia George | New sample and new linear and logistic models.
+29 | Kelao Neumbo | New sample and new linear and logistic models.
+38 | Anika Krishna | New logistic model needed that uses original data, or new data.
+39 | Morgan McLoughlin | New linear and logistic models.
+40 | Manu Bulusu | New linear model.
+
+## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need to see a revision.
+
+- Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio, and develop the new model or new sample (which might require a new outcome or new predictors or both - see my comments) as listed below. Regardless, read and heed my comments.
+- Grade on Project A Plan: 26 out of 30 if work was on time.
+
+Group | Investigators | Reason
+:---: | :----------------------: | :---------------
+1 | Jeff Lambe and Tatchaporn Ongphichetmetha | New linear model needed
+5 | Dana Jian | New linear model needed
+6 | Nihit Mehta | New linear model needed
+12 | Graham Stockdale | New linear model needed
+14 | Zuhair Khan | Larger sample of counties needed
+16 | Mahsa Sheikh and Tatiana Dombrovski | New linear model needed
+22 | Toni Shoyinka | Larger sample of institutions needed
+25 | Nick Nazak and Rebecca Stinson | New sample if possible, new linear model
+26 | Weiyun Liang | New linear model needed
+30 | Shraddha Dumawat | New linear model needed
+31 | Ajay Mahenthiran | New linear model needed
+32 | Veda Machiraju | New sample if possible, new linear model
+
+## Project A Plans where Dr. Love doesn't need to see a revision, and where the plans for the models seem OK at present.
+
+- Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio. This may include developing a new linear or logistic outcome, or predictor set, but you'll have to look at my comments.
+- Grade on Project A Plan: 27 out of 30 if work was on time.
+
+Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
+:---: | :----------------------: | :---: | :----------------------: | :---: | :----------------------:
+2 | Spancer Zhou | 3 | JiaWei Yu | 4 | Olivia Lindberg
+8 | Lingzhu Shen | 9 | Saar Anis | 10 | Katherine Papahadjopoulos 
+13 | Haley Altadonna | 15 | Harshita Kumar and Kartik Lakhotiiya | 17 | Dalí Nemecio
+18 | Monique Katsuki and Trisha Lal | 19 | Kelly Bowen | 24 | Debbie Seifert
+27 | Alayna Rowell and Feriel Presswalla | 33 | Megan Zelinsky | 34 | Carly DaCosta and Gabrielle Davis
+35 | Ben Hauk | 36 | Adam Salem | 37 | Brooke Bhattacharya
 
 ## New Requirements for the Portfolio?
 

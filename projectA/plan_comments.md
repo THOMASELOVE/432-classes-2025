@@ -21,7 +21,7 @@ Group | Investigators | Reason
 ## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need to see a revision.
 
 - Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio, and develop the new model or new sample (which might require a new outcome or new predictors or both - see my comments) as listed below. Regardless, read and heed my comments.
-- Grade on Project A Plan: 26 out of 30 if work was on time.
+- Grade on Project A Plan: 26 out of 30.
 
 Group | Investigators | Reason
 :---: | :----------------------: | :---------------
@@ -41,7 +41,7 @@ Group | Investigators | Reason
 ## Project A Plans where Dr. Love doesn't need to see a revision, and where the plans for the models seem OK at present.
 
 - Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio. This may include developing a new linear or logistic outcome, or predictor set, but you'll have to look at my comments.
-- Grade on Project A Plan: 27 out of 30 if work was on time.
+- Grade on Project A Plan: 27 out of 30.
 
 Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
 :---: | :----------------------: | :---: | :----------------------: | :---: | :----------------------:

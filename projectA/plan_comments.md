@@ -2,7 +2,7 @@
 
 ## Project Plans for which I want to see a full revision.
 
-Next Step: Submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than Monday 2025-02-17 at 9 AM.
+Next Step: Submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than **Monday 2025-02-17 at 9 AM**.
 Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
 
 Group | Investigators | Reason

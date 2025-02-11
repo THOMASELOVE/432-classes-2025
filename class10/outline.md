@@ -41,7 +41,7 @@ Slides | Topic(s)
 ## Index of R functions and key statistical ideas
 
 Slides | Topic(s)
-:--------------: | :------------------------------------------------------------------------------
+:--------------: | :---------------------------------------------------------------------------------------------------
 85-89, 91-93, 95-97, 99-101, 103-105 | ANOVA table and eta-squared and partial eta-squared
 166-167 | `augment()` to add fitted values, residuals and other things from a model, from **broom**
 22-27 | Box-Cox plot for potential outcome transformation and checking potential impact

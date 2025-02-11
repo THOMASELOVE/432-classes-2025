@@ -41,3 +41,8 @@ The kinds of posts that are most useful for raising your profile in terms of job
 - Show off your data visualization skills
 - Teach people how to do some kind of analysis
 - Discuss an important issue that is relevant in industry
+
+## One Last Thing
+
+My birthday is this Friday 2025-02-14, and I will be taking the day off. Yes, it is a cute birthday to have with my last name. Well, as an adult, anyway.
+

@@ -18,7 +18,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 1. There was a typo - fixed after class 2025-02-06 in slides 54, 96, 131, 166, and 203 of the [Slides from Class 08](https://thomaselove.github.io/432-slides-2025/slides08.html), where the C = 0.5 + Dxy/2 equation was missing the /2 part.
 2. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
-3. We'll discuss the Project A plans before we return to the slides today.
+3. We'll discuss the [Project A plans](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectA/plan_comments.md) before we return to the slides today.
 
 ## Today in "How To Be A Modern Scientist"
 

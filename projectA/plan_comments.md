@@ -1,9 +1,10 @@
 # Project A Plan Comments from Dr. Love
 
-## Project Plans for which I want to see a full revision.
+## Project Plans for which I need to see a full revision by Monday 2025-02-17 at 9 AM
 
-Next Step: Submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than **Monday 2025-02-17 at 9 AM**.
-Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
+Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then build and submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than **Monday 2025-02-17 at 9 AM**.
+
+- Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
 
 Group | Investigators | Reason
 :---: | :----------------------: | :---------------
@@ -18,9 +19,10 @@ Group | Investigators | Reason
 39 | Morgan McLoughlin | New linear and logistic models.
 40 | Manu Bulusu | New linear model.
 
-## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need to see a revision.
+## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need a revision.
 
-- Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio, and develop the new model or new sample (which might require a new outcome or new predictors or both - see my comments) as listed below. Regardless, read and heed my comments.
+Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then make my suggested and any other changes while building your Project A Portfolio, and develop the new model or new sample (which might require a new outcome or new predictors or both - see my comments) as listed below. Regardless, read and heed my comments, but your plan is accepted.
+
 - Grade on Project A Plan: 26 out of 30.
 
 Group | Investigators | Reason
@@ -40,7 +42,8 @@ Group | Investigators | Reason
 
 ## Project A Plans where Dr. Love doesn't need to see a revision, and where the plans for the models seem OK at present.
 
-- Next Step: Make the other suggested changes (described in my comments on the Shared Drive in the Project A Plan feedback document) as part of your Project A Portfolio. This may include developing a new linear or logistic outcome, or predictor set, but you'll have to look at my comments.
+Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then make my suggested changes as part of your Project A Portfolio. This may include developing a new linear or logistic outcome, or predictor set, but you'll have to look at my comments. Your Project A plan is accepted.
+
 - Grade on Project A Plan: 27 out of 30.
 
 Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
@@ -52,12 +55,12 @@ Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
 27 | Alayna Rowell and Feriel Presswalla | 33 | Megan Zelinsky | 34 | Carly DaCosta and Gabrielle Davis
 35 | Ben Hauk | 36 | Adam Salem | 37 | Brooke Bhattacharya
 
-## New Requirements for the Portfolio?
+## New Requirements for the Portfolio that apply to everyone
 
 As of 2025-02-11 at Noon, the posted version of:
 
 - the [Project A demo project](https://thomaselove.github.io/432-2025/432_projectA_demo.html) incorporates all of these new requirements for Sections 5-7,
-- the [Project A instructions](https://thomaselove.github.io/432-2025/projA.html) incorporate all of these new requirements for Sections 5-7, and all of the other suggestions listed below.
+- the [Project A instructions](https://thomaselove.github.io/432-2025/projA.html) incorporate all of these new requirements for Sections 5-7, and all of the general comments listed below, too.
 - the [Project A plan template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectA_plan_template.qmd) and the [Project A portfolio template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectA_portfolio_template.qmd) incorporate these requirements, as well.
 
 1. In **Section 5** of your portfolio (or your revised Plan, if necessary), I am now requiring you to include a table of variables and descriptions, **plus** the `data_codebook()` results. You can add other things, as well, if they are useful to you. Most people already did this, but I want to be sure everyone does.
@@ -73,7 +76,7 @@ As of 2025-02-11 at Noon, the posted version of:
     - As part of section 7.2, I want to see a a `tabyl()` (again from the **janitor** package) of the values of your binary outcome, after restricting the data to the observations with complete data on your primary outcome.
     - In a new section 7.3.2, I want to see a missingness summary including `miss_var_summary()` and `miss_case_table()` (from the **naniar** package) across all variables in the codebook that play a role in your planned logistic regression model **after** filtering to the cases with complete data on your binary outcome. I'm hoping that you'll have complete data for all predictors on more than 60% of your observations, and that you won't be missing more than 20% of any individual predictor.
 
-## General Comments
+## General Comments that apply to everyone
 
 1. **Roles of Variables in Section 5** All variables in your tidy data set, and in your codebook in Section 5 should fall into one of four roles. Don't include other things in your tidy data set.
     - **identifiers**: variables that identify the subjects in your data, and these should be labeled as **Identifier** in the variable descriptions part of Section 5.

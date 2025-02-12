@@ -19,6 +19,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - The **support1000 example**, on our Shared Drive already includes many things from these slides, plus some other material. That example will be finished in time for Class 12.
     - In Classes 8 and 9, we worked through a similarly detailed example, involving logistic regression.
 2. Frank Harrell's [Regression Modeling Strategies](https://hbiostat.org/rmsc/) and [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) books are incredibly useful resources for more on the `rms` and `Hmisc` packages.
+3. On 2025-02-12, I corrected a typo in [Lab 4](https://thomaselove.github.io/432-2025/lab4.html), which referred to `hbp_lab4`, when I meant `hbp_1`.
 
 ## Upcoming Deadlines
 

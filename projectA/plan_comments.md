@@ -8,7 +8,6 @@ Your Next Step: Read the rest of this page, review my comments on our Shared Dri
 
 Group | Investigators | Reason
 :---: | :----------------------: | :---------------
-7 | Medhat Farwati and Mohammad Nasirpour | New data set required.
 11 | Gina Lin | New pull of data, to focus on 2017 only.
 20 | Arya Patel | New sample and new linear model.
 21 | Tom Kupferer | New data set required.
@@ -44,16 +43,17 @@ Group | Investigators | Reason
 
 Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then make my suggested changes as part of your Project A Portfolio. This may include developing a new linear or logistic outcome, or predictor set, but you'll have to look at my comments. Your Project A plan is accepted.
 
-- Grade on Project A Plan: 27 out of 30.
+- Grade on Project A Plan: 27 out of 30 if accomplished in first version, 25 out of 30 if one revision was required.
 
 Group | Investigator(s) | Group | Investigator(s) | Group | Investigator(s)
 :---: | :----------------------: | :---: | :----------------------: | :---: | :----------------------:
 2 | Spancer Zhou | 3 | JiaWei Yu | 4 | Olivia Lindberg
-8 | Lingzhu Shen | 9 | Saar Anis | 10 | Katherine Papahadjopoulos 
-13 | Haley Altadonna | 15 | Harshita Kumar and Kartik Lakhotiiya | 17 | Dalí Nemecio
-18 | Monique Katsuki and Trisha Lal | 19 | Kelly Bowen | 24 | Debbie Seifert
-27 | Alayna Rowell and Feriel Presswalla | 33 | Megan Zelinsky | 34 | Carly DaCosta and Gabrielle Davis
-35 | Ben Hauk | 36 | Adam Salem | 37 | Brooke Bhattacharya
+7 | Medhat Farwati and Mohammad Nasirpour | 8 | Lingzhu Shen | 9 | Saar Anis 
+10 | Katherine Papahadjopoulos | 13 | Haley Altadonna | 15 | Harshita Kumar and Kartik Lakhotiiya 
+17 | Dalí Nemecio | 18 | Monique Katsuki and Trisha Lal | 19 | Kelly Bowen 
+24 | Debbie Seifert | 27 | Alayna Rowell and Feriel Presswalla | 33 | Megan Zelinsky 
+34 | Carly DaCosta and Gabrielle Davis | 35 | Ben Hauk | 36 | Adam Salem 
+37 | Brooke Bhattacharya
 
 ## New Requirements for the Portfolio that apply to everyone
 

@@ -45,5 +45,5 @@ The kinds of posts that are most useful for raising your profile in terms of job
 
 ## One Last Thing
 
-My birthday is this Friday 2025-02-14, and I will be taking the day off. Yes, it is a cute birthday to have with my last name. Well, as an adult, anyway.
+My birthday is this Friday 2025-02-14, and I will be away from email Friday - Sunday. Yes, it is a cute birthday to have with my last name. Well, as an adult, anyway.
 

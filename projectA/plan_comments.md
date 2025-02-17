@@ -1,8 +1,17 @@
 # Project A Plan Comments from Dr. Love
 
-## Project Plans for which I need to see a full revision by Monday 2025-02-17 at 9 AM
+## Project Plans for which I need to see a full revision which is now late
 
 Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then build and submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than **Monday 2025-02-17 at 9 AM**.
+
+- Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
+
+Group | Investigators | Reason
+:---: | :----------------------: | :---------------
+28 | Leia George | New sample and new linear and logistic models.
+38 | Anika Krishna | New logistic model needed that uses original data, or new data.
+
+## Project Plan Revisions Dr. Love has received and will review before Class 11 (2025-02-18)
 
 - Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
 
@@ -12,11 +21,10 @@ Group | Investigators | Reason
 20 | Arya Patel | New sample and new linear model.
 21 | Tom Kupferer | New data set required.
 23 | Reilly Burhanna and Jose Diz Ferre | New sample and new linear model.
-28 | Leia George | New sample and new linear and logistic models.
 29 | Kelao Neumbo | New sample and new linear and logistic models.
-38 | Anika Krishna | New logistic model needed that uses original data, or new data.
 39 | Morgan McLoughlin | New linear and logistic models.
 40 | Manu Bulusu | New linear model.
+
 
 ## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need a revision.
 

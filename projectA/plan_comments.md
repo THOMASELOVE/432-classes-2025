@@ -15,7 +15,7 @@ Group | Investigators | Reason
 
 - Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
 
-Group | Investigators | Reason
+Group | Investigators | Reason Revision was Required
 :---: | :----------------------: | :---------------
 11 | Gina Lin | New pull of data, to focus on 2017 only.
 20 | Arya Patel | New sample and new linear model.

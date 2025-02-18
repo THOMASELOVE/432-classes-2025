@@ -20,7 +20,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - R for Data Science (2nd ed.) [chapter on Workflow: Scripts and Projects](https://r4ds.hadley.nz/workflow-scripts)
 3. Links related to the conflicted package: <https://conflicted.r-lib.org/>
 4. Links related to the tableone package: <https://github.com/kaz-yos/tableone> which lists many complimentary packages for doing similar things
-    - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>\
+    - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>.
 5. Some data for today comes from [NHANES](https://www.cdc.gov/nchs/nhanes/index.html). [The `nhanesA` package](https://cran.r-project.org/web/packages/nhanesA/index.html) is working again, it seems.
     - The .Rds files for nh1314 and nhanes_class12_data2 are available on our 432 data page, and also [here](data).
 

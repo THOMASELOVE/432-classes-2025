@@ -39,6 +39,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 [Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples.
 
+-----
+
 ## Today in "How To Be A Modern Scientist"
 
 ### On Peer Review

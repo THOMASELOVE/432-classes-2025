@@ -19,11 +19,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Links about Today's New Packages
 
-1. Links related to the here package: <https://here.r-lib.org/>
+1. Links related to the **here** package: <https://here.r-lib.org/>
     - Jenny Bryan [I love the here package. Here's why.](https://github.com/jennybc/here_here)
     - R for Data Science (2nd ed.) [chapter on Workflow: Scripts and Projects](https://r4ds.hadley.nz/workflow-scripts)
-2. Links related to the conflicted package: <https://conflicted.r-lib.org/>
-3. Links related to the tableone package: <https://github.com/kaz-yos/tableone> which lists many complimentary packages for doing similar things
+2. Link related to the **conflicted** package: <https://conflicted.r-lib.org/>
+3. Link related to the **tableone** package: <https://github.com/kaz-yos/tableone> which lists many complimentary packages for doing similar things
     - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>.
 4. Some data we'll discuss today comes from [NHANES](https://www.cdc.gov/nchs/nhanes/index.html).
     - It seems that [the nhanesA package](https://cran.r-project.org/web/packages/nhanesA/index.html) is working again.

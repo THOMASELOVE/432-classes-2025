@@ -30,13 +30,13 @@ Class | Date | HTML | Quarto .qmd | Recording
 ## Some Thoughts on Lab 3
 
 1. Grades and feedback for [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) will be posted to our Shared Drive in the Course Grading Roster as soon as possible.
-2. The answer sketch and grading rubric for Lab 3 is already available in the Labs and Answer Sketches folder on the Shared Drive.
+2. A revised version of the answer sketch and grading rubric for Lab 3 is already available in the Labs and Answer Sketches folder on the Shared Drive, although I may revise it even further before I post the grades. I'll post to Campuswire when everything is ready.
 
 - Change the name of the Quarto file you submit to something other than `432_lab3_template.qmd`, please.
 - A student asked "When do I need to include `outcome == "Yes"` rather than just `outcome` when fitting a logistic model?
     - The best answer: Always, *unless* you create the outcome to have the two codes 0 and 1 (where 1 means that the outcome occurs.) 
-    - It is way too easy, otherwise, for the model to fit the log odds of the outcome being No instead of Yes without you realizing it.
-    - In the Lab, we took a point away if you didn't do this.
+    - It is way too easy, otherwise, for the model to fit the log odds of the outcome being No instead of Yes without you realizing it, and in fact, that's what happened.
+    - In the Lab, we took 2 points away in Question 2a and 4 in Question 2b if you did this.
 - If you are fitting a model with, say, `glm()` or `lm()`, fit the same model with, as appropriate, `lrm()` or `ols()`: the only thing that might change in specifying the model is the use of `pol()` vs. `poly()` to describe a polynomial term. The interaction terms and splines and main effects - everything else should be identical.
 - A number of students didn't realize that an interaction is another possibility in terms of adding a nonlinear term so they chose to add a polynomial or spline instead in Question 1a.
 - When fitting an interaction, some students used `%ia%` and included the main effects, rather than using `*` for an interaction term. Use `a*b` rather than `a + b + a %ia% b` unless one of the terms (a or b) is also fitted using a spline or polynomial.

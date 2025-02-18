@@ -26,7 +26,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. Link related to the **tableone** package: <https://github.com/kaz-yos/tableone> which lists many complimentary packages for doing similar things
     - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>.
 4. Some data we'll discuss today comes from [NHANES](https://www.cdc.gov/nchs/nhanes/index.html).
-    - It seems that [the nhanesA package](https://cran.r-project.org/web/packages/nhanesA/index.html) is working again.
+    - It seems that [the nhanesA package](https://cran.r-project.org/web/packages/nhanesA/index.html) is working again, which should be a relief to those of you considering NHANES as a source of data for Project B later this semester.
     - The `nh1314.Rds` and `nhanes_class12_data2.Rds` files are available on [our 432 data page](https://github.com/THOMASELOVE/432-data), and also [here](data).
 
 ## Materials for the `bradley` example we'll discuss today

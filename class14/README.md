@@ -14,6 +14,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Today in "How To Be A Modern Scientist"
 
-### On Social Media
+### On Scientific Talks
 
-### On Teaching
+### On Reading Scientific Papers
+
+

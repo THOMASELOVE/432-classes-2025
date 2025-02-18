@@ -11,3 +11,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 13 | 2025-02-25 | **[Slides 13](https://thomaselove.github.io/432-slides-2025/slides13.html)** | **[Word 13](https://thomaselove.github.io/432-slides-2025/slides13w.docx)** | **[Code 13](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ---
+
+
+## Today in "How To Be A Modern Scientist"
+
+### On Scientific Code
+
+### On Your Online Identity

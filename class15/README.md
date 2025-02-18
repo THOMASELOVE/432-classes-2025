@@ -13,9 +13,21 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ---
 
 
+---
+
 ## Today in "How To Be A Modern Scientist"
+
+### On Internal Scientific Communication
+
+- Use a tool that will let you manage groups
+- Open separate discussions for each project
+- Summarize at regular intervals
+- Include a thread for literature curation
 
 ### On Books
 
-### On Internal Scientific Communication
+- Think shorter
+- Develop a book on a platform that allows feedback
+- Sell your book on multiple online platforms
+
 

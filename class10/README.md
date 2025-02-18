@@ -10,6 +10,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 10 | 2025-02-13 | **[Slides 10](https://thomaselove.github.io/432-slides-2025/slides10.html)** | **[Word 10](https://thomaselove.github.io/432-slides-2025/slides10w.docx)** | **[Code 10](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides10.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+- After class on 2025-02-18, I revised the slides above to fix an error in slide 163, and reposted them in all formats.
+
+
 ---
 
 ## Announcements

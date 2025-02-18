@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Some of you are having some trouble estimating and interpreting effect sizes in linear and logistic regression models. [Chapter 22 of the Course Notes](https://thomaselove.github.io/432-notes/effectsize.html) walks through this for fits built with `lm()`, `glm()`, `ols()` and `lrm()`, including what to do if we include a spline or interaction term, and making predictions and building prediction intervals for linear fits, among other things. [It might be the most useful chapter in the Notes](https://thomaselove.github.io/432-notes/effectsize.html)
+1. Some of you are having some trouble estimating and interpreting effect sizes in linear and logistic regression models. [Chapter 22 of the Course Notes](https://thomaselove.github.io/432-notes/effectsize.html) walks through this for fits built with `lm()`, `glm()`, `ols()` and `lrm()`, including what to do if we include a spline or interaction term, and making predictions and building prediction intervals for linear fits, among other things. [It might be the most useful chapter in the Notes](https://thomaselove.github.io/432-notes/effectsize.html).
 2. Links related to the here package: <https://here.r-lib.org/>
     - Jenny Bryan [I love the here package. Here's why.](https://github.com/jennybc/here_here)
     - R for Data Science (2nd ed.) [chapter on Workflow: Scripts and Projects](https://r4ds.hadley.nz/workflow-scripts)

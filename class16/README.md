@@ -11,3 +11,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 16 | 2025-03-06 | **[Slides 16](https://thomaselove.github.io/432-slides-2025/slides16.html)** | **[Word 16](https://thomaselove.github.io/432-slides-2025/slides16w.docx)** | **[Code 16](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides16.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ---
+
+## Today in "How To Be A Modern Scientist"
+
+### On Social Media
+
+### On Teaching

@@ -1,30 +1,22 @@
 # Project A Plan Comments from Dr. Love
 
-## Project Plans for which I need to see a full revision which is now late
+## Revised Project Plans
 
-Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then build and submit a fully revised Project A Plan to Canvas (the Project A Plan REVISION assignment) no later than **Monday 2025-02-17 at 9 AM**.
+The following investigators completed a detailed revision of their original plan. My detailed review is on our Shared Drive in the Project A Plan Feedback document, with additional comments and a grade for the plan posted to Canvas.
 
-- Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
+Your Next Step: Read the rest of this page, review my comments on our Shared Drive in the Project A Plan Feedback document, then make my suggested and any other changes while building your Project A Portfolio. Regardless, read and heed my comments, but your plan is accepted.
 
-Group | Investigators | Reason
-:---: | :----------------------: | :---------------
-28 | Leia George | New sample and new linear and logistic models.
-38 | Anika Krishna | New logistic model needed that uses original data, or new data.
-
-## Project Plan Revisions Dr. Love has received and will review before Class 11 (2025-02-18)
-
-- Grade on Project A Plan: To be determined after the revision is reviewed by Dr. Love
-
-Group | Investigators | Reason Revision was Required
-:---: | :----------------------: | :---------------
-11 | Gina Lin | New pull of data, to focus on 2017 only.
-20 | Arya Patel | New sample and new linear model.
-21 | Tom Kupferer | New data set required.
-23 | Reilly Burhanna and Jose Diz Ferre | New sample and new linear model.
-29 | Kelao Neumbo | New sample and new linear and logistic models.
-39 | Morgan McLoughlin | New linear and logistic models.
-40 | Manu Bulusu | New linear model.
-
+Group | Investigators 
+:---: | :----------------------: 
+11 | Gina Lin 
+20 | Arya Patel 
+21 | Tom Kupferer
+23 | Reilly Burhanna and Jose Diz Ferre 
+28 | Leia George 
+29 | Kelao Neumbo 
+38 | Anika Krishna
+39 | Morgan McLoughlin 
+40 | Manu Bulusu 
 
 ## Project Plans where a new model (linear or logistic or both) is required, but where Dr. Love doesn't need a revision.
 

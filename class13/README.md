@@ -13,8 +13,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ---
 
 
+---
+
 ## Today in "How To Be A Modern Scientist"
 
 ### On Scientific Code
 
+- Organize and document your code and the importance of literate programming
+- Include links to your code in your publications
+- Post your code to a public repository
+
 ### On Your Online Identity
+
+- Have a standard handle so it's easier for people to find you
+- Use commercial platforms
+- Don't be a jerk

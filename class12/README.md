@@ -20,7 +20,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - R for Data Science (2nd ed.) [chapter on Workflow: Scripts and Projects](https://r4ds.hadley.nz/workflow-scripts)
 3. Links related to the conflicted package: <https://conflicted.r-lib.org/>
 4. Links related to the tableone package: <https://github.com/kaz-yos/tableone> which lists many complimentary packages for doing similar things
-    - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>
+    - Introductory vignette is <https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html>\
+5. Some data for today comes from [NHANES](https://www.cdc.gov/nchs/nhanes/index.html). [The `nhanesA` package](https://cran.r-project.org/web/packages/nhanesA/index.html) is working again, it seems.
 
 ## Materials for the `bradley` example we'll discuss today
 
@@ -28,8 +29,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - [JAMA Table Creation Instructions](https://jama.jamanetwork.com/data/ifora-forms/jama/tablecreationinst.pdf) (pdf)
 - The bradley_sim file: [.qmd code](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/bradley_sim.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-simulate-432)
 - The bradley_table1 file: [.qmd code](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/bradley_table1.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-table1-432)
-- The [bradley.csv](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/data/bradley.csv) data file
-- The [bradley_table1_result.csv](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/data/bradley_table1_result.csv) file
+- The [bradley.csv](bradley.csv) data file
+- The [bradley_table1_result.csv](bradley_table1_result.csv) file
 
 [Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples.
 

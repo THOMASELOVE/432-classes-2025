@@ -10,7 +10,8 @@ Class | Date | HTML | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 11 | 2025-02-18 | **[Slides 11](https://thomaselove.github.io/432-slides-2025/slides11.html)** | [Code 11](https://github.com/THOMASELOVE/432-slides-2025/blob/main/slides11.qmd) | **Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- In today's class, we'll return to the [Slides from Class 10](https://thomaselove.github.io/432-slides-2025/slides10.html). We'll start today's class by returning to **Slide 57** then moving forward from there. 
+- In today's class, we'll return to the [Slides from Class 10](https://thomaselove.github.io/432-slides-2025/slides10.html). We'll start today's class by returning to **Slide 57** then moving forward from there.
+- After class on 2025-02-18, I revised those slides to fix an error in slide 163, and reposted the Slides in Qmd, HTML and Word. [Get them here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/class10).
 
 ---
 

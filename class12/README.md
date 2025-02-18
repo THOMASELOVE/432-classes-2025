@@ -39,3 +39,25 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 [Chapter 18 in the Course Notes](https://thomaselove.github.io/432-notes/) covers the topic of building a Table 1 far more extensively, with two detailed examples.
 
+## Today in "How To Be A Modern Scientist"
+
+### On Peer Review
+
+What should I do and why?
+    - Review papers quickly or not at all.
+    - (Try to) get credit for your reviews.
+    - Reviewing templates and how to build comments to the authors (summary, major issues, minor issues, typos)
+    - Who are the key players?
+
+What is the job?
+    - Evaluating quality and accuracy of methods, data and results.
+    - Determining whether the methods, data and results justify the claims.
+    - Determining how important the claims are and whether they belong in the journal the paper was submitted to.
+    - Submitting a recommendation (and not being a jerk)
+
+### On "Credit"
+
+- Don't forget that the primary thing you will be judged on is publications.
+- Quantify everything.
+- Include metrics on your CV.
+- Discuss your approach with a senior colleague.

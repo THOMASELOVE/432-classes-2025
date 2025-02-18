@@ -44,6 +44,8 @@ Class | Date | HTML | Quarto .qmd | Recording
 - In question 2b, I show the `model_parameters()` result (although `tidy()` would also work) with `exponentiate = TRUE` which is what you need in a logistic regression to look at odds ratios. Several students tried to interpret the coefficients without exponentiating them first, but then the coefficients aren't odds ratios.
 - We did not take away any credit if you weren't using R version 4.4.2, but we will for the Project A Portfolio and Labs 5 and 7.
 
+-----------
+
 ## Reminders
 
 1. [Lab 4](https://thomaselove.github.io/432-2025/lab4.html) is due to Canvas tomorrow (2024-02-19) at Noon.

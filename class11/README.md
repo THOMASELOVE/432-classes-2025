@@ -25,11 +25,24 @@ Class | Date | HTML | Quarto .qmd | Recording
     - If you have questions about my feedback, ask me through email or on Campuswire.
     - If you have questions inspired by my feedback, I won't review your Plan again, but I am happy to try to clarify whether any new ideas on your part seem to resolve my concern if that's helpful, again either through email or Campuswire.
     - Everyone should now switch to working on the Project A Portfolio. I remind you to get Sections 1-7 right (following the [updated Project A instructions provided on 2025-02-11](https://thomaselove.github.io/432-2025/projA.html)) before you launch too far into the new sections for the Portfolio, and I encourage you to make good use of [the Project A Portfolio Template](https://raw.githubusercontent.com/THOMASELOVE/432-data/refs/heads/master/data/432_projectA_portfolio_template.qmd).
-3. Grades and feedback for [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) will be posted to our Shared Drive in the Course Grading Roster as soon as possible. The answer sketch and grading rubric for Lab 3 is already available in the Labs and Answer Sketches folder on the Shared Drive.
-4. A student asked "When do I need to include `outcome == "Yes"` rather than just `outcome` when fitting a logistic model?
-    - The best answer: Always, *unless* you create the outcome to have the two codes 0 and 1 (where 1 means that the outcome occurs.)
+3. I'll skip thoughts today on *How to be a Modern Scientist* in the interest of time. More to come in our next few READMEs.
+
+## Some Thoughts on Lab 3
+
+1. Grades and feedback for [Lab 3](https://thomaselove.github.io/432-2025/lab3.html) will be posted to our Shared Drive in the Course Grading Roster as soon as possible.
+2. The answer sketch and grading rubric for Lab 3 is already available in the Labs and Answer Sketches folder on the Shared Drive.
+
+- Change the name of the Quarto file you submit to something other than `432_lab3_template.qmd`, please.
+- A student asked "When do I need to include `outcome == "Yes"` rather than just `outcome` when fitting a logistic model?
+    - The best answer: Always, *unless* you create the outcome to have the two codes 0 and 1 (where 1 means that the outcome occurs.) 
     - It is way too easy, otherwise, for the model to fit the log odds of the outcome being No instead of Yes without you realizing it.
-5. I'll skip thoughts today on *How to be a Modern Scientist* in the interest of time. More to come in our next few READMEs.
+    - In the Lab, we took a point away if you didn't do this.
+- If you are fitting a model with, say, `glm()` or `lm()`, fit the same model with, as appropriate, `lrm()` or `ols()`: the only thing that might change in specifying the model is the use of `pol()` vs. `poly()` to describe a polynomial term. The interaction terms and splines and main effects - everything else should be identical.
+- A number of students didn't realize that an interaction is another possibility in terms of adding a nonlinear term so they chose to add a polynomial or spline instead in Question 1a.
+- When fitting an interaction, some students used `%ia%` and included the main effects, rather than using `*` for an interaction term. Use `a*b` rather than `a + b + a %ia% b` unless one of the terms (a or b) is also fitted using a spline or polynomial.
+- One way to calculate the sample C statistic (area under the ROC curve) from a `glm()` fit is to use `performance_roc()` (see, for instance, slides 25 or 30 in slide set 8), but this is not the same as `performance_accuracy()` which does not provide the C statistic unless you are specifically doing cross-validation, as in slide 55 in slide set 8, and in that case, it's not the sample's C statistic, but rather a cross-validated estimate of what C would be in new data.
+- In question 2b, I show the `model_parameters()` result (although `tidy()` would also work) with `exponentiate = TRUE` which is what you need in a logistic regression to look at odds ratios. Several students tried to interpret the coefficients without exponentiating them first, but then the coefficients aren't odds ratios.
+- We did not take away any credit if you weren't using R version 4.4.2, but we will for the Project A Portfolio and Labs 5 and 7.
 
 ## Reminders
 

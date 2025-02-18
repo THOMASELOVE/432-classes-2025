@@ -29,6 +29,4 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 ## Cat Update
 
-Josephine (left) and Rose Maybud (right) 2025-02-17.
-
-![](
+![Josephine (left) and Rose Maybud (right) 2025-02-17.](https://github.com/THOMASELOVE/432-classes-2025/blob/main/class11/josephine_rose_maybud_2025-02-17.png)

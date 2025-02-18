@@ -16,6 +16,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ### On Scientific Talks
 
+- Entertain, don't teach
+- Know your audience (goals shift depending on audience)
+- Always lead with a brief, understandable to everyone statement of the problem
+- Then explain the data and measurement tools before you explain your variables
+- Then explain the variables before you explain the model
+- When presenting results, tell a story
+- Put your talk online
+
 ### On Reading Scientific Papers
 
-
+- How much should you read?
+- Importance of the figures and the introduction and conclusion
+- Explain an interesting paper to someone else
+- Find out if others have read it

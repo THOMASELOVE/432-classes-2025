@@ -46,16 +46,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ### On Peer Review
 
 What should I do and why?
-    - Review papers quickly or not at all.
-    - (Try to) get credit for your reviews.
-    - Reviewing templates and how to build comments to the authors (summary, major issues, minor issues, typos)
-    - Who are the key players?
 
-What is the job?
-    - Evaluating quality and accuracy of methods, data and results.
-    - Determining whether the methods, data and results justify the claims.
-    - Determining how important the claims are and whether they belong in the journal the paper was submitted to.
-    - Submitting a recommendation (and not being a jerk)
+- Review papers quickly or not at all
+- (Try to) get credit for your reviews.
+- Reviewing templates and how to build comments to the authors (summary, major issues, minor issues, typos)
+- Who are the key players?
+
+Reviewing: What is the job?
+
+- Evaluating quality and accuracy of methods, data and results.
+- Determining whether the methods, data and results justify the claims.
+- Determining how important the claims are and whether they belong in the journal the paper was submitted to.
+- Submitting a recommendation (and not being a jerk)
 
 ### On "Credit"
 

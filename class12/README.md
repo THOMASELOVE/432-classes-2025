@@ -27,8 +27,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - The original source is Steven M. Bradley, Joleen A. Borgerding, G. Blake Wood, et al. [Incidence, Risk Factors, and Outcomes Associated With In-Hospital Acute Myocardial Infarction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2720923) *JAMA Netw Open* 2019; 2(1): e187348. doi:10.1001/jamanetworkopen.2018.7348.
 - [JAMA Table Creation Instructions](https://jama.jamanetwork.com/data/ifora-forms/jama/tablecreationinst.pdf) (pdf)
-- The bradley_sim file: [.qmd code](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/bradley_sim.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-simulate-432)
-- The bradley_table1 file: [.qmd code](https://github.com/THOMASELOVE/432-slides-2025/blob/main/c12/bradley_table1.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-table1-432)
+- The bradley_sim file: [.qmd code](bradley/bradley_sim.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-simulate-432)
+- The bradley_table1 file: [.qmd code](bradley/bradley_table1.qmd), [.html result at RPubs](https://rpubs.com/TELOVE/bradley-table1-432)
 - The [bradley.csv](bradley.csv) data file
 - The [bradley_table1_result.csv](bradley_table1_result.csv) file
 

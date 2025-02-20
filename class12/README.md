@@ -27,9 +27,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - **fitting non-linear terms** If you're using `rcs(waist, 3)` as a non-linear term in an ols() fit, you need to also use `rcs(waist, 3)` as part of your lm() fit for the same model. Using another kind of spline, such as `ns(waist, 3)` is not the same thing, although the name (natural cubic spline) is similar and they seem like they could be the same. You need to be absolutely consistent between your models except when fitting orthogonal polynomials for which ols() uses `pol()` and lm() uses `poly()`.
 4. When you fit both an `lrm()` version and a `glm()` version of a model, don't put them in the same object. Use `fit1_lrm <- lrm(...)` and `fit1_glm <- glm(...)` or something similar, but not `fit1 <- lrm(...)` and then `fit1 <- glm()` or you'll just replace the `lrm()` fit with a `glm()` fit.
 5. Don't use `model_performance()` with an *rms* fit and expect the confidence level to change to 90% if you use `ci = 0.90`. The `model_performance()` tools are best used with `glm()` or `lm()` fits, and best not used with `ols()` or `lrm()` fits.
-6. **Lab 3** details to come.
+6. **Lab 3** grades and feedback from Dr. Love are now available on our Course Grading Roster on the Shared Drive.
+    - A revised answer sketch and grading rubric for Lab 3 are also posted to the Shared Drive.
 7. **support1000 example** I had hoped to have the `support1000` example's material on linear and logistic regression completely finished by class time today, but the Lab 3 work took too long, and I will not meet that deadline. I will let you know on Campuswire as soon as the "final" version of those sections of the example are available and posted to our Shared Drive.
-8. **Lab 4** details to come.
+8. The **Lab 4** sketch and grading rubric is posted to our Shared Drive.
 
 ## Links about Today's New Packages
 

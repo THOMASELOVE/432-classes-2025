@@ -22,28 +22,24 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
   
 --- 
 
-**Project A**: Suppose you've done everything in Sections 8 and 9 of the [Project A Demo](https://thomaselove.github.io/432-2025/432_projectA_demo.html) to the best of your ability, and you're wondering what else you might consider doing?
+### Project A: Extra Analytic Sections?
 
-- Doing everything correctly in Sections 8 and 9 is great, and a good step towards an excellent grade.
-- For linear regression, you are welcome to include **either** choice 1 or choice 2 below. Don't do both.
-- For logistic regression, you are welcome to include **either** choice 3 or choice 4 below. Don't do both.
+Suppose you've done everything in Sections 8 and 9 of the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html) to the best of your ability, and you're wondering what else you might consider doing?
 
-1. **If** in your linear regression you have **more than 5% of cases** with missing data in your predictors, create a new section 8.9 called "Comparing Imputation Strategies", where you show the simple imputation model, and then either:
-    - fit an appropriate model using multiple imputation (with an appropriate number of imputations) and the **mice** package, then compare the coefficients and R-square values between the single imputation fit and the multiple imputation fit, **or**
-    - use the `aregImpute()` function to fit an appropriate multiply imputed set of results, then compare the coefficients and R-square values between the single imputation fit and the multiple imputation fit.
-2. After your linear regression modeling, create a new section 8.9 called "A New Model C" where you do the following:
-    - use the best subsets approach to identify another possible model (besides Model A and Model B) using a subset of your predictors, which you'll call Model C, then
-    - show a plot of the posterior predictive check for your new model C, and compare it to your previous models A and B, then
-    - compare all three of those models using a plot which compares performance on common metrics (root mean squared error, AIC, BIC, multiple R-square and adjusted R-square) across your sample, and interpret the results, then finally
-    - perform 5-fold cross-validation for each of your models to compare R-square and the square root of the mean squared error, and interpret those results.
-3. **If** in your logistic regression you have **more than 5% of cases** with missing data in your predictors, create a new section 9.9 called "Comparing Imputation Strategies", where you show the simple imputation model, and then either:
-    - fit an appropriate model using multiple imputation (with an appropriate number of imputations) and the **mice** package, and compare the coefficients (expressed as odds ratios) and the C statistic values between the single imputation fit and the multiple imputation fit, **or**
-    - use the `aregImpute()` function to fit an appropriate multiply imputed set of results, then compare the coefficients and C statistic values between the single imputation fit and the multiple imputation fit.
-4. After your logistic regression modeling, create a new section 9.9 called "A New Model X" where you do the following:
-    - use the best subsets approach to identify another possible model (besides Model Y and Model Z) using a subset of your predictors, which you'll call Model X, then
-    - show a plot of the posterior predictive check for your new model X, and compare it to your previous models Y and Z, then
-    - compare all three of those models using a plot which compares performance on common metrics (root mean squared error, AIC, BIC and Tjur's R-squared) across your sample, and interpret the result, then finally
-    - perform 5-fold cross-validation for each of your models to compare C statistics, and interpret the results.
+I have added two new "Extra" sections to the Project A instructions, which answer this question. They are:
+
+- [EXTRA (potential section 8.9)](https://thomaselove.github.io/432-2025/projA.html#extra-potential-section-8.9), which provides two options for amplifying your linear regression work. You are allowed to select at most one of these two options.
+    - Option 1 is appropriate if you have more than 5% of your cases with missing data on predictors in your Model A, and involves doing multiple imputation and some related things.
+    - Option 2 involves using best subsets to fit a third model, then completing a series of comparisons across your three models.
+- [EXTRA (potential section 9.9)](https://thomaselove.github.io/432-2025/projA.html#extra-potential-section-9.9), which provides two options for amplifying your logistic regression work. You are allowed to select at most one of these two options.
+    - Option 1 is appropriate if you have more than 5% of your cases with missing data on predictors in your Model Y, and involves doing multiple imputation and some related things.
+    - Option 2 involves using best subsets to fit a third model, then completing a series of comparisons across your three models.
+
+#### Three key points to emphasize (also made in the instructions):
+
+- The required elements of Section 8 (Linear Regression Analysis) should produce sections 8.1 through 8.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 8.1 - 8.8, I won't even look at your section 8.9. Similarly, the required elements of Section 9 (Logistic Regression Analysis) should produce sections 9.1 - 9.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 9.1 - 9.8, I won't even look at your section 9.9.
+- I provide two alternatives for section 8.9. You may choose **exactly one** of those two alternatives for your portfolio. Similarly, I provide two alternatives for section 9.9. Again, pick at most one of those to present in your portfolio. In each case, do not present both alternatives in your portfolio, or I will ignore both of them. 
+- Although completing section 8.9 and/or section 9.9 can only help your grade, this is completely optional, and is not required to get an A grade on the Project. 
 
 ---
 

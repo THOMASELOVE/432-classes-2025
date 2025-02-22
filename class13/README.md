@@ -31,15 +31,15 @@ I have added two new "Extra" sections to the Project A instructions, which answe
 - [EXTRA (potential section 8.9)](https://thomaselove.github.io/432-2025/projA.html#extra-potential-section-8.9), which provides two options for amplifying your linear regression work. You are allowed to select at most one of these two options.
     - Option 1 is appropriate if you have more than 5% of your cases with missing data on predictors in your Model A, and involves doing multiple imputation and some related things.
     - Option 2 involves using best subsets to fit a third model, then completing a series of comparisons across your three models.
-- [EXTRA (potential section 9.9)](https://thomaselove.github.io/432-2025/projA.html#extra-potential-section-9.9), which provides two options for amplifying your logistic regression work. You are allowed to select at most one of these two options.
+- [EXTRA (potential section 9.7)](https://thomaselove.github.io/432-2025/projA.html#extra-potential-section-9.7), which provides two options for amplifying your logistic regression work. You are allowed to select at most one of these two options.
     - Option 1 is appropriate if you have more than 5% of your cases with missing data on predictors in your Model Y, and involves doing multiple imputation and some related things.
     - Option 2 involves using best subsets to fit a third model, then completing a series of comparisons across your three models.
 
 #### Three key points to emphasize (also made in the instructions):
 
-- The required elements of Section 8 (Linear Regression Analysis) should produce sections 8.1 through 8.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 8.1 - 8.8, I won't even look at your section 8.9. Similarly, the required elements of Section 9 (Logistic Regression Analysis) should produce sections 9.1 - 9.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 9.1 - 9.8, I won't even look at your section 9.9.
-- I provide two alternatives for section 8.9. You may choose **exactly one** of those two alternatives for your portfolio. Similarly, I provide two alternatives for section 9.9. Again, pick at most one of those to present in your portfolio. In each case, do not present both alternatives in your portfolio, or I will ignore both of them. 
-- Although completing section 8.9 and/or section 9.9 can only help your grade, this is completely optional, and is not required to get an A grade on the Project. 
+- The required elements of Section 8 (Linear Regression Analysis) should produce sections 8.1 through 8.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 8.1 - 8.8, I won't even look at your section 8.9. Similarly, the required elements of Section 9 (Logistic Regression Analysis) should produce sections 9.1 - 9.6, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 9.1 - 9.6, I won't even look at your section 9.7.
+- I provide two alternatives for section 8.9. You may choose **exactly one** of those two alternatives for your portfolio. Similarly, I provide two alternatives for section 9.7. Again, pick at most one of those to present in your portfolio. In each case, do not present both alternatives in your portfolio, or I will ignore both of them. 
+- Although completing section 8.9 and/or section 9.7 can only help your grade, this is completely optional, and is not required to get an A grade on the Project. 
 
 ---
 

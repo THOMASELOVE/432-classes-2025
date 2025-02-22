@@ -21,7 +21,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break.
   
 --- 
-Project A: Suppose you've done everything in Sections 8 and 9 of the [Project A Demo](https://thomaselove.github.io/432-2025/432_projectA_demo.html) to the best of your ability, and you're wondering what else you might consider doing?
+
+**Project A**: Suppose you've done everything in Sections 8 and 9 of the [Project A Demo](https://thomaselove.github.io/432-2025/432_projectA_demo.html) to the best of your ability, and you're wondering what else you might consider doing?
 
 - Doing everything correctly in Sections 8 and 9 is great, and a good step towards an excellent grade.
 - For linear regression, you are welcome to include **either** choice 1 or choice 2 below. Don't do both.

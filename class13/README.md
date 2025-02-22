@@ -14,12 +14,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I have added the `miceafter` and the `nhanesA` packages to our list of R packages to install. Neither is critical for either Quiz or any of the Labs. Each might be useful in project work, and I'm including the `miceafter` package so that I can use a couple of functions from it to do one thing in the **support1000** example.
-2. When you run a model for Project A, especially a logistic regression model ...
-    - If you see huge coefficients or huge confidence interval values, try reducing the amount of non-linearity in the model.
-    - When you select a model at the end, don't select one with crazy huge coefficients or confidence interval end points.
+1. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).
+    - Neither of these packages is critical for either Quiz or any of the Labs.
+    - Each might be useful in Project B, and I'm including the `miceafter` package so that I can use a couple of functions from it to do one thing (look at a C statistic after a mice-based multiple imputation for a logistic regression model) in the **support1000** example, so that might be something you use in Project A, as well.
+2. A complete presentation of linear regression (Section 3) and logistic regression (Section 4) in the **support1000** example **will be posted** to our Shared Drive by class time. Other than fixing any typos we catch (and please let me know on Campuswire if you see any problems), I do not anticipate editing Sections 3 and 4 of this example further this semester. 
+3. When you run a logistic regression model for Project A, ...
+    - If you see huge coefficients or huge confidence interval values, especially in model Z, try reducing the amount of non-linearity in the model.
+    - When you select a model (Y or Z) at the end, don't select one with crazy huge coefficients or confidence interval end points.
     - It's fine to (in Project A) write something like "Although the Spearman rho-squared plot caused me at first to run this set of non-linear terms, as you can see, the coefficients exploded on me, so instead I ran a model with a different set of non-linear terms, where the coefficients are more in control" and then work with that second model.
-    - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break.
+    - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break for our help.
   
 --- 
 

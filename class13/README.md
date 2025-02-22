@@ -14,9 +14,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. When you run a model for Project A, especially a logistic regression model ...
+    - If you see huge coefficients or huge confidence interval values, try reducing the amount of non-linearity in the model.
+    - When you select a model at the end, don't select one with crazy huge coefficients or confidence interval end points.
+    - It's fine to (in Project A) write something like "Although the Spearman rho-squared plot caused me at first to run this set of non-linear terms, as you can see, the coefficients exploded on me, so instead I ran a model with a different set of non-linear terms, where the coefficients are more in control" and then work with that second model.
+    - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break.
+2. More to come.
 
 ---
+
 ## Today in "How To Be A Modern Scientist"
 
 ### On Scientific Code

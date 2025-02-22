@@ -14,7 +14,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. When you run a model for Project A, especially a logistic regression model ...
+1. I have added the `miceafter` and the `nhanesA` packages to our list of R packages to install. Neither is critical for either Quiz or any of the Labs. Each might be useful in project work, and I'm including the `miceafter` package so that I can use a couple of functions from it to do one thing in the **support1000** example.
+2. When you run a model for Project A, especially a logistic regression model ...
     - If you see huge coefficients or huge confidence interval values, try reducing the amount of non-linearity in the model.
     - When you select a model at the end, don't select one with crazy huge coefficients or confidence interval end points.
     - It's fine to (in Project A) write something like "Although the Spearman rho-squared plot caused me at first to run this set of non-linear terms, as you can see, the coefficients exploded on me, so instead I ran a model with a different set of non-linear terms, where the coefficients are more in control" and then work with that second model.

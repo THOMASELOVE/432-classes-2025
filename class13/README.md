@@ -25,20 +25,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - It's fine to (in Project A) write something like "Although the Spearman rho-squared plot caused me at first to run this set of non-linear terms, as you can see, the coefficients exploded on me, so instead I ran a model with a different set of non-linear terms, where the coefficients are more in control" and then work with that second model.
     - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break for our help.
 
----
-
-## Quiz 1 coming Friday
-
-I have posted an early draft of the instructions for Quiz 1 (which also lists the R packages used in the Quiz and provides a little information on three of the data sets I'll provide) to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) if you are curious.
-
-- By Friday 2025-02-28 at noon, [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
-    - Complete instructions and all of the questions will be provided to you in a PDF,
-    - A link to the Google Form Answer Sheet where you will answer the questions, and
-    - Links to download the Data Sets I am providing for you
-- Quiz 1 is due Wednesday 2025-03-05 at noon.
-    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
-    - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).
-
 --- 
 
 ### Project A: Extra Analytic Sections?
@@ -59,6 +45,20 @@ I have added two new "Extra" sections to the Project A instructions, which answe
 - The required elements of Section 8 (Linear Regression Analysis) should produce sections 8.1 through 8.8, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 8.1 - 8.8, I won't even look at your section 8.9. Similarly, the required elements of Section 9 (Logistic Regression Analysis) should produce sections 9.1 - 9.6, as shown in the [Project A Demonstration Project](https://thomaselove.github.io/432-2025/432_projectA_demo.html). If you have meaningful problems in sections 9.1 - 9.6, I won't even look at your section 9.7.
 - I provide two alternatives for section 8.9. You may choose **exactly one** of those two alternatives for your portfolio. Similarly, I provide two alternatives for section 9.7. Again, pick at most one of those to present in your portfolio. In each case, do not present both alternatives in your portfolio, or I will ignore both of them. 
 - Although completing section 8.9 and/or section 9.7 can only help your grade, this is completely optional, and is not required to get an A grade on the Project. 
+
+---
+
+## Quiz 1 coming Friday
+
+I have posted an early draft of the instructions for Quiz 1 (which also lists the R packages used in the Quiz and provides a little information on three of the data sets I'll provide) to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) if you are curious.
+
+- By Friday 2025-02-28 at noon, [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
+    - Complete instructions and all of the questions will be provided to you in a PDF,
+    - A link to the Google Form Answer Sheet where you will answer the questions, and
+    - Links to download the Data Sets I am providing for you
+- Quiz 1 is due Wednesday 2025-03-05 at noon.
+    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
+    - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).
 
 ---
 

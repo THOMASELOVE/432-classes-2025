@@ -12,6 +12,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
+## References from Today's Slides
+
+Today, we're talking about the fundamentals of power and sample size estimation. Here are some relevant references.
+
+- <https://thomaselove.github.io/431-notes/22-samplesize.html> is a chapter from my "old" 431 notes on Power and Sample Size considerations when comparing means.
+- <https://thomaselove.github.io/431-notes/27-power_for_rates.html> provides several examples on Power and Sample Size considertions when comparing proportions.
+- [This page](https://easystats.github.io/effectsize/articles/statistical_power.html) for interesting initial thoughts on power and sample size from the easystats framework. Unfortunately, the page hasn't been updated in a while.
+
+More extensive discussions available online include:
+
+- [Sample Size calculations with pwr](https://bookdown.org/pdr_higgins/rmrwr/sample-size-calculations-with-pwr.html), which is Chapter 20 from [Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/) by Peter D. R. Higgins
+- Some notes on [Sample Size Estimation and Power Analysis](https://rpubs.com/mbounthavong/sample_size_power_analysis_R) by Mark Bounthavong
+- Some notes on [Power and Sample Size Simulations in R](https://www.ohsu.edu/sites/default/files/2024-11/OCTRI%20PSS%20Simulations%20in%20R%20Seminar_11.21.24.pdf) (pdf) presented by Robin Baudier
+- A YouTube video [How to Calculate Sample Size and Power using R](https://www.youtube.com/watch?v=C5L8QSTzvBA)
+- [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) by Metin Bulus, which describes results using the pwrss package in R, which I haven't used.
+
 ## Announcements
 
 1. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).

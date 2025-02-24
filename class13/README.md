@@ -53,7 +53,7 @@ I have added two new "Extra" sections to the Project A instructions, which answe
 I have posted an early draft of the instructions for Quiz 1 (which also lists the R packages used in the Quiz and provides a little information on three of the data sets I'll provide) to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) if you are curious.
 
 - By Friday 2025-02-28 at noon, [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
-    - Complete instructions and all of the questions will be provided to you in a PDF,
+    - A link to a PDF file containing complete instructions and all of the questions,
     - A link to the Google Form Answer Sheet where you will answer the questions, and
     - Links to download the Data Sets I am providing for you
 - Quiz 1 is due Wednesday 2025-03-05 at noon.

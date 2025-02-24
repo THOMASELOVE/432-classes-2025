@@ -40,6 +40,11 @@ More extensive discussions available online include:
     - When you select a model (Y or Z) at the end, don't select one with crazy huge coefficients or confidence interval end points.
     - It's fine to (in Project A) write something like "Although the Spearman rho-squared plot caused me at first to run this set of non-linear terms, as you can see, the coefficients exploded on me, so instead I ran a model with a different set of non-linear terms, where the coefficients are more in control" and then work with that second model.
     - If coefficients explode on you in models you fit before March 6, contact Dr. Love or the TAs in office hours (TAs) or via email (to Dr Love) with your entire Quarto file, your data file (the tidy Rds is OK so long as we can use it to get your results) and a screen shot showing the problem you are having so that we can try to replicate and then diagnose the problem. Otherwise, you'll have to wait until after we return from spring break for our help.
+4. **On Statistical Significance and P-values** These are the two main articles on the subject that I ask people to read (or at least skim) in my courses.
+    - [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
+    - The American Statistical Association's 2016 [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose.
+5. Next time, we'll be talking about (among other things) Andrew Gelman and John Carlin's paper [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+
 
 --- 
 

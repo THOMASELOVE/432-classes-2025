@@ -26,7 +26,7 @@ More extensive discussions available online include:
 - Some notes on [Sample Size Estimation and Power Analysis](https://rpubs.com/mbounthavong/sample_size_power_analysis_R) by Mark Bounthavong
 - Some notes on [Power and Sample Size Simulations in R](https://www.ohsu.edu/sites/default/files/2024-11/OCTRI%20PSS%20Simulations%20in%20R%20Seminar_11.21.24.pdf) (pdf) presented by Robin Baudier
 - A YouTube video [How to Calculate Sample Size and Power using R](https://www.youtube.com/watch?v=C5L8QSTzvBA)
-- [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) by Metin Bulus, which describes results using the pwrss package in R, which I haven't used.
+- [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) by Metin Bulus, which describes results using the `pwrss` package in R, which I haven't used but maybe I should.
 
 ## Announcements
 

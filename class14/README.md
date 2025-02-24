@@ -12,6 +12,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
+## Annnouncements
+
+1. The Answer Sketch for Lab 5 will be posted to our Shared Drive as soon as everyone has either submitted the Lab or a note that they're skipping it.
+
 ## References from Today's Slides
 
 1. Andrew Gelman and John Carlin's 2014 paper [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)

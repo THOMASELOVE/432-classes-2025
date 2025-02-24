@@ -12,11 +12,26 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Announcements
+## References from Today's Slides
 
-1. To come.
+1. Andrew Gelman and John Carlin's 2014 paper [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+2. Andrew Gelman's blog: [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+    - [Statistics is like basketball, or knitting](https://statmodeling.stat.columbia.edu/2016/03/11/statistics-is-like-basketball-or-knitting/) from 2016-03-11, which discusses [The Association Between Men's Sexist Attitudes and Facial Hair](https://link.springer.com/article/10.1007/s10508-015-0637-7) by Oldmeadow and Dixon
+    - [You need 16 times the sample size to estimate an interaction than to estimate a main effect](https://statmodeling.stat.columbia.edu/2018/03/15/need16/) from 2018-03-15.
+3. [Post Hoc Power Calculations are not useful](https://library.virginia.edu/data/articles/post-hoc-power-calculations-are-not-useful) from University of Virginia's StatLab.
+4. [Post Hoc Power: Not Empowering, Just Misleading](https://www.journalofsurgicalresearch.com/article/S0022-4804(20)30502-3/abstract) by Andrew D. Althouse
+5. [The use of predicted confidence intervals when planning experiments and the misuse of power when interpreting results](https://www.acpjournals.org/doi/10.7326/0003-4819-121-3-199408010-00008) by Goodman and Berlin
+6. [The Abuse of Power](https://www.tandfonline.com/doi/abs/10.1198/000313001300339897) by Hoenig and Heisey
+
+## On Statistical Significance and P-values
+
+These are the two main articles on the subject that I ask people to read (or at least skim) in my courses.
+
+- [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
+- The American Statistical Association's 2016 [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose.
 
 ---
+
 ## Today in "How To Be A Modern Scientist"
 
 ### On Scientific Talks
@@ -35,3 +50,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Importance of the figures and the introduction and conclusion
 - Explain an interesting paper to someone else
 - Find out if others have read it
+
+---
+
+## Quiz 1 coming Friday
+
+I have posted an early draft of the instructions for Quiz 1 (which also lists the R packages used in the Quiz and provides a little information on three of the data sets I'll provide) to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) if you are curious.
+
+- By Friday 2025-02-28 at noon, [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
+    - A link to a PDF file containing complete instructions and all of the questions,
+    - A link to the Google Form Answer Sheet where you will answer the questions, and
+    - Links to download the Data Sets I am providing for you
+- Quiz 1 is due Wednesday 2025-03-05 at noon.
+    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
+    - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).
+

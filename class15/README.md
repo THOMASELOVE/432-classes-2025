@@ -12,9 +12,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Announcements
+## Spring Break
 
-1. To come.
+1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
+2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
+3. The TAs will not hold office hours from 2025-03-08 through 2025-03-14.
+4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
+    - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
+
 
 ---
 ## Today in "How To Be A Modern Scientist"

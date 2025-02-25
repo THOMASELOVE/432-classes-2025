@@ -98,3 +98,18 @@ I have posted an early draft of the instructions for Quiz 1 (which also lists th
 - Have a standard handle so it's easier for people to find you
 - Use commercial platforms
 - Don't be a jerk
+
+## Today's Excerpt from "[Moving to a World Beyond 'p < 0.05'](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)"
+
+from **Don't is Not Enough**
+
+If you’re just arriving to the debate, here’s a sampling of what not to do:
+
+- Don't base your conclusions solely on whether an association or effect was found to be “statistically significant” (i.e., the *p* value
+passed some arbitrary threshold such as *p* < 0.05).
+- Don't believe that an association or effect exists just because it was statistically significant.
+- Don't believe that an association or effect is absent just because it was not statistically significant.
+- Don't believe that your *p* value gives the probability that chance alone produced the observed association or effect or the probability that your test hypothesis is true.
+- Don't conclude anything about scientific or practical importance based on statistical significance (or lack thereof).
+
+

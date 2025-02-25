@@ -71,3 +71,14 @@ I have posted an early draft of the instructions for Quiz 1 (which also lists th
     - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
     - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).
 
+---
+
+## Today's Excerpt from "[Moving to a World Beyond 'p < 0.05'](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)"
+
+from **Don't say "Statistically Significant"**
+
+The [ASA Statement on P-Values and Statistical Significance (2016)](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2016_Pvalues_Context_Process_Purpose.pdf) stopped just short of recommending that declarations of "statistical significance" be abandoned. We take that step here.
+
+We conclude, based on our review of the articles in this special issue and the broader literature, that it is time to stop using the term  "statistically significant" entirely. Nor should variants such as "significantly different," "p < 0.05," and "nonsignificant" survive, whether expressed in words, by asterisks in a table, or in some other way.
+
+Regardless of whether it was ever useful, a declaration of "statistical significance" has today become meaningless.

@@ -34,7 +34,8 @@ More extensive discussions available online include:
 2. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).
     - Neither of these packages is critical for either Quiz or any of the Labs.
     - Each might be useful in Project B, and I'm including the `miceafter` package so that I can use a couple of functions from it to do one thing (look at a C statistic after a mice-based multiple imputation for a logistic regression model) in the **support1000** example, so that might be something you use in Project A, as well.
-3. A complete presentation of linear regression (Section 3) and logistic regression (Section 4) in the **support1000** example has been posted to our Shared Drive. Other than fixing any typos we catch (and please let me know on Campuswire if you see any problems), I do not anticipate editing Sections 3 and 4 of this example further this semester. 
+3. A reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which I have posted to our Shared Drive.
+    - Other than fixing any typos we catch (and please let me know on Campuswire if you see any problems), I do not anticipate editing Sections 3 and 4 of this example further this semester. 
 4. When you run a logistic regression model for Project A, ...
     - Ignore the coefficient and confidence interval for the intercept after exponentiating your coefficients to look at odds ratios.
     - If you see huge coefficients or huge confidence interval values, especially in model Z, try reducing the amount of non-linearity in the model.

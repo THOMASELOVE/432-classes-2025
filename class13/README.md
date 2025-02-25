@@ -15,11 +15,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Lab 4 grades and feedback are posted to our Shared Drive's Course Grading Roster. The updated Lab 4 answer sketch and rubric (edited a few times since our last class) is also posted to our Shared Drive.
     - Note that some Labs generate a lower distribution of grades than others (for example, the medians for the first four labs have been 44, 46, 39, and 42.) In April, I will account for this (and tell you how I do it) so that each of Labs 1-5 have a similar impact on your grade in the course (remember that your lowest grade among labs 1-5 is dropped.)
 2. A reminder that [Lab 5](https://thomaselove.github.io/432-2025/lab5.html) is due at noon tomorrow (Wednesday 2025-02-26) to [Canvas](https://canvas.case.edu). If you are skipping this Lab, let us know via a note posted to [Canvas](https://canvas.case.edu) **before** the deadline.
-3. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).
-    - Neither of these packages is critical for either Quiz or any of the Labs.
-    - Each might be useful in Project B, and I'm including the `miceafter` package so that I can use a couple of functions from it to do one thing (look at a C statistic after a mice-based multiple imputation for a logistic regression model) in the **support1000** example, so that might be something you use in Project A, as well.
-4. A reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which I have posted to our Shared Drive.
+3. A reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which I have posted to our Shared Drive.
     - Other than fixing any typos we catch (and please let me know on Campuswire if you see any problems), I do not anticipate editing Sections 3 and 4 of this example further this semester. 
+4. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).
+    - Neither of these packages is critical for either Quiz or any of the Labs.
+    - Each might be useful in Project B, and I'm including the `miceafter` package so that I can use a couple of functions from it to eventually do one thing (look at a C statistic after a mice-based multiple imputation for a logistic regression model) in the **support1000** example, but it's not there yet, as I decided not to do it at this time.
 5. When you run a logistic regression model for Project A, ...
     - Ignore the coefficient and confidence interval for the intercept after exponentiating your coefficients to look at odds ratios.
     - If you see huge coefficients or huge confidence interval values, especially in model Z, try reducing the amount of non-linearity in the model.

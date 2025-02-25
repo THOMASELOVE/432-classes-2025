@@ -13,6 +13,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Lab 4 grades and feedback are posted to our Shared Drive's Course Grading Roster. The updated Lab 4 answer sketch and rubric (edited a few times since our last class) is also posted to our Shared Drive.
+    - Note that some Labs generate a lower distribution of grades than others (for example, the medians for the first four labs have been 44, 46, 39, and 42.) In April, I will account for this (and tell you how I do it) so that each of Labs 1-5 have a similar impact on your grade in the course (remember that your lowest grade among labs 1-5 is dropped.)
 2. A reminder that [Lab 5](https://thomaselove.github.io/432-2025/lab5.html) is due at noon tomorrow (Wednesday 2025-02-26) to [Canvas](https://canvas.case.edu). If you are skipping this Lab, let us know via a note posted to [Canvas](https://canvas.case.edu) **before** the deadline.
 3. I have added the `miceafter` and the `nhanesA` packages to [our list of R packages to install](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install).
     - Neither of these packages is critical for either Quiz or any of the Labs.

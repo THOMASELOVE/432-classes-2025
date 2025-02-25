@@ -32,3 +32,20 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Put all your teaching materials online
 - Put teaching videos online
 - Develop a thick skin
+
+----
+
+## Today's Excerpt from "[Moving to a World Beyond 'p < 0.05'](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)"
+
+from **Don't say "Statistically Significant"**
+
+To move forward to a world beyond "p < 0.05," we must recognize afresh that statistical inference is not—and never has been—equivalent to scientific inference. However, looking to statistical significance for a marker of scientific observations' credibility has created a guise of equivalency. 
+
+Moving beyond "statistical significance" opens researchers to the real significance of statistics, which is "the science of learning from data, and of measuring, controlling, and communicating uncertainty."
+
+In sum, "statistically significant" -- don't say it and don't use it.
+
+There are many Do's. With the don’ts out of the way, we can finally discuss ideas for specific, positive, constructive actions. 
+
+We have a massive list of them in [the seventh section of this editorial](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)! In that section, the authors of all the articles in this special issue each provide their
+own short set of do's.

@@ -15,6 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Annnouncements
 
 1. The Answer Sketch for Lab 5 will be posted to our Shared Drive as soon as everyone has either submitted the Lab or a note that they're skipping it.
+2. A reminder that a reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) in the **support1000** example has been posted to our Shared Drive. Other than fixing any typos we catch (and please let me know on Campuswire if you see any problems), I do not anticipate editing Sections 3 and 4 of this example further this semester. 
+
 
 ## References from Today's Slides
 

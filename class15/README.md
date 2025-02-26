@@ -12,6 +12,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
+## Announcements
+
+1. Remember that your [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html) answers on the Google Form must be submitted by noon tomorrow (Wednesday 2025-03-05). Technically, the form will close at 1 PM, and won't re-open. Thank you.
+2. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
+
+---
+
 ## Spring Break
 
 1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
@@ -38,6 +45,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Summarize at regular intervals
 - Include a thread for literature curation
 
+### On Books
+
+- Think shorter
+- Develop a book on a platform that allows feedback
+- Sell your book on multiple online platforms
+
 ---
 
 ## Today's Excerpt from "[Moving to a World Beyond 'p < 0.05'](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)"
@@ -56,10 +69,5 @@ Yet the dichotomization into "significant" and "not significant" is taken as an 
 
 As Gelman and Stern (2006) famously observed, the difference between "significant" and "not significant" is not itself statistically significant.
 
-### On Books
-
-- Think shorter
-- Develop a book on a platform that allows feedback
-- Sell your book on multiple online platforms
 
 

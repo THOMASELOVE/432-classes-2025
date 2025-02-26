@@ -34,6 +34,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Moertel et al. (1990) [Levamisole and fluorouracil for adjuvant therapy of resected colon carcinoma](https://pubmed.ncbi.nlm.nih.gov/2300087/). *New England J of Medicine*, 332:352-358. DOI: 10.1056/NEJM199002083220602
 - The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
 - The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
+- My [course notes chapter on Time-to-Event / Survival Data](https://thomaselove.github.io/432-notes/survival_data.html)
 
 ---
 

@@ -12,7 +12,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Spring Break
+## Today's Agenda
+
+1. README announcements and things...
+2. Quiz 1 results
+3. More on time-to-event (survival) data (see the slides)
+4. Ask Me Anything about Project A.
+
+## Announcements
 
 1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
 2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
@@ -20,14 +27,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
     - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
 5. Remember that [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due on Wednesday 2025-03-26 at Noon. This is a great thing to get out of the way during the Break.
-6. Those of you who want to get way ahead of things, the [Project B instructions] are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) exists. The form is due Wednesday 2025-04-02 at Noon.
-
-----
-
-## Announcements
-
-1. In today's class, we'll discuss the Quiz 1 results, discuss some additional information on time-to-event (survival) data (see the slides), and answer any of your questions about Project A.
-2. More to come.
+6. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) exists. The form is due Wednesday 2025-04-02 at Noon.
 
 ---
 

@@ -20,6 +20,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
     - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
 
+---
+
+## Sources related to Today's Slides
+
+- The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
+- The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
+- My [course notes chapter on Time-to-Event / Survival Data](https://thomaselove.github.io/432-notes/survival_data.html)
 
 ---
 ## Today in "How To Be A Modern Scientist"

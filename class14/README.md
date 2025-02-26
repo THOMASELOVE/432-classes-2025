@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. The Answer Sketch for Lab 5 will be posted to our Shared Drive by class time.
 2. A reminder that a reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which has been posted to our Shared Drive.
 3. One of the two open opportunities for bonus credit on Campuswire will close down (to new submissions that receive bonus credit) tomorrow.
-4. Dr. Love will have an announcement in class about the availability of [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html).
+4. Dr. Love will discuss Quiz 1 at the end of today's class.
 
 ## References from Today's Slides
 
@@ -60,18 +60,6 @@ These are the two main articles on the subject that I ask people to read (or at 
 
 ---
 
-## Quiz 1 
-
-- [The Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
-    - A link to a PDF file containing complete instructions and all of the questions,
-    - A link to the Google Form Answer Sheet where you will answer the questions, and
-    - Links to download the Data Sets I am providing for you
-- Quiz 1 is due Wednesday 2025-03-05 at noon.
-    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
-    - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).
-
----
-
 ## Today's Excerpt from "[Moving to a World Beyond 'p < 0.05'](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)"
 
 from **Don't say "Statistically Significant"**
@@ -81,3 +69,15 @@ The [ASA Statement on P-Values and Statistical Significance (2016)](https://gith
 We conclude, based on our review of the articles in this special issue and the broader literature, that it is time to stop using the term  "statistically significant" entirely. Nor should variants such as "significantly different," "p < 0.05," and "nonsignificant" survive, whether expressed in words, by asterisks in a table, or in some other way.
 
 Regardless of whether it was ever useful, a declaration of "statistical significance" has today become meaningless.
+
+---
+
+## Quiz 1 
+
+- [The Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
+    - A link to a PDF file containing complete instructions and all of the questions,
+    - A link to the Google Form Answer Sheet where you will answer the questions, and
+    - Links to download the Data Sets I am providing for you
+- Quiz 1 is due Wednesday 2025-03-05 at noon.
+    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
+    - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html).

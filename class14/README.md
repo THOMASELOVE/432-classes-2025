@@ -14,9 +14,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Annnouncements
 
-1. The Answer Sketch for Lab 5 will be posted to our Shared Drive as soon as everyone has either submitted the Lab or a note that they're skipping it.
+1. The Answer Sketch for Lab 5 will be posted to our Shared Drive by class time.
 2. A reminder that a reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which has been posted to our Shared Drive.
 3. One of the two open opportunities for bonus credit on Campuswire will close down (to new submissions that receive bonus credit) tomorrow.
+4. Dr. Love will have an announcement in class about the availability of [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html).
 
 ## References from Today's Slides
 
@@ -59,11 +60,9 @@ These are the two main articles on the subject that I ask people to read (or at 
 
 ---
 
-## Quiz 1 coming Friday
+## Quiz 1 
 
-I have posted an early draft of the instructions for Quiz 1 (which also lists the R packages used in the Quiz and provides a little information on three of the data sets I'll provide) to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) if you are curious.
-
-- By Friday 2025-02-28 at noon, [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
+- [The Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html) will provide:
     - A link to a PDF file containing complete instructions and all of the questions,
     - A link to the Google Form Answer Sheet where you will answer the questions, and
     - Links to download the Data Sets I am providing for you

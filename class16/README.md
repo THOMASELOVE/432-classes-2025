@@ -27,7 +27,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
     - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
 5. Remember that [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due on Wednesday 2025-03-26 at Noon. This is a great thing to get out of the way during the Break.
-6. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) exists. The form is due Wednesday 2025-04-02 at Noon.
+6. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) is open. The form is due Wednesday 2025-04-02 at Noon.
 
 ---
 

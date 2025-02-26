@@ -32,7 +32,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - Laurie et al. (1989) [Surgical adjuvant therapy of large-bowel carcinoma: An evaluation of levamisole and the combination of levamisole and fluorouracil: The North Central Cancer Treatment Group and the Mayo Clinic](https://pubmed.ncbi.nlm.nih.gov/2778478/). *J Clinical Oncology*, 7:1447-1456. DOI: 10.1200/JCO.1989.7.10.1447
 - Moertel et al. (1990) [Levamisole and fluorouracil for adjuvant therapy of resected colon carcinoma](https://pubmed.ncbi.nlm.nih.gov/2300087/). *New England J of Medicine*, 332:352-358. DOI: 10.1056/NEJM199002083220602
-
+- The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
+- The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
 ---
 
 ## Today in "How To Be A Modern Scientist"

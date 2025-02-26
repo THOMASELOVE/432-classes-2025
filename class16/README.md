@@ -24,7 +24,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. In today's class, we'll discuss the Quiz 1 results, discuss some additional information on time-to-event (survival) data (see the slides), and answer any of your questions about Project A.
+2. More to come.
 
 ---
 

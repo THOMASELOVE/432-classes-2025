@@ -50,6 +50,16 @@ These are the two main articles on the subject that I ask people to read (or at 
 
 ---
 
+## Some of the Errors in the `class14_demo_bad.qmd` file are:
+
+- not telling `read_excel()` that there are missing values in the Excel file with NA, as well as blanks,
+- loading [one of the core tidyverse packages](https://www.tidyverse.org/packages/#core-tidyverse) by itself,
+- adding a blank line when trying to set parameters for displaying the R Packages code chunk,
+- not adding a blank line before setting a heading for Session Information
+- using a section number for a section (Loading the Data) that should be unnumbered.
+
+---
+
 ## Today in "How To Be A Modern Scientist"
 
 ### On Scientific Talks
@@ -80,14 +90,6 @@ The [ASA Statement on P-Values and Statistical Significance (2016)](https://gith
 We conclude, based on our review of the articles in this special issue and the broader literature, that it is time to stop using the term  "statistically significant" entirely. Nor should variants such as "significantly different," "p < 0.05," and "nonsignificant" survive, whether expressed in words, by asterisks in a table, or in some other way.
 
 Regardless of whether it was ever useful, a declaration of "statistical significance" has today become meaningless.
-
-## Some of the Errors in the `class14_demo_bad.qmd` file are:
-
-- not telling `read_excel()` that there are missing values in the Excel file with NA, as well as blanks,
-- loading [one of the core tidyverse packages](https://www.tidyverse.org/packages/#core-tidyverse) by itself,
-- adding a blank line when trying to set parameters for displaying the R Packages code chunk,
-- not adding a blank line before setting a heading for Session Information
-- using a section number for a section that should be unnumbered.
 
 ---
 

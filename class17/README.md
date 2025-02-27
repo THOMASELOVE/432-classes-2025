@@ -12,6 +12,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Today's Agenda
+## Agenda and Announcements
 
 To come.

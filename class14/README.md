@@ -79,7 +79,8 @@ Regardless of whether it was ever useful, a declaration of "statistical signific
     - A link to a PDF file containing complete instructions and all of the questions,
     - A link to the Google Form Answer Sheet where you will answer the questions, and
     - Links to download the Data Sets I am providing for you
-- Quiz 1 is due Wednesday 2025-03-05 at noon.
-    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire.
+- Quiz 1 is due Wednesday 2025-03-05 at noon. 
+    - You can obtain help during the Quiz period by (1) emailing Dr. Love or (2) asking him questions during Class 15, on Tuesday 2025-03-04 from 1 to 2:15 PM. We will not answer questions about Quiz 1 posed in any other way, and that includes Campuswire. 
     - We are happy to see you in office hours or on Campuswire while the Quiz is out, but we won't answer questions there about the Quiz.
     - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html). Check your email and that page before you submit the final version of your Google Form Answer Sheet.
+    - Good luck!

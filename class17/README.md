@@ -15,3 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Agenda and Announcements
 
 To come.
+
+## From Today's Slides
+
+- [Interpreting Log Transformations](https://library.virginia.edu/data/articles/interpreting-log-transformations-in-a-linear-model).

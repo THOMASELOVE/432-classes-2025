@@ -84,7 +84,7 @@ Regardless of whether it was ever useful, a declaration of "statistical signific
 ## Some of the Errors in the `class14_demo_bad.qmd` file are:
 
 - not telling `read_excel()` that there are missing values in the Excel file with NA, as well as blanks,
-- loading one of the core tidyverse packages by itself,
+- loading [one of the core tidyverse packages](https://www.tidyverse.org/packages/#core-tidyverse) by itself,
 - adding a blank line when trying to set parameters for displaying the R Packages code chunk,
 - not adding a blank line before setting a heading for Session Information
 - using a section number for a section that should be unnumbered.

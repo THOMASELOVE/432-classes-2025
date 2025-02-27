@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Annnouncements
 
 1. The Answer Sketch for Lab 5 is available on our Shared Drive.
-2. A reminder that a reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which has been posted to our Shared Drive.
+2. A reminder that a reasonably complete presentation of code for linear regression (Section 3) and logistic regression (Section 4) is found in the **support1000** example which is on our Shared Drive.
 3. One of the two open opportunities for bonus credit on Campuswire will close down (to new submissions that receive bonus credit) at 5 PM today.
 4. The [course calendar](https://thomaselove.github.io/432-2025/calendar.html) is now up to date, including everything you need to know about the rest of the semester's plans.
 5. Dr. Love will discuss Quiz 1 at the end of today's class.

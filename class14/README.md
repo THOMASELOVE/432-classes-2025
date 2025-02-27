@@ -20,6 +20,16 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. The [course calendar](https://thomaselove.github.io/432-2025/calendar.html) is now up to date, including everything you need to know about the rest of the semester's plans.
 5. Dr. Love will discuss Quiz 1 at the end of today's class.
 
+## A little demonstration
+
+There's a directory on our Shared Drive called **Demo for Class 14**. In that drive, you'll find:
+
+- a data folder containing the `hbp_3024.xlsx` file you've used in Labs
+- a Quarto file called `class14_demo_good.qmd` and the resulting HTML result, and
+- a Quarto file called `class14_demo_bad.qmd` and the resulting HTML result
+
+which I will use in class today to demonstrate five errors I see people making.
+
 ## References from Today's Slides
 
 1. Andrew Gelman and John Carlin's 2014 paper [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
@@ -71,6 +81,14 @@ We conclude, based on our review of the articles in this special issue and the b
 
 Regardless of whether it was ever useful, a declaration of "statistical significance" has today become meaningless.
 
+## Some of the Errors in the `class14_demo_bad.qmd` file are:
+
+- not telling `read_excel()` that there are missing values in the Excel file with NA, as well as blanks,
+- loading one of the core tidyverse packages by itself,
+- adding a blank line when trying to set parameters for displaying the R Packages code chunk,
+- not adding a blank line before setting a heading for Session Information
+- using a section number for a section that should be unnumbered.
+
 ---
 
 ## Quiz 1 
@@ -84,3 +102,5 @@ Regardless of whether it was ever useful, a declaration of "statistical signific
     - We are happy to see you in office hours or on Campuswire while the Quiz is out, but we won't answer questions there about the Quiz.
     - If we need to make changes or add hints related to Quiz 1 after it is initially made available to you, Dr. Love will email that information to you and it will also be posted to [the Quiz 1 Links page](https://thomaselove.github.io/432-2025/quiz1.html). Check your email and that page before you submit the final version of your Google Form Answer Sheet.
     - Good luck!
+
+

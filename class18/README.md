@@ -12,7 +12,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda and Announcements
+## Announcements
 
 To come.
+
+## Today's Topics
+
+1. What happens if we fit a linear model to a count outcome? (This and items 2-3 also build on the medicare data from Class 15.)
+2. How do I think about selecting non-linear terms in light of Spearman $\rho^2$? 
+3. How do we fit a Poisson regression with the `rms` package, and do we then get everything we get with `ols()` and `lrm()`?
 

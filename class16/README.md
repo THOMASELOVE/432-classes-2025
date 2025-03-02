@@ -73,6 +73,12 @@ There are many Do's. With the don’ts out of the way, we can finally discuss id
 We have a massive list of them in [the seventh section of this editorial](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/ASA_2019_A_World_Beyond.pdf)! In that section, the authors of all the articles in this special issue each provide their
 own short set of do's.
 
+["Not statistically significant" is not the same as zero](https://statmodeling.stat.columbia.edu/2021/09/28/not-statistically-significant-is-not-the-same-as-zero/) from Andy Gelman's blog, 2021-02-28. The money quote for me is this:
+
+> This illustrates one of the challenges of statistical communication: there are so many opportunities to garble the message. And even if you make no mistakes, people can still misinterpret what you’ve written, given the **norm of acting as if every study either makes a discovery or proves that something equals zero**.
+
+- For more on a related example, you might be interested in [RCT on use of cloth vs surgical masks](https://statmodeling.stat.columbia.edu/2020/04/15/rct-on-use-of-cloth-vs-surgical-masks/) from 2020-04-15.
+
 ----
 
 # Some Project A Tips
@@ -138,3 +144,4 @@ We suggest you develop about 8 slides. This should include…
 Sometimes, we see people fitting models to predict a binary outcome using a predictor which completely determines that outcome (for example, if predictor > 12, then outcome is always no, or if predictor = "Yes" then outcome is always no.)
 
 Take a look at [this toy example with explosive coefficients](https://rpubs.com/TELOVE/explosion_logistic_432) to see one way in which this problem can emerge and what to do about it.
+

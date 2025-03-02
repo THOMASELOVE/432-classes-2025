@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda and Announcements
+## Announcements
 
 To come.
 

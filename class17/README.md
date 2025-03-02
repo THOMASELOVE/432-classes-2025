@@ -19,3 +19,14 @@ To come.
 ## From Today's Slides
 
 - [Interpreting Log Transformations](https://library.virginia.edu/data/articles/interpreting-log-transformations-in-a-linear-model).
+
+## Why I use `read_csv()` all the time, and never use `read.csv()` anymore
+
+1. `read_csv()` is much faster than `read.csv()`, 
+2. `read_csv()` provides a progress meter and a compact method for specifying column types,
+3. `read_csv()` will read compressed files automatically,
+4. `read_csv()` automatically creates a tibble, and
+5. `read_csv()` allows me to speed the process of debugging by providing much more useful error messages about which rows are problematic, especially when the error is non-fatal.
+
+- For more details, see the [Data import section of R for Data Science](https://r4ds.hadley.nz/data-import.html).
+- From Josh Gonzales at Medium: [read_csv(): The Best Way to import CSV data into R](https://medium.com/r-tutorials/r-functions-daily-read-csv-3c418c25cba4)

@@ -19,6 +19,7 @@ To come.
 ## Sources from Today's Slides
 
 - [UCLA site on Ordinal Logistic Regression](http://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/)
+    - [How do I interpret the coefficients in an ordinal logistic regression in R?](https://stats.oarc.ucla.edu/r/faq/ologit-coefficients/)
 - [UCLA site on Multinomial Logistic Regression](https://stats.oarc.ucla.edu/r/dae/multinomial-logistic-regression/)
 - [MASS reference manual (pdf)](https://cran.r-project.org/web/packages/MASS/MASS.pdf)
 - Frank Harrell on [Model Uncertainty, Penalization, and Parsimony (pdf)](http://hbiostat.org/talks/iscb98.pdf)

@@ -30,6 +30,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 6. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) is open. The form is due Wednesday 2025-04-02 at Noon.
     - On 2025-03-03, I updated the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html), and the [Project B portfolio template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd) on our [432 data page](https://github.com/THOMASELOVE/432-data), so make sure you have the new versions.
 7. After the Quiz 1 deadline, I updated the `sup1000` example on our Shared Drive to include new sections 5-8, which cover the main regression modeling approaches we will see after Spring Break.
+8. Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
+
 
 ---
 

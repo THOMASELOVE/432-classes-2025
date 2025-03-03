@@ -14,7 +14,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. **We have switched to in-person classes.** Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
+2. More to come.
 
 ## Regression on Count Outcomes
 

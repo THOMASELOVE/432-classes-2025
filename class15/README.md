@@ -23,7 +23,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If I don't address a question about Quiz 1 that you have today, you can email me about it any time before 9 AM tomorrow and I'll try to help.
 4. More on power from the easystats framework is available at [Statistical Power](https://easystats.github.io/effectsize/articles/statistical_power.html).
 5. Note that my lists of R packages this semester have never included separate loading of any of the core **tidyverse** packages, or the packages in the **easystats** framework. The core **tidyverse** packages are listed at <https://www.tidyverse.org/packages/#core-tidyverse>, and the packages in the **easystats** framework are listed at <https://easystats.github.io/easystats/>. If you separately load any of these packages, you will lose points on any work you submit after Spring Break.
-6. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
+6. Similarly, we expect you to be using **R version 4.4.2 (or later)** on any work you turn in after Spring Break, and will penalize you for using earlier versions.
+7. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
 
 ---
 

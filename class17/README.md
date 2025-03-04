@@ -15,7 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. **We have switched to in-person classes.** Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
-2. More to come.
+2. The latest version of RStudio (ver 2024.12.1+563) is [available now](https://posit.co/download/rstudio-desktop/) and should be safe for you to download and use. The latest version of R, version 4.4.3, is [also now available](https://cran.case.edu/). I encouraged you to upgrade to these over Spring Break, but if you haven't done it, please do it now. Either version 4.4.2 or 4.4.3 of R is OK for the rest of this semester.
+3. More to come.
 
 ## Regression on Count Outcomes
 

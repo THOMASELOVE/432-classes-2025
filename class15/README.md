@@ -16,25 +16,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To register or learn more about the Joint Biostatistics Symposium to be held on 2025-04-07 from 10:30 AM to 4 PM at CWRU, visit <https://case.edu/medicine/pqhs/node/3455>. Jeff Leek is the [keynote speaker](https://bioscinema.github.io/biostatsymposium/#keynote-speaker).
-2. The [Demonstration for Project A](https://thomaselove.github.io/432-2025/432_projectA_demo.html) displays the minimum requirements for a B grade on the project. The main things that are missing in the Demonstration are careful interpretations and explanations of some of the ideas, results and code. You need to include those pieces in order to move from a low B to some sort of A grade. In addition, the Demonstration does not include the optional extra sections 8.9 and 9.7.
-3. Remember that your [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html) answers on the Google Form must be submitted by noon tomorrow (Wednesday 2025-03-05). Technically, the form will close at 1 PM, and won't re-open. Thank you, and good luck!
-    - Please check the [Quiz 1 page](https://thomaselove.github.io/432-2025/quiz1.html) and your email to see if Dr. Love has provided any changes or clarifications to the Quiz before making your final submission.
-    - If I don't address a question about Quiz 1 that you have today, you can email me about it any time before 9 AM tomorrow and I'll try to help.
-4. More on power from the easystats framework is available at [Statistical Power](https://easystats.github.io/effectsize/articles/statistical_power.html).
-5. Note that my lists of R packages this semester have never included separate loading of any of the core **tidyverse** packages, or the packages in the **easystats** framework. The core **tidyverse** packages are listed at <https://www.tidyverse.org/packages/#core-tidyverse>, and the packages in the **easystats** framework are listed at <https://easystats.github.io/easystats/>. If you separately load any of these packages, you will lose points on any work you submit after Spring Break.
-6. Similarly, we expect you to be using **R version 4.4.2 (or later)** on any work you turn in after Spring Break, and will penalize you for using earlier versions.
-7. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
-
----
-
-## Spring Break
-
-1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
-2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
-3. The TAs will not hold office hours from 2025-03-08 through 2025-03-14.
-4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
-    - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
+1. Grades and feedback on [Lab 5](https://thomaselove.github.io/432-2025/lab5.html) are now available on the Course Grading Roster on our Shared Drive.
+2. Remember that your [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html) answers on the Google Form must be submitted by noon tomorrow (Wednesday 2025-03-05). Technically, the form will close at 1 PM, and won't re-open. Thank you, and good luck!
+    - Please don't leave any questions blank.
+    - Please be sure to check the [Quiz 1 page](https://thomaselove.github.io/432-2025/quiz1.html) and your email to see if Dr. Love has provided any changes or clarifications to the Quiz before making your final submission.
+    - If I don't address a question about Quiz 1 that you have today (I'll take questions on the Quiz in the last 20 minutes or so of class) just email me about it any time before 9 AM tomorrow and I'll try to help.
+3. To register or learn more about the Joint Biostatistics Symposium to be held on 2025-04-07 from 10:30 AM to 4 PM at CWRU, visit <https://case.edu/medicine/pqhs/node/3455>. Jeff Leek is the [keynote speaker](https://bioscinema.github.io/biostatsymposium/#keynote-speaker).
+4. The [Demonstration for Project A](https://thomaselove.github.io/432-2025/432_projectA_demo.html) displays the minimum requirements for a B grade on the project. The main things that are missing in the Demonstration are careful interpretations and explanations of some of the ideas, results and code. You need to include those pieces in order to move from a low B to some sort of A grade. In addition, the Demonstration does not include the optional extra sections 8.9 and 9.7.
+    - Note that my lists of R packages this semester have never included separate loading of any of the core **tidyverse** packages, or the packages in the **easystats** framework. The core **tidyverse** packages are listed at <https://www.tidyverse.org/packages/#core-tidyverse>, and the packages in the **easystats** framework are listed at <https://easystats.github.io/easystats/>. If you separately load any of these packages, you will lose points on any work you submit after Spring Break.
+    - Similarly, we expect you to be using **R version 4.4.2 (or later)** on any work you turn in after Spring Break, and will penalize you for using earlier versions.
+5. More on power from the easystats framework is available at [Statistical Power](https://easystats.github.io/effectsize/articles/statistical_power.html).
+6. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
 
 ---
 
@@ -43,22 +35,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
 - The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
 - My [course notes chapter on Time-to-Event / Survival Data](https://thomaselove.github.io/432-notes/survival_data.html)
-
----
-## Today in "How To Be A Modern Scientist"
-
-### On Internal Scientific Communication
-
-- Use a tool that will let you manage groups
-- Open separate discussions for each project
-- Summarize at regular intervals
-- Include a thread for literature curation
-
-### On Books
-
-- Think shorter
-- Develop a book on a platform that allows feedback
-- Sell your book on multiple online platforms
 
 ---
 
@@ -77,6 +53,33 @@ For example, no p-value can reveal the plausibility, presence, truth, or importa
 Yet the dichotomization into "significant" and "not significant" is taken as an imprimatur of authority on these characteristics....
 
 As [Gelman and Stern (2006) (pdf)](https://sites.stat.columbia.edu/gelman/research/published/signif4.pdf) famously observed, the difference between "significant" and "not significant" is not itself statistically significant.
+
+---
+
+## Today in "How To Be A Modern Scientist"
+
+### On Internal Scientific Communication
+
+- Use a tool that will let you manage groups
+- Open separate discussions for each project
+- Summarize at regular intervals
+- Include a thread for literature curation
+
+### On Books
+
+- Think shorter
+- Develop a book on a platform that allows feedback
+- Sell your book on multiple online platforms
+
+---
+
+## Spring Break Reminders
+
+1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
+2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
+3. The TAs will not hold office hours from 2025-03-08 through 2025-03-14.
+4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
+    - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
 
 
 

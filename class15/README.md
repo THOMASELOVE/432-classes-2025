@@ -76,7 +76,7 @@ For example, no p-value can reveal the plausibility, presence, truth, or importa
 
 Yet the dichotomization into "significant" and "not significant" is taken as an imprimatur of authority on these characteristics....
 
-As Gelman and Stern (2006) famously observed, the difference between "significant" and "not significant" is not itself statistically significant.
+As [Gelman and Stern (2006) (pdf)](https://sites.stat.columbia.edu/gelman/research/published/signif4.pdf) famously observed, the difference between "significant" and "not significant" is not itself statistically significant.
 
 
 

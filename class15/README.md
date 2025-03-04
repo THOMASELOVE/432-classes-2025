@@ -16,13 +16,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To register or learn more about the Joint Biostatistics Symposium to be held on 2025-04-07 from 10:30 AM to 4 PM at CWRU, visit <https://bioscinema.github.io/biostatsymposium/>. Jeff Leek is the [keynote speaker](https://bioscinema.github.io/biostatsymposium/#keynote-speaker).
+1. To register or learn more about the Joint Biostatistics Symposium to be held on 2025-04-07 from 10:30 AM to 4 PM at CWRU, visit <https://case.edu/medicine/pqhs/node/3455>. Jeff Leek is the [keynote speaker](https://bioscinema.github.io/biostatsymposium/#keynote-speaker).
 2. The [Demonstration for Project A](https://thomaselove.github.io/432-2025/432_projectA_demo.html) displays the minimum requirements for a B grade on the project. The main things that are missing in the Demonstration are careful interpretations and explanations of some of the ideas, results and code. You need to include those pieces in order to move from a low B to some sort of A grade. In addition, the Demonstration does not include the optional extra sections 8.9 and 9.7.
 3. Remember that your [Quiz 1](https://thomaselove.github.io/432-2025/quiz1.html) answers on the Google Form must be submitted by noon tomorrow (Wednesday 2025-03-05). Technically, the form will close at 1 PM, and won't re-open. Thank you, and good luck!
     - Please check the [Quiz 1 page](https://thomaselove.github.io/432-2025/quiz1.html) and your email to see if Dr. Love has provided any changes or clarifications to the Quiz before making your final submission.
     - If I don't address a question about Quiz 1 that you have today, you can email me about it any time before 9 AM tomorrow and I'll try to help.
-4. More on power from the easystats framework is available at [Statistical Power](https://easystats.github.io/effectsize/articles/statistical_power.html)
-5. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
+4. More on power from the easystats framework is available at [Statistical Power](https://easystats.github.io/effectsize/articles/statistical_power.html).
+5. Note that my lists of R packages this semester have never included separate loading of any of the core **tidyverse** packages, or the packages in the **easystats** framework. The core **tidyverse** packages are listed at <https://www.tidyverse.org/packages/#core-tidyverse>, and the packages in the **easystats** framework are listed at <https://easystats.github.io/easystats/>. If you separately load any of these packages, you will lose points on any work you submit after Spring Break.
+6. Today's Agenda: (1) Discuss time-to-event (survival) data (see slides) (2) Ask Me Anything session about Quiz 1.
 
 ---
 

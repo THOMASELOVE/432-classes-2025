@@ -37,7 +37,7 @@ Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhe
 
 ## Methods for Regression on Count Outcomes (Notes, Chapters 24-26)
 
-These sources come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
+These recent examples from the open-access literature come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
 
 - Green JA (2021) [Too many zeros and/or highly skewed? A tutorial on modelling health behaviour as count data with Poisson and negative binomial regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159206) Health Psychol Behav Med. 2021; 9(1): 436–455. [DOI](https://doi.org/10.1080%2F21642850.2021.1920416)
 - Fernandez GA and Vatcheva KP (2022) [A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351158/) BMC Med Res Methodol. 2022; 22: 211. [DOI](https://doi.org/10.1186%2Fs12874-022-01685-8)

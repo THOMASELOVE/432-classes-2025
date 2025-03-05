@@ -35,6 +35,18 @@ Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhe
 
 - [Interpreting Log Transformations](https://library.virginia.edu/data/articles/interpreting-log-transformations-in-a-linear-model).
 
+## Methods for Regression on Count Outcomes (Notes, Chapters 24-26)
+
+These sources come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
+
+- Green JA (2021) [Too many zeros and/or highly skewed? A tutorial on modelling health behaviour as count data with Poisson and negative binomial regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159206) Health Psychol Behav Med. 2021; 9(1): 436–455. [DOI](https://doi.org/10.1080%2F21642850.2021.1920416)
+- Fernandez GA and Vatcheva KP (2022) [A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351158/) BMC Med Res Methodol. 2022; 22: 211. [DOI](https://doi.org/10.1186%2Fs12874-022-01685-8)
+- Schaumberg K et al. (2018) [Improving Prediction of Eating-Related Behavioral Outcomes with Zero-Sensitive Regression Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778476/) Appetite. 2018 Oct 1; 129: 252–261. [DOI](https://doi.org/10.1016%2Fj.appet.2018.06.030)
+- Sifakaki M et al. (2023) [Orthorexia Nervosa Practices in Rheumatoid Arthritis: The DORA Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9919523/) Nutrients. 2023 Jan 31; 15(3):713. [DOI](https://doi.org/10.3390%2Fnu15030713)
+- Carcaiso V and Grilli L (2022) [Quantile regression for count data: jittering versus regression coefficients modelling in the analysis of credits earned by university students after remote teaching](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9554398/) Stat Methods Appt. 2022 Oct 12 : 1–22. [DOI](https://doi.org/10.1007%2Fs10260-022-00661-2)
+
+-----
+
 ## Why I use `read_csv()` all the time, and never use `read.csv()` anymore
 
 1. `read_csv()` is much faster than `read.csv()`, 
@@ -45,13 +57,3 @@ Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhe
 
 - For more details, see the [Data import section of R for Data Science](https://r4ds.hadley.nz/data-import.html).
 - From Josh Gonzales at Medium: [read_csv(): The Best Way to import CSV data into R](https://medium.com/r-tutorials/r-functions-daily-read-csv-3c418c25cba4)
-
-## Methods for Regression on Count Outcomes (Notes, Chapters 24-26)
-
-These sources come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
-
-- Green JA (2021) [Too many zeros and/or highly skewed? A tutorial on modelling health behaviour as count data with Poisson and negative binomial regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8159206) Health Psychol Behav Med. 2021; 9(1): 436–455. [DOI](https://doi.org/10.1080%2F21642850.2021.1920416)
-- Fernandez GA and Vatcheva KP (2022) [A comparison of statistical methods for modeling count data with an application to hospital length of stay](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351158/) BMC Med Res Methodol. 2022; 22: 211. [DOI](https://doi.org/10.1186%2Fs12874-022-01685-8)
-- Schaumberg K et al. (2018) [Improving Prediction of Eating-Related Behavioral Outcomes with Zero-Sensitive Regression Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778476/) Appetite. 2018 Oct 1; 129: 252–261. [DOI](https://doi.org/10.1016%2Fj.appet.2018.06.030)
-- Sifakaki M et al. (2023) [Orthorexia Nervosa Practices in Rheumatoid Arthritis: The DORA Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9919523/) Nutrients. 2023 Jan 31; 15(3):713. [DOI](https://doi.org/10.3390%2Fnu15030713)
-- Carcaiso V and Grilli L (2022) [Quantile regression for count data: jittering versus regression coefficients modelling in the analysis of credits earned by university students after remote teaching](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9554398/) Stat Methods Appt. 2022 Oct 12 : 1–22. [DOI](https://doi.org/10.1007%2Fs10260-022-00661-2)

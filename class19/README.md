@@ -27,7 +27,7 @@ To come.
 
 ## Recent Examples: Regression on Ordinal Outcomes ([Notes, Chapter 27](https://thomaselove.github.io/432-notes/ordinaloutcome.html))
 
-These references come from the list at <https://github.com/THOMASELOVE/432-sources/blob/main/recent.md>.
+These recent examples from the open-access literature come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
 
 - Bhattacharyay S et al. (2022) [The leap to ordinal: Detailed functional prognosis after traumatic brain injury with a flexible modelling approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9255749/) PLoS One. 2022; 17(7): e0270973. [DOI](https://doi.org/10.1371%2Fjournal.pone.0270973)
 - Nawi MAA et al. (2022) [The patterns of facial fractures in traumatic brain injury (TBI) patients using ordinal regression: a retrospective study of five years](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9581734/) AIMS Neurosci. 2022; 9(3): 345–357. [DOI](https://doi.org/10.3934%2FNeuroscience.2022019)

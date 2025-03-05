@@ -21,6 +21,7 @@ To come.
 Comparing Survival Curves, and an introduction to fitting and interpreting Cox Proportional Hazards Models for Time-to-Event Outcomes.
 
 - Remember that we first talked about time-to-event data back in classes [15](https://github.com/THOMASELOVE/432-classes-2025/blob/main/class15/README.md) and [16](https://github.com/THOMASELOVE/432-classes-2025/blob/main/class16/README.md). 
+- Our department teaches an entire semester-long course (PQHS 435) every Spring on survival analysis. This is just the tip of the iceberg.
 
 ## Sources
 

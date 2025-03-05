@@ -39,6 +39,8 @@ Comparing Survival Curves, and an introduction to fitting and interpreting Cox P
 
 ## Recent Open-Source Papers using Methods for Time-to-Event Data 
 
+These recent examples from the open-access literature come from [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md).
+
 - Chen L et al. (2021) [Prognostic Nutritional Index (PNI) in Patients With Breast Cancer Treated With Neoadjuvant Chemotherapy as a Useful Prognostic Indicator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042235/) Front Cell Dev Biol. 2021; 9: 656741. [DOI](https://doi.org/10.3389%2Ffcell.2021.656741)
 - Onaga C et al. (2022) [High expression of SLC20A1 is less effective for endocrine therapy and predicts late recurrence in ER-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9126382/) PLoS One. 2022; 17(5): e0268799. [DOI](https://doi.org/10.1371%2Fjournal.pone.0268799)
 - Morris TP et al. (2019) [Proposals on Kaplan–Meier plots in medical research and a survey of stakeholder views: KMunicate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6773317/) BMJ Open. 2019; 9(9): e030215. [DOI](https://doi.org/10.1136%2Fbmjopen-2019-030215)

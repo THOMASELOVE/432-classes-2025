@@ -12,6 +12,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda and Announcements
+## Announcements
 
 To come.
+
+## Agenda
+
+- Using `coxph()` and then `cph()` from the **rms** package to estimate and assess Cox propoprtional hazards regression models
+
+## Sources
+
+- Rossi's recidivism data [are described here](https://rdrr.io/cran/carData/man/Rossi.html), as well as many other places.
+- These data are also the main example in John Fox and Sanford Weisberg's [Cox Proportional-Hazards Regression for Survival Data in R](https://www.john-fox.ca/Companion/appendices/Appendix-Cox-Regression.pdf) (pdf) which describes the basis for the Cox model in more detail than I will today, and also explains how to use the **survival** package in R to estimate Cox regressions.
+- Frank Harrell's website at <https://hbiostat.org/r/rms/> includes links to [this video](https://www.youtube.com/watch?v=EoIB_Obddrk) demonstrating some interactive survival curves.
+

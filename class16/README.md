@@ -23,7 +23,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
         - one with the subject line **432 Quiz 1 Results for {YOUR NAME}** that has your results on the Quiz.
     - Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
 3. More on time-to-event (survival) data (see the slides)
-4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
+4. **At 2 PM**: Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 
 ## A few reminders
 

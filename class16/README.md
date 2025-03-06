@@ -16,9 +16,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. README announcements and things...
 2. Quiz 1 results, including extra attention on **Questions 2, 5, 9, 12, 21 and 23**.
-    - The **Quiz 1 answer sketch and grading rubric** is now available (HTML only) in the folder called **432 Quiz 1 Materials** in our Shared Drive.
-4. More on time-to-event (survival) data (see the slides)
-5. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
+    - The **Quiz 1 answer sketch and grading rubric** is now available (HTML) in the **432 Quiz 1 Materials** folder in our Shared Drive.
+3. More on time-to-event (survival) data (see the slides)
+4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 
 ## A few reminders
 

@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. README announcements and things...
 2. Quiz 1 results, including extra attention on **Questions 2, 5, 9, 12, 21 and 23**.
     - The **Quiz 1 answer sketch and grading rubric** is now available (HTML) in the **432 Quiz 1 Materials** folder in our Shared Drive.
-    - All of you should have received two emails from me (at your CWRU email) this morning, one with the subject line: **432 Quiz 1 results will be coming to you in email soon** and then one actually containing your results on the Quiz. Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
+- All of you should have received two emails from me (at your CWRU email) this morning, one with the subject line: **432 Quiz 1 results will be coming to you in email soon** and then one with subject line **432 Quiz 1 Results for {YOUR NAME}** actually containing your results on the Quiz. Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
 3. More on time-to-event (survival) data (see the slides)
 4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 

@@ -15,30 +15,32 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Today's Agenda
 
 1. README announcements and things...
-2. Quiz 1 results
+2. Quiz 1 results, including extra attention on **Questions 2, 5, 9, 12, 21 and 23**.
 3. More on time-to-event (survival) data (see the slides)
-4. Ask Me Anything about Project A.
+4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 
-## Announcements
+## A few reminders
 
 1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
 2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
 3. The TAs will not hold office hours from 2025-03-08 through 2025-03-14.
-4. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
+4. Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
+
+## Announcements
+
+1. The [Project A Portfolio](https://thomaselove.github.io/432-2025/projA.html#the-project-a-portfolio) is due to Canvas at noon on 2025-03-19. Get your questions in before we disappear for Break, if possible.
     - Remember the Portfolio includes a complete Quarto file, complete HTML file, complete tidied R data set file, and (up to 4 minute) video file.
-5. Remember that [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due on Wednesday 2025-03-26 at Noon. This is a great thing to get out of the way during the Break.
-6. The latest version of RStudio (ver 2024.12.1+563) is [available now](https://posit.co/download/rstudio-desktop/) and should be safe for you to download and use. The latest version of R, version 4.4.3, is [also now available](https://cran.case.edu/). I encourage you to upgrade to these over Spring Break.
-7. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) is open. The form is due Wednesday 2025-04-02 at Noon.
+2. Remember that [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due on Wednesday 2025-03-26 at Noon. This is a **great** thing to get out of the way during the Break.
+3. The latest version of RStudio (ver 2024.12.1+563) is [available now](https://posit.co/download/rstudio-desktop/) and should be safe for you to download and use. The latest version of R, version 4.4.3, is [also now available](https://cran.case.edu/). **I encourage you to upgrade to these over Spring Break.**
+4. Those of you who want to get way ahead of things, the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html) are complete, and the [Project B proposal form](https://bit.ly/432-2025-projB-proposal) is open. The form is due Wednesday 2025-04-02 at Noon.
     - On 2025-03-03, I updated the [Project B instructions](https://thomaselove.github.io/432-2025/projB.html), and the [Project B portfolio template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd) on our [432 data page](https://github.com/THOMASELOVE/432-data), so make sure you have the new versions.
-8. On 2025-03-04, I updated the `sup1000` example on our Shared Drive to include new sections 5-8, which cover the main regression modeling approaches we will see after Spring Break.
-9. Occasionally, people ask me about whether some of the methods we use appear in the literature frequently. Visit [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md) for examples of, among other things,
+5. On 2025-03-04, I updated the `sup1000` example on our Shared Drive to include new sections 5-8, which cover the main regression modeling approaches we will see after Spring Break.
+6. Occasionally, people ask me about whether some of the methods we use appear in the literature frequently. Visit [this link](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md) for examples of, among other things,
     - [Splines to account for Non-Linearity in Linear or Generalized Linear Models](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#splines-to-account-for-non-linearity-in-linear-or-generalized-linear-models-notes-chapters-13-and-many-others)
     - [Model Validation, the LASSO and ridge regression](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#model-validation-lasso-ridge-regression)
     - [Single and Multiple Imputation Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#single-and-multiple-imputation-strategies-notes-chapters-7-and-17-and-others)
     - [Nomograms](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#nomograms-notes-chapter-14-and-others)
     - along with topics we'll cover after Spring Break.
-10. Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
-
 
 ---
 

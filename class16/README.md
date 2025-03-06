@@ -15,9 +15,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Today's Agenda
 
 1. README announcements and things...
-2. Quiz 1 results, including extra attention on **Questions 2, 5, 9, 12, 21 and 23**.
+2. Quiz 1 results...
     - The **Quiz 1 answer sketch and grading rubric** is now available (HTML) in the **432 Quiz 1 Materials** folder in our Shared Drive.
-- All of you should have received two emails from me (at your CWRU email) this morning, one with the subject line: **432 Quiz 1 results will be coming to you in email soon** and then one with subject line **432 Quiz 1 Results for {YOUR NAME}** actually containing your results on the Quiz. Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
+        - I'll spend a few moments today on **Questions 2, 5, 9, 12, 21 and 23** in that Sketch.
+    - All of you should have received two emails from me (at your CWRU email) this morning,
+        - one with the subject line: **432 Quiz 1 results will be coming to you in email soon** and then
+        - one with the subject line **432 Quiz 1 Results for {YOUR NAME}** that has your results on the Quiz.
+    - Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
 3. More on time-to-event (survival) data (see the slides)
 4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 
@@ -43,16 +47,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - [Single and Multiple Imputation Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#single-and-multiple-imputation-strategies-notes-chapters-7-and-17-and-others)
     - [Nomograms](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#nomograms-notes-chapter-14-and-others)
     - along with topics we'll cover after Spring Break.
-
----
-
-## Sources related to Today's Slides
-
-- Laurie et al. (1989) [Surgical adjuvant therapy of large-bowel carcinoma: An evaluation of levamisole and the combination of levamisole and fluorouracil: The North Central Cancer Treatment Group and the Mayo Clinic](https://pubmed.ncbi.nlm.nih.gov/2778478/). *J Clinical Oncology*, 7:1447-1456. DOI: 10.1200/JCO.1989.7.10.1447
-- Moertel et al. (1990) [Levamisole and fluorouracil for adjuvant therapy of resected colon carcinoma](https://pubmed.ncbi.nlm.nih.gov/2300087/). *New England J of Medicine*, 332:352-358. DOI: 10.1056/NEJM199002083220602
-- The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
-- The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
-- My [course notes chapter on Time-to-Event / Survival Data](https://thomaselove.github.io/432-notes/survival_data.html)
 
 ---
 
@@ -94,6 +88,16 @@ own short set of do's.
 
 - For more on a related example, you might be interested in [RCT on use of cloth vs surgical masks](https://statmodeling.stat.columbia.edu/2020/04/15/rct-on-use-of-cloth-vs-surgical-masks/) from 2020-04-15.
 
+---
+
+## Sources related to Today's Slides
+
+- Laurie et al. (1989) [Surgical adjuvant therapy of large-bowel carcinoma: An evaluation of levamisole and the combination of levamisole and fluorouracil: The North Central Cancer Treatment Group and the Mayo Clinic](https://pubmed.ncbi.nlm.nih.gov/2778478/). *J Clinical Oncology*, 7:1447-1456. DOI: 10.1200/JCO.1989.7.10.1447
+- Moertel et al. (1990) [Levamisole and fluorouracil for adjuvant therapy of resected colon carcinoma](https://pubmed.ncbi.nlm.nih.gov/2300087/). *New England J of Medicine*, 332:352-358. DOI: 10.1056/NEJM199002083220602
+- The survminer package: <https://rpkgs.datanovia.com/survminer/index.html>
+- The survival package: Reference Manual (pdf) is [here](https://cran.r-project.org/web/packages/survival/survival.pdf), while the website is  <https://github.com/therneau/survival>.
+- My [course notes chapter on Time-to-Event / Survival Data](https://thomaselove.github.io/432-notes/survival_data.html)
+
 ----
 
 # Some Project A Tips
@@ -129,7 +133,22 @@ Naming R data frames (tibbles) can be challenging, as well. I'll add
 10. Make sure your headings are in an appropriate order, and that you have all of the main sections in your Project A, as laid out in the sample demonstration project A. Check your HTML to make sure the headings make sense, for instance, `10`, then `10.1`, then `10.1.1.` is OK, but `10`, then `10.0.1` isn't OK.
 11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432-2025/software.html#r-packages-to-install), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only, and don't add packages from [the **easystats** framework](https://easystats.github.io/easystats/) separately: load them with `easystats` only.
 
+## What should I do if I have a problem with Normality in my linear model (Project A)?
+
+1. Not all problems can be fixed with power transformations and non-linear terms.
+2. You should describe what the residual plots (from `check_model()`) show, accurately.
+3. If there is a problem with the residual plots, use that fact in making a decision about which model to select as your final model. 
+4. If you have to select a final model with residual plot problems, describe how those problems might affect your conclusions.
+
+## Exploding Coefficients and Problems in Logistic Regression
+
+Sometimes, we see people fitting models to predict a binary outcome using a predictor which completely determines that outcome (for example, if predictor > 12, then outcome is always no, or if predictor = "Yes" then outcome is always no.)
+
+Take a look at [this toy example with explosive coefficients](https://rpubs.com/TELOVE/explosion_logistic_432) to see one way in which this problem can emerge and what to do about it.
+
 ## Project A presentation video advice
+
+The presentation video is literally the first thing Dr. Love will review in your project. As a result, it takes on extra importance.
 
 Make sure that you introduce yourself when you start to speak, over your title slide if you are working alone. We’re happy to see your face during the presentation, but this isn’t mandatory. If you are working with a partner, each of you should introduce yourself at the beginning, and let me know who’s speaking first.
 
@@ -146,17 +165,5 @@ We suggest you develop about 8 slides. This should include…
     - How well does this model fit the data you have, and how well might it fit in new data?
 - A couple of slides discussing next steps
     - It is unlikely that you’ll have a model that is truly satisfactory all on its own, so what could be done to improve it that you cannot already do with the data you have? What other data could be collected, how could the measures be refined, could you design a study to get to a more convincing answer?
+    - Do not exceed the time limit by more than 10 seconds, or we will reduce your grade.
  
-## What should I do if I have a problem with Normality in my linear model (Project A)?
-
-1. Not all problems can be fixed with power transformations and non-linear terms.
-2. You should describe what the residual plots (from `check_model()`) show, accurately.
-3. If there is a problem with the residual plots, use that fact in making a decision about which model to select as your final model. 
-4. If you have to select a final model with residual plot problems, describe how those problems might affect your conclusions.
-
-## Exploding Coefficients and Problems in Logistic Regression
-
-Sometimes, we see people fitting models to predict a binary outcome using a predictor which completely determines that outcome (for example, if predictor > 12, then outcome is always no, or if predictor = "Yes" then outcome is always no.)
-
-Take a look at [this toy example with explosive coefficients](https://rpubs.com/TELOVE/explosion_logistic_432) to see one way in which this problem can emerge and what to do about it.
-

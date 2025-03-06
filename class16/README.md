@@ -17,6 +17,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. README announcements and things...
 2. Quiz 1 results, including extra attention on **Questions 2, 5, 9, 12, 21 and 23**.
     - The **Quiz 1 answer sketch and grading rubric** is now available (HTML) in the **432 Quiz 1 Materials** folder in our Shared Drive.
+    - All of you should have received two emails from me (at your CWRU email) this morning, one with the subject line: **432 Quiz 1 results will be coming to you in email soon** and then one actually containing your results on the Quiz. Please review my grading, and if you have any questions, email me, and I will respond between March 15 and 17. 
 3. More on time-to-event (survival) data (see the slides)
 4. Some general suggestions about Project A, followed by "Ask Me Anything" about Project A.
 
@@ -25,7 +26,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Spring Break is next week, and we will not have class on either 2025-03-09 or 2025-03-11.
 2. Dr. Love will be away and unresponsive to emails and Campuswire from 2025-03-07 through 2025-03-14.
 3. The TAs will not hold office hours from 2025-03-08 through 2025-03-14.
-4. Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323.
+4. Class 17, on 2025-03-18, and almost all subsequent classes (see the [Calendar](https://thomaselove.github.io/432-2025/calendar.html) for exceptions) will be held in Room E321-323 of the Robbins Building at CWRU. For directions to the Robbins Building at CWRU, which is located at 2210 Circle Drive Cleveland OH 44106, and information on parking and on accessing the building, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus). Again, our classroom is on the third floor of the Robbins building, and is room E321-323. I very much look forward to seeing you all in person!
 
 ## Announcements
 

@@ -20,6 +20,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - The project instructions encourage you to use about 6 df beyond the main effects model to account for non-linearity and at most 3 non-linear terms. If you are having trouble adding 6 df, then add 3-5 df which is fine and requires no explanation. In some cases, even just adding 1 or 2 df will be the most appropriate choice, and that's also OK, assuming you specify that you tried using more and what the problem was with doing so.
 4. The [Biostats4You website](https://biostats4you.umn.edu/) at the University of Minnesota is dedicated to providing carefully selected, freely available biostatistics training materials for medical and public health professionals. The resources range from blog posts to published peer-reviewed articles to videos. The site currently provides 48 vetted resources on 12 topics, ranging from sample-size calculators to non-parametric methods to finding and working with a biostatistician.
     - The three newest resources expand our previously posted topic on the collection of race and ethnicity data to include considerations and best practices for analysis and reporting as well. Check them out [here](https://biostats4you.umn.edu/taxonomy/term/51).
+5. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due next Wednesday 2025-03-26 at Noon.
+    - Submissions I have received [are posted here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6) as well as [on Campuswire in the Lab 6 folder](https://campuswire.com/).
 
 ## Regression on Count Outcomes
 

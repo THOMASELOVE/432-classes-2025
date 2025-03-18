@@ -10,4 +10,4 @@
 - Nihit Mehta [Reflections on Statistical Inference: A Modern Approach to Science in 2025](https://nnm32.github.io/nnm32/Scientific%20Insights%20and%20Blogs/)
 - JiaWei Yu [Reflection on Statistical Significance and P < 0.05 - 2025](https://jiyu3048.github.io/jiyu3048/blog/)
 - Tatchaporn Ongphichetmetha [How to Be a Modern Scientist: Key Lessons from Jeff Leek](https://tatchaporn.github.io/tatchaporn/blogs/)
-
+- Dana Jian [Reflections on How To Be A Modern Scientist by Jeff Leek](https://dzjian1.github.io/blog/)

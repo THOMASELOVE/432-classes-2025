@@ -39,12 +39,3 @@ These recent examples from the open-access literature come from [this link](http
 - Akinosoglou K et al. (2023) [Efficacy and safety of early soluble urokinase plasminogen receptor plasma-guided anakinra treatment of COVID-19 pneumonia: A subgroup analysis of the SAVE-MORE randomised trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9791950/) eClinicalMedicine. 2023 Feb; 56: 101785. [DOI](https://doi.org/10.1016%2Fj.eclinm.2022.101785)
 - Bersch I et al. (2022) [A Prediction Model for Various Treatment Pathways of Upper Extremity in Tetraplegia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9397669/) Front Rehabil Sci. 2022; 3: 889577. [DOI](https://doi.org/10.3389%2Ffresc.2022.889577)
 
-## Other Recent Examples
-
-Other topics presented in the [list of recent sources](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md) include:
-
-- Splines to account for Non-Linearity in Linear or Generalized Linear Models (Notes, Chapters 13 and many others)
-- Model Validation, LASSO, Ridge Regression
-- Single and Multiple Imputation Strategies (Notes, Chapters 7 and 17 and others)
-- Nomograms (Notes, Chapter 14 and others)
-- Methods for Regression on Count Outcomes (Notes, Chapters 24-26)

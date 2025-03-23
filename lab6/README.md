@@ -4,6 +4,8 @@
 
 ## New Web Sites
 
+- [Zuhair Khan](https://zmk27.github.io/zmk27/)
+- [Tatiana Dombrovski](https://tdomb.github.io/tdomb1.github.io/)
 
 ## New Blog Posts
 
@@ -13,3 +15,11 @@
 - Dana Jian [Reflections on How To Be A Modern Scientist by Jeff Leek](https://dzjian1.github.io/blog/)
 - Jeff Lambe [Using social media in academia](https://jefflambe.quarto.pub/jeff-lambe/social.html)
 - Harshita Kumar [Discussing Public Peer Review](https://hkumar2907.github.io/harshitaKumarWebsite/blog/)
+- Mahsa Sheikholeslamian [Moving a World Beyond P Value](https://mahsa-sheikh.github.io/Mahsa-Sheikh/New/)
+- Adam Salem [Data Sharing in Modern Science](https://amrsalm.github.io/blog/Blog.html)
+- Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)
+- Lingzhu Shen [On Statistical Significance](https://lingzhuu.github.io/now.html)
+- Haley Altadonna [The Future of Using Social Media as a Scientist](https://haleyaltadonna.github.io/haleyaltadonna/blog/)
+- Medhat Farwati [The Art and Responsibility of Peer Review in Modern Science](https://medhatfarwati.github.io/My-Website/blog/Blog.html)
+- Arya Patel [My response to "Moving to a World beyond p < 0.05"](https://axp1031.github.io/blog/)
+- Katherine Paphadjopoulos [How to Be a Modern Scientist: Important Insights from Jeff Leek](https://katherinep1214.github.io/about-me/blog/)

@@ -15,6 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. If you learn nothing else from this course in general and this project in particular, please learn that statistical significance is not in any way a useful concept, and you shouldn't be using it for any purpose.
+2. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due tomorrow. Submissions I have so far received [are listed here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6), as well as on Campuswire.
 
 ## Sources from Today's Slides
 

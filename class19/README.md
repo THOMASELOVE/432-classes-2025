@@ -16,6 +16,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. If you learn nothing else from this course in general and this project in particular, please learn that statistical significance is not in any way a useful concept, and you shouldn't be using it for any purpose.
 2. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) is due tomorrow. Submissions I have so far received [are listed here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6), as well as on Campuswire.
+3. The [Project B Proposal Form](https://bit.ly/432-2025-projB-proposal) is due at noon on Wednesday 2025-04-02. Please read the instructions at <https://thomaselove.github.io/432-2025/projB.html> thoroughly before completing the form.
+    - We want you to have your data successfully ingested in R before you fill out the form, too. This doesn't mean you've cleaned the data yet, especially, but it does mean that you have the data in R and can summarize the number of complete cases for each of your variables.
+    - If you are working with a partner, exactly **one** of you should complete the form. The non-submitting partner should send an **email** to Dr. Love by the deadline with the subject line **432 Project B Partnership** confirming that you are working in a partnership and telling me the name of your partner.
 
 ## Sources from Today's Slides
 

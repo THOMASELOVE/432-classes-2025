@@ -29,6 +29,33 @@
 - Nick Nazak [Effective Scientific Communication](https://nnazak.github.io/431-website/blog/2025-03-25-modern-scientist-reflections/)
 - Nihit Mehta [Reflections on Statistical Inference: A Modern Approach to Science in 2025](https://nnm32.github.io/nnm32/Scientific%20Insights%20and%20Blogs/)
 - Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)
+- Rebecca Stinson [Sharing is Caring](https://beccastinson.github.io/Posts/2025-03-24-ModernScientist/)
 - Shraddha Dumawat [Moving to a world beyond p < 0.05](https://shraddha-dumawat.github.io/web/BlogPosts/)
+- Spancer Zhou [Beyond p < 0.05: Rethinking What Statistical Significance Means in 2025](https://ran-997.github.io/my-website/blog/)
 - Tatchaporn Ongphichetmetha [How to Be a Modern Scientist: Key Lessons from Jeff Leek](https://tatchaporn.github.io/tatchaporn/blogs/)
 
+## No submission yet
+
+- Saar	Anis
+- Brooke	Bhattacharya
+- Kelly	Bowen
+- Manu	Bulusu
+- Reilly	Burhanna
+- Carly	DaCosta
+- Gabrielle	Davis
+- Jose	Diz Ferre
+- Leia	George
+- Ben	Hauk
+- Anika	Krishna
+- Tom	Kupferer
+- Kartik	Lakhotiya
+- Weiyun	Liang
+- Gina	Lin
+- Veda	Machiraju
+- Ajay	Mahenthiran
+- Morgan	McLoughlin
+- Kelao	Neumbo
+- Alayna	Rowell
+- Debbie	Seifert
+- Toni	Shoyinka
+- Megan	Zelinsky

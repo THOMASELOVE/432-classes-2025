@@ -6,6 +6,7 @@
 
 - [Zuhair Khan](https://zmk27.github.io/zmk27/)
 - [Tatiana Dombrovski](https://tdomb.github.io/tdomb1.github.io/)
+- [Trisha Lal](https://tlalmd.github.io/tlal.github.io/)
 
 ## New Blog Posts
 
@@ -23,3 +24,10 @@
 - Medhat Farwati [The Art and Responsibility of Peer Review in Modern Science](https://medhatfarwati.github.io/My-Website/blog/Blog.html)
 - Arya Patel [My response to "Moving to a World beyond p < 0.05"](https://axp1031.github.io/blog/)
 - Katherine Paphadjopoulos [How to Be a Modern Scientist: Important Insights from Jeff Leek](https://katherinep1214.github.io/about-me/blog/)
+- Dali Nemecio [Reflections on Modern Science](https://dalinemecio.github.io/dalinemecio/blog/)
+- Shraddha Dumawat [Moving to a world beyond p < 0.05](https://shraddha-dumawat.github.io/web/BlogPosts/)
+- Mohammad Nasirpour [Reflections on "How to be a modern scientist"](https://mhn1124.github.io/blog.html)
+- Graham Stockdale [“The difference between “significant” and “not significant” is not itself statistically significant”](https://ballardmallard.github.io/site/projects/)
+- Feriel Presswalla [How to be a (relatively) modern scientist](https://ferielp.github.io/blog/#how-to-be-a-relatively-modern-scientist)
+- Monique Katsuki [Beyond p < 0.05: A Clinician’s Perspective on the Guarantee in a Box](https://mykatsuki.github.io/blog/Cliniciansandpvalues.html)
+

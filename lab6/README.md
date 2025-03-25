@@ -26,6 +26,7 @@
 - Medhat Farwati [The Art and Responsibility of Peer Review in Modern Science](https://medhatfarwati.github.io/My-Website/blog/Blog.html)
 - Mohammad Nasirpour [Reflections on "How to be a modern scientist"](https://mhn1124.github.io/blog.html)
 - Monique Katsuki [Beyond p < 0.05: A Clinician’s Perspective on the Guarantee in a Box](https://mykatsuki.github.io/blog/Cliniciansandpvalues.html)
+- Nick Nazak [Effective Scientific Communication](https://nnazak.github.io/431-website/blog/2025-03-25-modern-scientist-reflections/)
 - Nihit Mehta [Reflections on Statistical Inference: A Modern Approach to Science in 2025](https://nnm32.github.io/nnm32/Scientific%20Insights%20and%20Blogs/)
 - Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)
 - Shraddha Dumawat [Moving to a world beyond p < 0.05](https://shraddha-dumawat.github.io/web/BlogPosts/)

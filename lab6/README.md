@@ -2,6 +2,22 @@
 
 - Links to Fall 2024 431 Web Sites [are found here](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7#new-completed-websites-by-students-in-this-years-class).
 
+## No submission yet
+
+(You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
+
+- Carly	DaCosta
+- Manu	Bulusu
+- Morgan	McLoughlin
+- Veda	Machiraju
+
+## Blog post submitted but not yet available online
+
+(You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
+
+- Saar	Anis
+- Toni	Shoyinka
+
 ## New Web Sites
 
 - [Ben Hauk](https://benhauk.github.io/)
@@ -13,12 +29,14 @@
 ## New Blog Posts
 
 - Adam Salem [Data Sharing in Modern Science](https://amrsalm.github.io/blog/Blog.html)
+- Ajay Mahenthiran [About "Moving to a World Beyond 'p < 0.05'"](https://ajaymahenth.github.io/AjayFinalWebsite/blog/)
 - Alayna Rowell [On "How to be a modern scientist"](https://rowellalayna.github.io/blog.html)
 - Anika Krishna [On blogging](https://anikakrishna.github.io/blog/)
 - Arya Patel [My response to "Moving to a World beyond p < 0.05"](https://axp1031.github.io/blog/)
 - Brooke Bhattacharya [On "How to be a modern scientist"](https://bxb576.github.io/bxb576/blog/)
 - Dali Nemecio [Reflections on Modern Science](https://dalinemecio.github.io/dalinemecio/blog/)
 - Dana Jian [Reflections on How To Be A Modern Scientist by Jeff Leek](https://dzjian1.github.io/blog/)
+- Deborah Seifert [Using Jeff Leek's Advice to Writing a Paper](https://deborahseifert.github.io/blog/)
 - Feriel Presswalla [How to be a (relatively) modern scientist](https://ferielp.github.io/blog/#how-to-be-a-relatively-modern-scientist)
 - Gabrielle Davis [Reflections on "How To Be A Modern Scientist"](https://gabrielledavis.github.io/gxd/Blog!/)
 - Gina Lin [How To Be A Modern Scientist by Jeff Leek](https://ginaalin.github.io/ginalin/book/)
@@ -49,16 +67,3 @@
 - Tom Kupferer [Why Today’s Scientist Thinks More Like a Programmer](https://twkcco313.github.io/431-Website/posts/2025-03-25-modern-scientist.html)
 - Weiyun Liang [Reflection on "How to be a modern scientist"](https://weiyun.me/blog/)
  
-## No submission yet
-
-- Saar	Anis
-- Manu	Bulusu
-- Reilly	Burhanna
-- Carly	DaCosta
-- Gabrielle	Davis
-- Veda	Machiraju
-- Ajay	Mahenthiran
-- Morgan	McLoughlin
-- Debbie	Seifert
-- Toni	Shoyinka
-- Megan	Zelinsky

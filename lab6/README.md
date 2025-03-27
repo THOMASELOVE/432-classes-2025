@@ -4,6 +4,7 @@
 
 ## New Web Sites
 
+- [Ben Hauk](https://benhauk.github.io/)
 - [Kelao Neumbo](https://kelaoneumbo.github.io/)
 - [Tatiana Dombrovski](https://tdomb.github.io/tdomb1.github.io/)
 - [Trisha Lal](https://tlalmd.github.io/tlal.github.io/)
@@ -19,6 +20,7 @@
 - Dali Nemecio [Reflections on Modern Science](https://dalinemecio.github.io/dalinemecio/blog/)
 - Dana Jian [Reflections on How To Be A Modern Scientist by Jeff Leek](https://dzjian1.github.io/blog/)
 - Feriel Presswalla [How to be a (relatively) modern scientist](https://ferielp.github.io/blog/#how-to-be-a-relatively-modern-scientist)
+- Gabrielle Davis [Reflections on "How To Be A Modern Scientist"](https://gabrielledavis.github.io/gxd/Blog!/)
 - Gina Lin [How To Be A Modern Scientist by Jeff Leek](https://ginaalin.github.io/ginalin/book/)
 - Graham Stockdale [“The difference between “significant” and “not significant” is not itself statistically significant”](https://ballardmallard.github.io/site/projects/)
 - Haley Altadonna [The Future of Using Social Media as a Scientist](https://haleyaltadonna.github.io/haleyaltadonna/blog/)
@@ -33,12 +35,14 @@
 - Lingzhu Shen [On Statistical Significance](https://lingzhuu.github.io/now.html)
 - Mahsa Sheikholeslamian [Moving a World Beyond P Value](https://mahsa-sheikh.github.io/Mahsa-Sheikh/New/)
 - Medhat Farwati [The Art and Responsibility of Peer Review in Modern Science](https://medhatfarwati.github.io/My-Website/blog/Blog.html)
+- Megan Zelinsky [Why I'm Starting This Blog: Thoughts on Scientific Blogging from Jeff Leek and My Life in Neuroethics](https://zelinsm.github.io/meganzelinsky/blog.html)
 - Mohammad Nasirpour [Reflections on "How to be a modern scientist"](https://mhn1124.github.io/blog.html)
 - Monique Katsuki [Beyond p < 0.05: A Clinician’s Perspective on the Guarantee in a Box](https://mykatsuki.github.io/blog/Cliniciansandpvalues.html)
 - Nick Nazak [Effective Scientific Communication](https://nnazak.github.io/431-website/blog/2025-03-25-modern-scientist-reflections/)
 - Nihit Mehta [Reflections on Statistical Inference: A Modern Approach to Science in 2025](https://nnm32.github.io/nnm32/Scientific%20Insights%20and%20Blogs/)
 - Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)
 - Rebecca Stinson [Sharing is Caring](https://beccastinson.github.io/Posts/2025-03-24-ModernScientist/)
+- Reilly Burhanna [A World Beyond p < 0.05](https://reillyburh.github.io/rburhanna/blog/)
 - Shraddha Dumawat [Moving to a world beyond p < 0.05](https://shraddha-dumawat.github.io/web/BlogPosts/)
 - Spancer Zhou [Beyond p < 0.05: Rethinking What Statistical Significance Means in 2025](https://ran-997.github.io/my-website/blog/)
 - Tatchaporn Ongphichetmetha [How to Be a Modern Scientist: Key Lessons from Jeff Leek](https://tatchaporn.github.io/tatchaporn/blogs/)
@@ -48,14 +52,10 @@
 ## No submission yet
 
 - Saar	Anis
-- Kelly	Bowen
 - Manu	Bulusu
 - Reilly	Burhanna
 - Carly	DaCosta
 - Gabrielle	Davis
-- Ben	Hauk
-- Kartik	Lakhotiya
-- Weiyun	Liang
 - Veda	Machiraju
 - Ajay	Mahenthiran
 - Morgan	McLoughlin

@@ -18,7 +18,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. The [Project B Proposal Form](https://bit.ly/432-2025-projB-proposal) is due at noon tomorrow (2025-04-02) - please read the instructions at <https://thomaselove.github.io/432-2025/projB.html> thoroughly before completing the form.
     - We want you to have your data successfully ingested in R before you fill out the form, too. This doesn't mean you've cleaned the data yet, especially, but it does mean that you have the data in R and can summarize the number of complete cases for each of your variables.
     - If you are working with a partner, exactly **one** of you should complete the form. The non-submitting partner should send an **email** to Dr. Love by the deadline with the subject line **432 Project B Partnership** confirming that you are working in a partnership and telling me the name of your partner.
-3. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is the final lab this term, and is due at noon on 2025-04-09. You should be able to do questions 1-3 as well as part (a) of question 4 after today's class. You'll be able to do part (b) of question 4 after Thursday's Class 22.
+3. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is the final lab this term, and is due at noon on 2025-04-09.
+    - There are four questions. You should be able to do all of questions 1-3 as well as part (a) of question 4 after today's class. You'll be able to do part (b) of question 4 after Thursday's Class 22.
 
 
 ## Agenda 

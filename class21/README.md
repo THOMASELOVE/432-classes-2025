@@ -14,11 +14,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) grades are now posted to the Shared Google Drive's Course Grading Roster. I've included a reminder of what you need to do if you haven't yet completed the assignment. The final deadline is 2025-04-15.
 
 ## Agenda 
 
-Multinomial Logistic Regression, including two examples about alligators.
+Multinomial Logistic Regression, including two examples about alligators that I described in Class 20.
 
 ## Sources
 

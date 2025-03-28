@@ -23,6 +23,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - Remember that Lab 7, like Lab 6, is not "skippable".
     - For Lab 7, we will charge a 5 point penalty for a lab that is 1-24 hours late.
     - The answer sketch will be posted online 24 hours after the lab is due. As a result, we will charge a 15 point penalty for a response that is more than 24 hours but less than 48 hours late, and, as always, we won't grade anything received more than 48 hours late.
+4. **On Assuming MCAR** Little's `mcar_test()` can be used to help build up some understanding as to whether we'll see a meaningful difference if we assume MCAR (and use complete cases) vs. MAR (with imputation.) If the test shows a low *p* value, this is a firm indication that the MCAR assumption isn't reasonable. On the other hand, if the `mcar_test()` result shows a large *p* value, that doesn't mean the data are MAR, specifically. They still could certainly be missing not at random (MNAR).
 
 ## Agenda 
 

@@ -8,7 +8,6 @@
 
 - Carly	DaCosta
 - Manu	Bulusu
-- Morgan	McLoughlin
 - Veda	Machiraju
 
 ## Blog post submitted but not yet available online
@@ -56,6 +55,7 @@
 - Megan Zelinsky [Why I'm Starting This Blog: Thoughts on Scientific Blogging from Jeff Leek and My Life in Neuroethics](https://zelinsm.github.io/meganzelinsky/blog.html)
 - Mohammad Nasirpour [Reflections on "How to be a modern scientist"](https://mhn1124.github.io/blog.html)
 - Monique Katsuki [Beyond p < 0.05: A Clinician’s Perspective on the Guarantee in a Box](https://mykatsuki.github.io/blog/Cliniciansandpvalues.html)
+- Morgan McLoughlin [On "Moving to a World Beyond p < .05"](https://morgan-mcl.github.io/Blog/index_b.html)
 - Nick Nazak [Effective Scientific Communication](https://nnazak.github.io/431-website/blog/2025-03-25-modern-scientist-reflections/)
 - Nihit Mehta [Reflections on Statistical Inference: A Modern Approach to Science in 2025](https://nnm32.github.io/nnm32/Scientific%20Insights%20and%20Blogs/)
 - Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)

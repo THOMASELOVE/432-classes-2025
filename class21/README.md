@@ -20,7 +20,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If you are working with a partner, exactly **one** of you should complete the form. The non-submitting partner should send an **email** to Dr. Love by the deadline with the subject line **432 Project B Partnership** confirming that you are working in a partnership and telling me the name of your partner.
 3. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is the final lab this term, and is due at noon on 2025-04-09.
     - There are four questions. You should be able to do all of questions 1-3 as well as part (a) of question 4 after today's class. You'll be able to do part (b) of question 4 after Thursday's Class 22.
-
+    - Remember that Lab 7, like Lab 6, is not "skippable".
+    - For Lab 7, we will charge a 5 point penalty for a lab that is 1-24 hours late.
+    - The answer sketch will be posted online 24 hours after the lab is due. As a result, we will charge a 15 point penalty for a response that is more than 24 hours but less than 48 hours late, and, as always, we won't grade anything received more than 48 hours late.
 
 ## Agenda 
 

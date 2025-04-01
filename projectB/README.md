@@ -20,3 +20,34 @@
 - Graham Stockdale "Predicting Premier League Match Outcomes"
 - JiaWei Yu "Predicting Loneliness and Alcohol Intake Among Adults 18-79 Years of Age"
 - Spancer Zhou "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
+
+## Not Yet Submitted
+
+- Haley Altadonna
+- Brooke Bhattacharya
+- Kelly Bowen
+- Manu Bulusu
+- Reilly Burhanna
+- Carly DaCosta
+- Gabrielle Davis
+- Jose Diz Ferre
+- Shraddha Dumawat
+- Medhat Farwati
+- Leia George
+- Zuhair Khan
+- Harshita Kumar
+- Tom Kupferer
+- Gina Lin
+- Veda Machiraju
+- Ajay Mahenthiran
+- Morgan McLoughlin
+- Mohammad Nasirpour
+- Nick Nazak
+- Dalí Nemecio
+- Kelao Neumbo
+- Arya Patel
+- Debbie Seifert
+- Lingzhu Shen
+- Toni Shoyinka
+- Rebecca Stinson
+- Megan Zelinsky

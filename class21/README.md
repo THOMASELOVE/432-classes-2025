@@ -12,22 +12,57 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
+## Project A Feedback
+
+Project A feedback, including all grades and comments, is now in your CWRU email (sent last night.)
+
+- The PDF is several pages long, and includes information on more than 100 different issues.
+- The highest project A grade was 96. Grades of 90-96 are A, grades of 86-89 are A-, and grades of 70-85 are various types of B.
+- There was no important difference between the distributions of grades for single investigators and pairs of two.
+- The TAs reviewed Section 10 (Discussion), while I did the rest.
+- There were 40 projects, including more than 49,000 lines of Quarto code, and data on 47,027 subjects with an average of just over 8 non-subject variables per project.
+- Seven projects were done with R version 4.4.3, one with 4.4.1 (need to upgrade), and the rest with version 4.4.2
+- Three projects used Windows 10, 14 used Windows 11, while 23 used various MacOS setups, including 2 with Big Sur (macOS 11), 3 with Monterey (macOS 12), 1 with Ventura (macOS 13), 3 with Sonoma (macOS 14), and 14 using various versions of Sequoia (macOS 15). If you're below Sonoma, I would upgrade, if possible.
+- Data Sources for the 40 projects:
+    - 5 with Behavioral Risk Factor Surveillance System (BRFSS)
+    - 4 with Cleveland Community Cat Project Outcomes dataset collected from 2023-2024
+    - 4 with Racial and Ethnic Representativeness of US Postsecondary Education Institutions project provided by the Urban Institute Data Catalog
+    - 3 with CDC PLACES / 500 Cities
+    - 3 with National Survey on Drug Use and Health (NSDUH)
+    - 2 with the Asthma Call-Back Survey from the Behavioral Risk Factor Surveillance System (BRFSS)
+    - 2 with Coffee Ratings from TidyTuesday 2020-07-07
+    - 2 with General Social Survey (GSS) Data
+    - 2 with Health and Retirement Study
+    - 2 with National Survey of Family Growth (NSFG)
+    - 1 with CDC WONDER Multiple Causes of Death data merged with County Health Rankings
+    - 1 with Homeowner Assistance Fund County-Level Targeting Data from the Urban Data Catalog along with County Health Rankings
+    - 1 with Household Conditions by Geographic School District data from the Urban Institute
+    - 1 with NIH RePORTER and ClinicalTrials.gov
+    - 1 with Project FeederWatch via Tidy Tuesday 2023-01-10
+    - 1 with State of Connecticut Accidental Drug Related Deaths (2012-2023)
+    - 1 with The National Survey of Children’s Health (NSCH), from the year 2023
+    - 1 with TidyTuesday 2020-03-10 Tuition Tracker and Pay Scale information
+    - 1 with TidyTuesday 2024-03-05 Trash Wheel Collection data as part of the Baltimore Healthy Harbor Initiative
+    - 1 with Winter Olympics Data from Tidy Tuesday Archive from 2021-07-27
+    - 1 with Youth Development Study, a longitudinal study housed at the University of Minnesota
+- I made all of the final decisions about grading. If you have a concern, contact me via email before 2025-04-15, after which I will consider this project closed.
+
 ## Announcements
 
-1. Project A feedback, including all grades and comments for all 49 students, should be in your email by class time.
-2. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) grades are now posted to the Shared Google Drive's Course Grading Roster. I've included a reminder of what you need to do if you haven't yet completed the assignment. The final deadline is 2025-04-15.
-3. The [Project B Proposal Form](https://bit.ly/432-2025-projB-proposal) is due at noon tomorrow (2025-04-02) - please read the instructions at <https://thomaselove.github.io/432-2025/projB.html> thoroughly before completing the form.
+1. The [Project B Proposal Form](https://bit.ly/432-2025-projB-proposal) is due at noon tomorrow (2025-04-02) - please read the instructions at <https://thomaselove.github.io/432-2025/projB.html> thoroughly before completing the form. **Please** make the deadline.
     - If you are working with a partner, exactly **one** of you should complete the form. The non-submitting partner should send an **email** to Dr. Love by the deadline with the subject line **432 Project B Partnership** confirming that you are working in a partnership and telling me the name of your partner.
     - Thanks to an alert student, we've fixed a typo in the Project B Plan Description (The main reason why we *don't* approve projects... instead of *doesn't*).
     - A list of Project B projects I have received some information about [is here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).
-4. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is the final lab this term, and is due at noon on 2025-04-09.
+2. [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) grades are now posted to the Shared Google Drive's Course Grading Roster. I've included a reminder of what you need to do if you haven't yet completed the assignment. The final deadline is 2025-04-15.
+3. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is the final lab this term, and is due at noon on 2025-04-09.
     - There are four questions. You should be able to do all of questions 1-3 as well as part (a) of question 4 after today's class. You'll be able to do part (b) of question 4 after Thursday's Class 22.
     - Remember that Lab 7, like Lab 6, is not "skippable".
     - For Lab 7, we will charge a 5 point penalty for a lab that is 1-24 hours late.
     - The answer sketch will be posted online 24 hours after the lab is due. As a result, we will charge a 15 point penalty for a response that is more than 24 hours but less than 48 hours late, and, as always, we won't grade anything received more than 48 hours late.
-5. **On Assuming MCAR** Little's `mcar_test()` can be used to help build up some understanding as to whether we'll see a meaningful difference if we assume MCAR (and use complete cases) vs. MAR (with imputation.) If the test shows a low *p* value, this is a firm indication that the MCAR assumption isn't reasonable. On the other hand, if the `mcar_test()` result shows a large *p* value, that doesn't mean the data are MAR, specifically. They still could certainly be missing not at random (MNAR).
+4. **On Assuming MCAR** Little's `mcar_test()` can be used to help build up some understanding as to whether we'll see a meaningful difference if we assume MCAR (and use complete cases) vs. MAR (with imputation.) If the test shows a low *p* value, this is a firm indication that the MCAR assumption isn't reasonable. On the other hand, if the `mcar_test()` result shows a large *p* value, that doesn't mean the data are MAR, specifically. They still could certainly be missing not at random (MNAR).
+5. I'm not suggesting this would work as a data set for Project B, but the [Cleveland Health Survey](https://prchn.org/clehealthsurvey/) for 2025 has released some of its early reports, and it's a very important project.
 
-## Agenda 
+## Agenda for Today's Slides
 
 Multinomial Logistic Regression, including two examples about alligators that I described in Class 20.
 

@@ -14,7 +14,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. We corrected the typos in the Class 21 slides and reposted them Wednesday morning.
+2. We also corrected a typo in the Lab 7 instructions. Question 1 uses the `chr_2015` data. In our link to the codebook (which is useful for both the 2024 and 2015 CHR data), we referred to the 2024 data, but we've fixed that now so it's consistently 2015 throughout.
+3. If you want me to regrade Lab 1-5 or Lab 7, the [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2).
+    - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this. My apologies for not posting this sooner.
 
 ## Agenda
 
@@ -48,3 +51,15 @@ These recent examples from the open-access literature come from [this link](http
 - Liang H et al. (2022) [Development and validation of a novel prognosis prediction model for patients with myelodysplastic syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9597308/) Front Oncol. 2022; 12: 1014504. [DOI](https://doi.org/10.3389%2Ffonc.2022.1014504)
 - Dzinza R and Ngwira A (2022) [Comparing parametric and Cox regression models using HIV/AIDS survival data from a retrospective study in Ntcheu district in Malawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9523851/) J Public Health Res. 2022 Jul; 11(3): 22799036221125328. [DOI](https://doi.org/10.1177%2F22799036221125328)
 - Cirillo C et al. (2022) [Predictors of in-hospital mortality in critically ill patients with COVID-19: a large dual tertiary centre study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9716800/) BMJ Open. 2022; 12(12): e059358. [DOI](https://doi.org/10.1136%2Fbmjopen-2021-059358)
+
+## Remaining Assignments for this course
+
+1. Project B presentation (see schedule) and portfolio due at noon 2025-04-30
+2. Quiz 2 due at noon 2025-04-25
+3. Lab 7 due at noon 2025-04-09
+4. If you haven't yet completed Lab 6, you have until 2025-04-15 to do so.
+5. If you have questions about your Project A grade, you have until 2025-04-15 to email me.
+6. [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2). See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
+7. Course Evaluation at https://webapps.case.edu/courseevals/ anytime after you present your project, due in early May.
+
+

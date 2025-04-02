@@ -33,9 +33,11 @@
 - Kelao Neumbo "Factors Influencing Healthcare Utilization and Injury Risk"
 - Katherine Papahadjopoulos "Predicting Average Sleep Duration U.S. High School Students"
 - Arya Patel "Predictors of Sebaceous Carcinoma Surgical treatment and efficacy"
+- Debbie Seifert "Predicting poor childhood diet from activity and weight"
 - Lingzhu Shen "Predicting Mortality and Diabetes Status Using NHANES 2017–2018"
 - Graham Stockdale "Predicting Premier League Match Outcomes"
 - JiaWei Yu "Predicting Loneliness and Alcohol Intake Among Adults 18-79 Years of Age"
+- Megan Zelinsky "Predicting Neurosurgical Selection in 1,796 Patient Management Conferences"
 - Spancer Zhou "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
 
 ## Not Yet Submitted
@@ -45,5 +47,3 @@
 - Medhat Farwati
 - Zuhair Khan
 - Morgan McLoughlin
-- Debbie Seifert
-- Megan Zelinsky

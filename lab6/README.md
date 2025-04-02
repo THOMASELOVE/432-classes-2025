@@ -6,7 +6,6 @@
 
 (You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
 
-- Carly	DaCosta
 - Manu	Bulusu
 - Veda	Machiraju
 
@@ -33,6 +32,7 @@
 - Anika Krishna [On blogging](https://anikakrishna.github.io/blog/)
 - Arya Patel [My response to "Moving to a World beyond p < 0.05"](https://axp1031.github.io/blog/)
 - Brooke Bhattacharya [On "How to be a modern scientist"](https://bxb576.github.io/bxb576/blog/)
+- Carly	DaCosta [Rethinking statistical significance in an age of genomics](https://dacostacarly.github.io/website/blogs/)
 - Dali Nemecio [Reflections on Modern Science](https://dalinemecio.github.io/dalinemecio/blog/)
 - Dana Jian [Reflections on How To Be A Modern Scientist by Jeff Leek](https://dzjian1.github.io/blog/)
 - Deborah Seifert [Using Jeff Leek's Advice to Writing a Paper](https://deborahseifert.github.io/blog/)

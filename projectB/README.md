@@ -1,5 +1,10 @@
 # Project B Groups
 
+## Not Yet Submitted
+
+- Jose Diz Ferre
+- Medhat Farwati
+
 ## Groups of Two
 
 - Carly DaCosta and Gabrielle Davis "Socioeconomic Drivers of Educational Disparities in U.S. Districts"
@@ -18,16 +23,19 @@
 - Haley Altadonna "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
 - Saar Anis "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"
 - Kelly Bowen "Predicting Tornado Severity in the United States in 2024"
+- Manu Bulusu "Determinants of Sleep Quality and Long-Term Health Outcomes"
 - Reilly Burhanna "Predictions of Player Positions and Total Yellow Cards"
 - Shraddha Dumawat "Decoding Early Signs of Cognitive and Tremor Changes in Parkinson’s Disease"
 - Leia George "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
 - Ben Hauk "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
 - Dana Jian "Acculturation and Menstrual Regularity: Exploring Social and Health Patterns"
+- Zuhair Khan "Chronic Conditions"
 - Tom Kupferer "Seeing Isn’t Always Believing: Predicting Health from Lifestyle Patterns"
 - Weiyun Liang "Sleep Duration and Glucose Levels: Insights from Two Regression Models"
 - Gina Lin "Predicting Coffee Flavor Rating and Processing Methods"
 - Olivia Lindberg "Health and Adoption Outcomes for Long Beach Rescue Cats"
 - Ajay Mahenthiran "Modeling the Social Determinants of Child Mortality and Life Expectancy"
+- Morgan McLoughlin "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"
 - Mohammad Nasirpour "Associations Between BMI Categories and Hemoglobin A1C in U.S. Adults"
 - Dalí Nemecio "Nutrition Variables Prediction of Diet Source in NHANES 2021-2023 Data"
 - Kelao Neumbo "Factors Influencing Healthcare Utilization and Injury Risk"
@@ -40,10 +48,3 @@
 - Megan Zelinsky "Predicting Neurosurgical Selection in 1,796 Patient Management Conferences"
 - Spancer Zhou "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
 
-## Not Yet Submitted
-
-- Manu Bulusu
-- Jose Diz Ferre
-- Medhat Farwati
-- Zuhair Khan
-- Morgan McLoughlin

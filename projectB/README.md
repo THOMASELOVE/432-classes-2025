@@ -13,7 +13,7 @@ Date | Time | Investigator(s) | Title
 
 ## Friday, 2025-04-18
 
-via **Zoom** - Dr. Love will post Zoom links on our Shared Google Drive in the Project B Zoom Presentations document
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Date | Time | Investigator(s) | Title
 
 ## Monday, 2025-04-21
 
-via **Zoom** - Dr. Love will post Zoom links on our Shared Google Drive in the Project B Zoom Presentations document
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -42,7 +42,7 @@ Date | Time | Investigator(s) | Title
 
 ## Tuesday, 2025-04-22
 
-via **Zoom** - Dr. Love will post Zoom links on our Shared Google Drive in the Project B Zoom Presentations document
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Date | Time | Investigator(s) | Title
 
 ## Wednesday, 2025-04-23
 
-via **Zoom** - Dr. Love will post Zoom links on our Shared Google Drive in the Project B Zoom Presentations document
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------

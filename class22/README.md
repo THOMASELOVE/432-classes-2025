@@ -19,6 +19,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. If you want me to regrade Lab 1-5 or Lab 7, the [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2).
     - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this. My apologies for not posting this sooner.
 4. Some of your fellow students were gracious enough to let me share some of their work on Project A, in some cases their video, and in others, their HTML portfolio, which you will now find on our Shared Drive in the **Shared Examples from Project A** section. I share these *not* because I think they were perfect in every regard, but because they were generally strong, and because I have heard from some students that seeing some of these things would be helpful to them. A special thank you to those students who agreed to share some of their work in this way.
+5. The [Project B Presentation Schedule](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) is now available. If you need to request a change, email me as soon as possible.
 
 ## Agenda
 
@@ -58,7 +59,7 @@ These recent examples from the open-access literature come from [this link](http
 1. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is due at noon 2025-04-09
 2. If you haven't yet completed [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) (see list of students [here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6#no-submission-yet)), you have until 2025-04-15 to do so.
 3. If you have questions about your Project A grade, you have until 2025-04-15 to email me about that.
-4. [Project B presentation](https://thomaselove.github.io/432-2025/projB.html#the-presentation) is due in April (see **the schedule**) 
+4. [Project B presentations](https://thomaselove.github.io/432-2025/projB.html#the-presentation) are scheduled April 17-23 (see [the schedule here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB)) 
 5. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) will come to you on 2025-04-18 and is due at noon 2025-04-25
 6. [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2). See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
 7. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) due at noon 2025-04-30

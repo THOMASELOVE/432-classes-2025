@@ -1,10 +1,5 @@
 # Project B Groups
 
-## Not Yet Submitted
-
-- Jose Diz Ferre
-- Medhat Farwati
-
 ## Groups of Two
 
 - Carly DaCosta and Gabrielle Davis "Socioeconomic Drivers of Educational Disparities in U.S. Districts"
@@ -13,6 +8,7 @@
 - Jeff Lambe and Tatchaporn Ongphichetmetha "Predicting Disability Among People with Multiple Sclerosis"
 - Veda Machiraju and Brooke Bhattacharya "Predicting Anxiety and Substance Use Diagnoses with 2022 MHCLD Data"
 - Nihit Mehta and Kartik Lakhotiya "Resting BP, Fasting Blood Sugar, Age, and Sex as Predictors of Heart Disease"
+- Mohammad Nasirpour and Medhat Farwati "Associations Between BMI Categories and Hemoglobin A1C in U.S. Adults"
 - Nick Nazak and Rebecca Stinson "Modeling Private School Characteristics Based on Socioeconomic Metrics"
 - Feriel Presswalla and Alayna Rowell "Can we predict if a senior will die at home by their age and length of illness?"
 - Mahsa Sheikh and Tatiana Dombrovski "Exploring Dental Health Using 2023 National Survey of Children’s Health"
@@ -25,6 +21,7 @@
 - Kelly Bowen "Predicting Tornado Severity in the United States in 2024"
 - Manu Bulusu "Determinants of Sleep Quality and Long-Term Health Outcomes"
 - Reilly Burhanna "Predictions of Player Positions and Total Yellow Cards"
+- Jose Diz Ferre "Risk factors predicting overall health and atrial fibrillation"
 - Shraddha Dumawat "Decoding Early Signs of Cognitive and Tremor Changes in Parkinson’s Disease"
 - Leia George "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
 - Ben Hauk "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
@@ -36,7 +33,6 @@
 - Olivia Lindberg "Health and Adoption Outcomes for Long Beach Rescue Cats"
 - Ajay Mahenthiran "Modeling the Social Determinants of Child Mortality and Life Expectancy"
 - Morgan McLoughlin "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"
-- Mohammad Nasirpour "Associations Between BMI Categories and Hemoglobin A1C in U.S. Adults"
 - Dalí Nemecio "Nutrition Variables Prediction of Diet Source in NHANES 2021-2023 Data"
 - Kelao Neumbo "Factors Influencing Healthcare Utilization and Injury Risk"
 - Katherine Papahadjopoulos "Predicting Average Sleep Duration U.S. High School Students"

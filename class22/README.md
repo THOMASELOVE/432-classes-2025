@@ -57,7 +57,7 @@ These recent examples from the open-access literature come from [this link](http
 1. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is due at noon 2025-04-09
 2. If you haven't yet completed [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) (see list of students [here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6#no-submission-yet)), you have until 2025-04-15 to do so.
 3. If you have questions about your Project A grade, you have until 2025-04-15 to email me about that.
-4. [Project B presentation](https://thomaselove.github.io/432-2025/projB.html#the-presentation) is due in April (see the schedule) 
+4. [Project B presentation](https://thomaselove.github.io/432-2025/projB.html#the-presentation) is due in April (see **the schedule**) 
 5. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) will come to you on 2025-04-18 and is due at noon 2025-04-25
 6. [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2). See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
 7. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) due at noon 2025-04-30

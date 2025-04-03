@@ -16,15 +16,16 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. We corrected the typos in the Class 21 slides and reposted them Wednesday morning.
 2. We also corrected a typo in the Lab 7 instructions. Question 1 uses the `chr_2015` data. In our link to the codebook (which is useful for both the 2024 and 2015 CHR data), we referred to the 2024 data, but we've fixed that now so it's consistently 2015 throughout.
-3. If you want me to regrade Lab 1-5 or Lab 7, the [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2).
+3. There is a document called **How will I estimate your grade in 432? Spring 2025** in the main section of our Shared Drive **432 Spring 2025 Dr Love and students**. That's the place to go for a straightforward summary of how I will come to a final grade for you in 432. If you have questions, email me.
+4. If you want me to regrade Lab 1-5 or Lab 7, the [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2).
     - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this. My apologies for not posting this sooner.
-4. Some of your fellow students were gracious enough to let me share some of their work on Project A, in some cases their video, and in others, their HTML portfolio, which you will now find on our Shared Drive in the **Shared Examples from Project A** section. I share these *not* because I think they were perfect in every regard, but because they were generally strong, and because I have heard from some students that seeing some of these things would be helpful to them. A special thank you to those students who agreed to share some of their work in this way.
-5. The [Project B Presentation Schedule](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) is now available. If you need to request a change, email me as soon as possible.
-6. See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due **Sunday 2025-04-06** at 5 PM.
-7. A gentle reminder that the last day for TA office hours is Tuesday 2025-04-22.
-8. I will be out of town this weekend, and will not be responding to emails between 10 AM Friday and 9 AM Monday.
+5. Some of your fellow students were gracious enough to let me share some of their work on Project A, in some cases their video, and in others, their HTML portfolio, which you will now find on our Shared Drive in the **Shared Examples from Project A** section. I share these *not* because I think they were perfect in every regard, but because they were generally strong, and because I have heard from some students that seeing some of these things would be helpful to them. A special thank you to those students who agreed to share some of their work in this way.
+6. The [Project B Presentation Schedule](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) is now available. If you need to request a change, email me as soon as possible.
+7. See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due **Sunday 2025-04-06** at 5 PM.
+8. Note that I will be out of town this weekend, and will not be responding to emails between 10 AM Friday and 9 AM Monday.
+9. A gentle reminder that the last day for TA office hours is Tuesday 2025-04-22.
 
-## Agenda
+## Today's Agenda
 
 Comparing Survival Curves, and an introduction to fitting and interpreting Cox Proportional Hazards Models for Time-to-Event Outcomes.
 

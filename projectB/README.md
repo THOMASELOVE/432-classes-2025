@@ -58,7 +58,7 @@ Date | Time | Investigator(s) | Title
 04-22 | 9:00 - 9:25 AM | Dana Jian | "Acculturation and Menstrual Regularity: Exploring Social and Health Patterns"
 04-22 | 9:30 - 9:55 AM | Saar Anis | "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"
 -- | *break*
-04-22 | 10:30-10:55 AM | Katherine <br /> Papahadjopoulos | "Predicting Average Sleep Duration U.S. High School Students"
+04-22 | 10:30-10:55 AM | Katherine <br /> Papahadjopoulos | "Predicting Average Sleep Duration in U.S. High School Students"
 04-22 | 11:00-11:25 AM | Reilly <br /> Burhanna | "Predictions of Player Positions and Total Yellow Cards"
 04-22 | 11:30-11:55 AM | Dalí Nemecio | "Nutrition Variables Prediction of Diet Source in NHANES 2021-2023 Data"
 -- | *break*

@@ -57,7 +57,7 @@ These recent examples from the open-access literature come from [this link](http
 
 ## Remaining Tasks for 432
 
-1. Some of you need to respond by email no later than **Sunday 2025-04-06** to my comments on your Project B Plans. See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive.
+1. About 15 of you need to respond by email no later than **Sunday 2025-04-06** to my comments on your Project B Plans. See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive.
 2. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is due at noon 2025-04-09
 3. If you haven't yet completed [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) (see list of students [here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6#no-submission-yet)), you have until 2025-04-15 to do so.
 4. If you have questions about your Project A grade, you have until 2025-04-15 to email me about that.

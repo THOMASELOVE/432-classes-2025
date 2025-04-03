@@ -4,6 +4,8 @@
 
 **in person** in Dr. Love's office (Wood WG-82J) on the ground floor of the Wood building
 
+- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
 04-17 | 3:45 - 4:10 PM | Carly DaCosta and <br /> Gabrielle Davis | "Socioeconomic Drivers of Educational Disparities in U.S. Districts"
@@ -15,6 +17,8 @@ Date | Time | Investigator(s) | Title
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
 
+- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
 04-18 | Noon - 12:25 PM | Jeff Lambe and <br /> Tatchaporn <br /> Ongphichetmetha | "Predicting Disability Among People with Multiple Sclerosis"
@@ -25,6 +29,8 @@ Date | Time | Investigator(s) | Title
 ## Monday, 2025-04-21
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
+
+- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -43,6 +49,8 @@ Date | Time | Investigator(s) | Title
 ## Tuesday, 2025-04-22
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
+
+- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -67,6 +75,8 @@ Date | Time | Investigator(s) | Title
 ## Wednesday, 2025-04-23
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
+
+- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------

@@ -7,7 +7,6 @@
 (You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
 
 - Manu	Bulusu
-- Veda	Machiraju
 
 ## Blog post submitted but not yet available online
 
@@ -65,5 +64,6 @@
 - Spancer Zhou [Beyond p < 0.05: Rethinking What Statistical Significance Means in 2025](https://ran-997.github.io/my-website/blog/)
 - Tatchaporn Ongphichetmetha [How to Be a Modern Scientist: Key Lessons from Jeff Leek](https://tatchaporn.github.io/tatchaporn/blogs/)
 - Tom Kupferer [Why Today’s Scientist Thinks More Like a Programmer](https://twkcco313.github.io/431-Website/posts/2025-03-25-modern-scientist.html)
+- Veda	Machiraju [How to Be a Modern Scientist: Key Takeaways](https://vmachira.github.io/blog/)
 - Weiyun Liang [Reflection on "How to be a modern scientist"](https://weiyun.me/blog/)
  

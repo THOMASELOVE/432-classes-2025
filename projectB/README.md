@@ -38,7 +38,7 @@ Date | Time | Investigator(s) | Title
 -- | *break*
 04-21 | 1:00 - 1:25 PM | Spancer Zhou | "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
 04-21 | 1:30 - 1:55 PM | Morgan McLoughlin | "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"
-04-21 | 2:00 - 2:25 PM | Nihit Mehta and <br /> Kartik Lakhotiya | "College Admissions" **new title needed**
+04-21 | 2:00 - 2:25 PM | Nihit Mehta and <br /> Kartik Lakhotiya | "College Tier Classification and Flagship Status in the U.S."
 -- | *break*
 04-21 | 3:00 - 3:25 PM | Feriel Presswalla <br /> and <br /> Alayna Rowell | "Can we predict if a senior will die at home by their age and length of illness?"
 04-21 | 3:30 - 3:55 PM | Graham Stockdale | "Predicting Premier League Match Outcomes"

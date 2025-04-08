@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Sorry about switching today's class to Zoom, but I don't want to help people get sick. We'll be in person again on Thursday.
-2. There is a Minute Paper after Class 23, due at noon tomorrow (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to complete it.
+2. There is a [Minute Paper after Class 23](https://bit.ly/432-2025-min-23), due at noon tomorrow (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to complete it.
     - You'll need to log into Google via CWRU to be able to complete the form.
     - It shouldn't take you more than a few minutes to do, and completing the form on time will result in a slight improvement to your course grade. 
 3. As of noon today, I have approved all but one of the Project B Plans (and all but two of the Project B titles.)

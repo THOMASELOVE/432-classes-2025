@@ -21,7 +21,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - You'll need to log into Google via CWRU to be able to complete the form.
     - It shouldn't take you more than a few minutes to do, and completing the form on time will result in a slight improvement to your course grade. 
 3. As of noon today, I have approved all but one of the Project B Plans (and all but two of the Project B titles.)
-    - See my email response sent this morning to those of you who submitted a revision.
+    - See my email response sent this morning to those of you who submitted a revision. See the 432 Project B Plan Feedback for Spring 2025 document in the Project B Plan Feedback folder in our Shared Google Drive for more details.
     - Please check [the schedule posted here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectB/README.md) to ensure I have the right title, time and date for your presentation.
 4. Here is a useful [checklist for data graphics](https://statmodeling.stat.columbia.edu/2022/03/15/a-checklist-for-data-graphics/) from Christian Hennig, as posted by Andrew Gelman, with a few comments.
 

@@ -38,7 +38,7 @@ Date | Time | Investigator(s) | Title
 -- | *break*
 04-21 | 1:00 - 1:25 PM | Spancer Zhou | "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
 04-21 | 1:30 - 1:55 PM | Morgan McLoughlin | "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"
-04-21 | 2:00 - 2:25 PM | Nihit Mehta and <br /> Kartik Lakhotiya | "Resting BP, Fasting Blood Sugar, Age, and Sex as Predictors of Heart Disease"
+04-21 | 2:00 - 2:25 PM | Nihit Mehta and <br /> Kartik Lakhotiya | "College Admissions" **new title needed**
 -- | *break*
 04-21 | 3:00 - 3:25 PM | Feriel Presswalla <br /> and <br /> Alayna Rowell | "Can we predict if a senior will die at home by their age and length of illness?"
 04-21 | 3:30 - 3:55 PM | Graham Stockdale | "Predicting Premier League Match Outcomes"
@@ -58,9 +58,9 @@ Date | Time | Investigator(s) | Title
 04-22 | 9:00 - 9:25 AM | Dana Jian | "Acculturation and Menstrual Regularity: Exploring Social and Health Patterns"
 04-22 | 9:30 - 9:55 AM | Saar Anis | "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"
 -- | *break*
-04-22 | 10:30-10:55 AM | Katherine <br /> Papahadjopoulos | "Predicting Average Sleep Duration in U.S. High School Students"
+04-22 | 10:30-10:55 AM | Katherine <br /> Papahadjopoulos | "Predicting Average Number of Hours Watching TV in U.S. High School Students"
 04-22 | 11:00-11:25 AM | Reilly <br /> Burhanna | "Predictions of Player Positions and Total Yellow Cards"
-04-22 | 11:30-11:55 AM | Dalí Nemecio | "Nutrition Variables Prediction of Diet Source in NHANES 2021-2023 Data"
+04-22 | 11:30-11:55 AM | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"
 -- | *break*
 04-22 | 1:00 - 1:25 PM | Debbie Seifert | "Predicting poor childhood diet from activity and weight"
 04-22 | 1:30 - 1:55 PM | Veda Machiraju <br /> and Brooke <br /> Bhattacharya | "Predicting Anxiety and Substance Use Diagnoses with 2022 MHCLD Data"
@@ -68,7 +68,7 @@ Date | Time | Investigator(s) | Title
 04-22 | 2:30 - 2:55 PM | Lingzhu Shen | "Predicting Mortality and Diabetes Status Using NHANES 2017–2018"
 -- | *break*
 04-22 | 4:00 - 4:25 PM | Weiyun Liang | "Sleep Duration and Glucose Levels: Insights from Two Regression Models"
-04-22 | 4:30 - 4:55 PM | Zuhair Khan | "Chronic Conditions"
+04-22 | 4:30 - 4:55 PM | Zuhair Khan | "Chronic Conditions" **new title needed**
 04-22 | 5:00 - 5:25 PM | Haley Altadonna | "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
 04-22 | 5:30 - 5:55 PM | Kelly Bowen | "Predicting Tornado Severity in the United States in 2024"
 

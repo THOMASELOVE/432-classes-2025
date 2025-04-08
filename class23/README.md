@@ -20,9 +20,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. There is a [Minute Paper after Class 23](https://bit.ly/432-2025-min-23), due at noon tomorrow (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to complete it.
     - You'll need to log into Google via CWRU to be able to complete the form.
     - It shouldn't take you more than a few minutes to do, and completing the form on time will result in a slight improvement to your course grade. 
-3. As of noon today, I have approved all but one of the Project B Plans (and all but two of the Project B titles.)
-    - See my email response sent this morning to those of you who submitted a revision. See the 432 Project B Plan Feedback for Spring 2025 document in the Project B Plan Feedback folder in our Shared Google Drive for more details.
+3. As of noon today, I have approved all Project B Plans (and all but one Project B title.)
+    - See my email response sent this morning to those of you who submitted a revision.
     - Please check [the schedule posted here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectB/README.md) to ensure I have the right title, time and date for your presentation.
+    - See the **432 Project B Plan Feedback for Spring 2025** document in the Project B Plan Feedback folder in our Shared Google Drive for more details.
 4. Here is a useful [checklist for data graphics](https://statmodeling.stat.columbia.edu/2022/03/15/a-checklist-for-data-graphics/) from Christian Hennig, as posted by Andrew Gelman, with a few comments.
 
 ## Agenda
@@ -54,7 +55,7 @@ So my main point is that I wouldn't use adjusted R-square much (if at all) in li
     - After today's class you should be able to finish this.
 3. If you haven't yet completed [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) (see list of students [here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6#no-submission-yet)), you have until Tuesday 2025-04-15 at 5 PM to do so.
 4. If you have questions about your Project A grade, you have until Tuesday 2025-04-15 at 5 PM to email me about that.
-5. [Project B presentations](https://thomaselove.github.io/432-2025/projB.html#the-presentation) are scheduled April 17-23 (see [the schedule here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).) Also, see the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive for my comments on your Plan.
+5. [Project B presentations](https://thomaselove.github.io/432-2025/projB.html#the-presentation) are scheduled April 17-23 (see [the schedule here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).) See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive for my comments on your Plan.
 6. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) will come to you on Friday 2025-04-18 and is due at noon Friday 2025-04-25.
 7. [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) (optional) is now available at <https://bit.ly/432-2025-lab-regrades>, and is due on 2025-04-25 (same day as Quiz 2). See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
 8. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) due at noon 2025-04-30

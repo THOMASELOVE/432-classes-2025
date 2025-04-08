@@ -50,7 +50,7 @@ So my main point is that I wouldn't use adjusted R-square much (if at all) in li
 
 ## Remaining Tasks for 432
 
-1. There is a Minute Paper after Class 23, due at noon **tomorrow** (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to fill out the form.
+1. There is a [Minute Paper after Class 23](https://bit.ly/432-2025-min-23), due at noon **tomorrow** (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to fill out the form.
 2. [Lab 7](https://thomaselove.github.io/432-2025/lab7.html) is also due at noon **tomorrow** Wednesday 2025-04-09.
     - After today's class you should be able to finish this.
 3. If you haven't yet completed [Lab 6](https://thomaselove.github.io/432-2025/lab6.html) (see list of students [here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/lab6#no-submission-yet)), you have until Tuesday 2025-04-15 at 5 PM to do so.

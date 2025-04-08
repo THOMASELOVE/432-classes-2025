@@ -24,7 +24,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Agenda
 
-- Using `coxph()` and then `cph()` from the **rms** package to estimate and assess Cox propoprtional hazards regression models
+- Using `coxph()` and then `cph()` from the **rms** package to estimate and assess Cox proportional hazards regression models
 
 ## Sources
 

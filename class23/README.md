@@ -20,7 +20,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. There is a [Minute Paper after Class 23](https://bit.ly/432-2025-min-23), due at noon tomorrow (2025-04-09) - please visit <https://bit.ly/432-2025-min-23> to complete it.
     - You'll need to log into Google via CWRU to be able to complete the form.
     - It shouldn't take you more than a few minutes to do, and completing the form on time will result in a slight improvement to your course grade. 
-3. As of noon today, I have approved all Project B Plans (and all but one Project B title.)
+3. As of noon today, I have approved all Project B Plans and titles.
     - See my email response sent this morning to those of you who submitted a revision.
     - Please check [the schedule posted here](https://github.com/THOMASELOVE/432-classes-2025/blob/main/projectB/README.md) to ensure I have the right title, time and date for your presentation.
     - See the **432 Project B Plan Feedback for Spring 2025** document in the Project B Plan Feedback folder in our Shared Google Drive for more details.

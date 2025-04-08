@@ -30,6 +30,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - Using `coxph()` and then `cph()` from the **rms** package to estimate and assess Cox proportional hazards regression models
 
+## On Project B
+
+The most useful advice I have for you in preparing your Project B presentation and portfolio is gathered in the instructions section called [Things We Want To See in Your Work](https://thomaselove.github.io/432-2025/projB.html#things-we-want-to-see-in-your-work), which includes sections describing eight questions that I would be asking myself as I was preparing my work, in several different arenas, depending on what you are doing. 
+
+- I cannot encourage you enough to follow our instructions, including this [outline for the portfolio](https://thomaselove.github.io/432-2025/projB.html#what-are-the-main-section-headings-in-the-portfolio) and [outline for the presentation](https://thomaselove.github.io/432-2025/projB.html#the-presentation).
+
 ## Sources
 
 - Rossi's recidivism data [are described here](https://rdrr.io/cran/carData/man/Rossi.html), as well as many other places.

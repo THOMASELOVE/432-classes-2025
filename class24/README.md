@@ -15,9 +15,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. I will post a document containing feedback on the Minute Paper after Class 23 by class time.
-2. Here is a list of [CWRU mental health resources available to students](https://case.edu/wellness/campuswide-resources/mental-health-resources). 
-3. The Lab 7 sketch and grading rubric will be posted shortly before class time to our Shared Google Drive.
-4. Regarding Project B, I want to remind you that there is a [Quarto template for the Project B portfolio](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd) on our 432-data page. It's not mandatory, but it has some real advantages in terms of organizing your work and making sure you don't leave anything important out.
+2. One question I got from several people is, essentially, asking me to recommend courses. It's a reasonable question, but I don’t talk about courses other than my own in general terms. What you want to pursue individually is too important and I am NOT an expert in the offerings here at CWRU. Students currently taking those courses, and instructors teaching them, are the people you want to talk to. That said, I teach a course called PQHS 500 every Spring. Most of the people who take 432 and like it also like 500. It’s a course in observational studies, and its current syllabus is [online](https://thomaselove.github.io/500-syllabus-2025/). I plan to give a version of that course again in Spring 2026.
+3. Here is a list of [CWRU mental health resources available to students](https://case.edu/wellness/campuswide-resources/mental-health-resources). 
+4. The Lab 7 sketch and grading rubric will be posted shortly before class time to our Shared Google Drive.
+5. Regarding Project B, I want to remind you that there is a [Quarto template for the Project B portfolio](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd) on our 432-data page. It's not mandatory, but it has some real advantages in terms of organizing your work and making sure you don't leave anything important out.
 
 
 ## What's in Today's Slides?

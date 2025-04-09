@@ -6,7 +6,5 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Agenda and Announcements
 
-There are no slides today.
-
-This is a Project B: Ask Me Anything session, held over Zoom.
+I will post some slides for this class, but not yet. This session is primarily a Project B: Ask Me Anything held over Zoom.
 

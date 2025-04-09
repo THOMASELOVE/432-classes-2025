@@ -14,4 +14,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Agenda and Announcements
 
-To come.
+1. Here is a list of [CWRU mental health resources available to students](https://case.edu/wellness/campuswide-resources/mental-health-resources). 
+

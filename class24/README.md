@@ -72,7 +72,7 @@ Nope.
 
 ## What Happens Next Week?
 
-- Tuesday 2025-04-15: Class 25 is a Zoom class, with listed topic **Project B - Ask Me Anything**. There are no slides posted yet for the class, but between now and Tuesday, I expect to add about 20-30 minutes worth of new-ish material including some tips for the Quiz, as well as some re-iteration of good advice from the Project B instructions. So I expect the "new material" section of the class should be done at about 1:45 PM.
+- Tuesday 2025-04-15: Class 25 is a Zoom class, with listed topic **Project B - Ask Me Anything**. There are no slides posted yet for the class, but between now and Tuesday, I expect to add about 20-30 minutes worth of new-ish material including some tips for the Quiz, discussion of problem areas associated with Lab 7, and some re-iteration of good advice from the Project B instructions. I expect the "new material" section of the class should be done before 1:45 PM.
     - Tuesday is also the last day for you to complete Lab 6 if you haven't yet, or email me questions about your Project A grade.
     - We expect to get Lab 7 grades and feedback to you on Tuesday, as well.
 - Wednesday 2025-04-16: There will be a Minute Paper after Class 25, which I will post on Tuesday. It will be due at noon Wednesday.

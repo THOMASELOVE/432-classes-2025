@@ -89,3 +89,6 @@ Nope.
 5. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due for everyone, submitting to Canvas, by noon on Wednesday 2025-04-30.
 6. The Course Evaluation at <https://webapps.case.edu/courseevals/> should be done anytime after you *present* your project, and is due when CWRU tells you it is, usually in early May. Please do fill this out. It delights me every year when we get 100% participation.
 
+## One Last Thing
+
+I am appearing as a guest vocalist in a concert of American music with the Chagrin Falls Studio Orchestra this Saturday evening at 7:30. Information and tickets are available at <https://cvlt.org/show-item/cfso-america/> if you are interested, and can be purchased at the door or online. The student price is $15.

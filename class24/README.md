@@ -24,7 +24,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. The Lab 7 sketch and grading rubric will be **posted shortly before class time** to our Shared Google Drive.
     - Grades and feedback on Lab 7 should appear next Tuesday 2025-04-15 before that class.
 5. I want to remind you that there is a [Quarto template for the Project B portfolio](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd) on our 432-data page. While it's not mandatory, it has some real advantages in terms of organizing your work and making sure you don't leave anything important out.
-6. I need to speak with Mohammad Nasirpour and Medhat Farwati after class today.
+6. There is a bonus opportunity available on Campuswire, which will remain open until 9 AM Wednesday 2025-04-30.
 
 ## What's in Today's Slides?
 

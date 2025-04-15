@@ -59,8 +59,8 @@ This session is primarily an Ask Me Anything about Project B, and will be held v
 
 1. Project B presentations over Zoom on Monday 2025-04-21, Tuesday 2025-04-22 and Wednesday 2025-04-23, [as scheduled](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).
 2. No class on Tuesday 2025-04-22. We do have our final class of the semester (all new material) on Thursday 2025-04-24.
-3. Quiz 2 is due at noon Friday 2025-04-25.
-4. The (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) is also due on 2025-04-25 (same day as Quiz 2). See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
+3. The (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) is due on Friday 2025-04-25. See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
+4. Quiz 2 is due at 9 AM Monday 2025-04-28.
 5. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due for everyone, submitting to Canvas, by noon on Wednesday 2025-04-30.
 6. The Course Evaluation at <https://webapps.case.edu/courseevals/> should be done anytime after you *present* your project, and is due when CWRU tells you it is, usually in early May. Please do fill this out. It delights me every year when we get 100% participation.
 

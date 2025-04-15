@@ -25,26 +25,29 @@ This session is primarily an Ask Me Anything about Project B, and will be held v
 ## With regard to Project B, a few thoughts:
 
 1. If you are building a time-to-event model and discover a problem with proportional hazards, noticing the problem is the requirement for 432 Project B, not solving it.
-2. Your Analysis 1 must be associated with Research Question 1, and must be about a model for a multi-categorical outcome, a count outcome, or a survival (time-to-event with censoring) outcome. No other options are available for Analysis 1.
-3. Your Analysis 2 could (in addition to the options in Analysis 1) also be a linear model or a (binary) logistic model.
-4. It's not a good idea to try to present unfinished work during the presentation, as you should be asking questions now if you have them. It is OK to ask questions of me during the presentation - in fact, I hope you will.
-5. The presentation sessions are meant to be 20 minutes long, with 5 minutes wiggle room for longer conversations if needed. This means that if no one asked you any questions, you should be able to complete your presentation in 15 minutes. I will stop you and make you answer questions, though.
-6. Most people who do very, very well on the presentation prepare slides for the presentation, **and also** have the complete portfolio available to be pulled up to answer questions about things not in the slides. Some people choose just to present from the portfolio, which is also fine, and sometimes works very well.
-7. I expect your presentation to enable me to answer [all 8 questions about your Project B work in general](https://thomaselove.github.io/432-2025/projB.html#questions-about-your-project-b-work-in-general) after experiencing it.
-8. I expect your presentation of your analyses to touch on **both** of your two research questions, although you might emphasize one more than the other (that's up to you.) Be sure you tell me: (see [this link](https://thomaselove.github.io/432-2025/projB.html#the-presentation))
+2. If you are building a best subsets model, you should plan to compare it to another model as your main work in that Analysis.
+3. You can do any sort of validation you like with any of the models you build. Including a validation is a good idea, where possible.
+4. Feel encouraged to use **single** imputation and explicitly assume Missing at Random (put it in your slides and your portfolio) whenever necessary. Don't impute your outcomes or identifiers. If you're going to show multiple imputation results, do it with your final model, not while you're trying to assess your model. Or, more simply, just stick with single imputation for the whole Project.
+5. Your Analysis 1 must be associated with Research Question 1, and must be about a model for a multi-categorical outcome, a count outcome, or a survival (time-to-event with censoring) outcome. No other options are available for Analysis 1.
+6. Your Analysis 2 could (in addition to the options in Analysis 1) also be a linear model or a (binary) logistic model.
+7. It's not a good idea to try to present unfinished work during the presentation, as you should be asking questions now if you have them. It is OK to ask questions of me during the presentation - in fact, I hope you will.
+8. The presentation sessions are meant to be 20 minutes long, with 5 minutes wiggle room for longer conversations if needed. This means that if no one asked you any questions, you should be able to complete your presentation in 15 minutes. I will stop you and make you answer questions, though.
+9. Most people who do very, very well on the presentation prepare slides for the presentation, **and also** have the complete portfolio available to be pulled up to answer questions about things not in the slides. Some people choose just to present from the portfolio, which is also fine, and sometimes works very well.
+10. I expect your presentation to enable me to answer [all 8 questions about your Project B work in general](https://thomaselove.github.io/432-2025/projB.html#questions-about-your-project-b-work-in-general) after experiencing it.
+11. I expect your presentation of your analyses to touch on **both** of your two research questions, although you might emphasize one more than the other (that's up to you.) Be sure you tell me: (see [this link](https://thomaselove.github.io/432-2025/projB.html#the-presentation))
     - What your research questions are and why they are important.
     - What data you used and why it was relevant to addressing your questions.
         - You should present at least two effective visualizations of your data that help Professor Love understand what can be said about your research questions, at least one of which should help Professor Love explore your data, and at least one of which should help Professor Love evaluate the success of a particular model. Build the presentation around the figures!
     - What statistical methods you used to analyze and model the data and why they were appropriate.
         - In particular, you are required to present at least one result that is derived from one of your regression models. Aim to present something derived from **each of** your two analyses.
     - What the results say about your research questions - what you have learned by doing this project?
-9. I expect you to be able to answer all 8 questions for each of the two types of models you have fit, including...
+12. I expect you to be able to answer all 8 questions for each of the two types of models you have fit, including...
     - [these 8 about time-to-event models](https://thomaselove.github.io/432-2025/projB.html#questions-about-a-model-for-a-time-to-event-outcome-with-censoring)
     - [these 8 about count outcome models](https://thomaselove.github.io/432-2025/projB.html#questions-about-a-model-for-a-count-outcome)
     - [these 8 about multi-categorical outcome models](https://thomaselove.github.io/432-2025/projB.html#questions-about-a-model-for-a-multi-categorical-outcome-with-3-7-levels)
     - [these 8 about a quantitative outcome (linear) model](https://thomaselove.github.io/432-2025/projB.html#questions-about-a-model-for-a-quantitative-outcome)
     - [these 8 about a binary outcome (logistic) model](https://thomaselove.github.io/432-2025/projB.html#questions-about-a-model-for-a-binary-outcome)
-10. If you are working with a partner, I will decide who speaks for the first half of the presentation on the spot, at random.
+13. If you are working with a partner, I will decide who speaks for the first half of the presentation on the spot, at random.
 
 ## What's Coming Up
 

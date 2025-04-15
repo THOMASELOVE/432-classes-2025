@@ -10,14 +10,15 @@ This session is primarily an Ask Me Anything about Project B, and will be held v
 
 1. There is a [Minute Paper after Class 25](https://bit.ly/432-2025-minute-25) available at <https://bit.ly/432-2025-minute-25>, due at noon **tomorrow**.
 2. Sorry that the recording didn't happen for Class 24 - couldn't be helped. You have the slides, if you missed the session. I intend to record the remaining classes this week and next Thursday.
-3. Lab 7 Comments and Grades are available now in our Course Grading Roster.
+3. Following up after this course, you may want to join the (free) [Cleveland R User Group](https://www.meetup.com/cleveland-user-group/events/) - their next meeting is Saturday May 10 - see [invitation here](https://www.meetup.com/cleveland-user-group/events/307295020/).
+4. Lab 7 Comments and Grades are available now in our Course Grading Roster on the Shared Drive.
     - We awarded up to 5 bonus points for on-time submission, and if you avoided certain problems.
     - If you didn't get the table of contents right, or didn't load your packages correctly, or your HTML wasn't knitted properly, you lost some credit on Lab 7. You'll lose more credit in your Project B portfolio if these things aren't done properly. Also, you **do** need a session information call at the end of the portfolio.
     - Those of you who scored 50 or above including the bonus should see a score of 50 on Lab 7.
     - While you are welcome to continue to use R 4.4.2 through the semester (including for Project B), we encourage you to upgrade to 4.4.3 when you can.
-4. There is a Bonus Opportunity up on Campuswire. Thanks to those of you who've already responded. If you haven't, you should.
-5. By Thursday's class time, you should have a document in your email from me describing your grades on everything so far, so you can check my records, since you have more invested in this than I do at this stage.
-6. Quiz 2 will be posted for you on Friday. I have decided to give you an extra three days (thus, TWO weekends) to complete it, not because it's harder or should take longer, but because I think it will reduce worry. The new deadline for Quiz 2 submission is **9 AM on Monday 2025-04-28**.
+5. There is a Bonus Opportunity up on Campuswire. Thanks to those of you who've already responded. If you haven't, you should.
+6. By Thursday's class time, you should have a document in your email from me describing your grades on everything so far, so you can check my records, since you have more invested in this than I do at this stage.
+7. Quiz 2 will be posted for you on Friday. I have decided to give you an extra three days (thus, TWO weekends) to complete it, not because it's harder or should take longer, but because I think it will reduce worry. The new deadline for Quiz 2 submission is **9 AM on Monday 2025-04-28**.
     - The Quiz covers materials discussed in Classes 1-23 of 432, although everything we discuss today is certainly relevant.
     - On Thursday, I should be able to provide you with more detailed instructions, in case you want to read them in advance.
 

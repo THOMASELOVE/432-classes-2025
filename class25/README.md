@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 This session is primarily an Ask Me Anything about Project B, and will be held via Zoom only. Sorry - **I have no slides for you today**.
 
-1. There is a [Minute Paper after Class 25](https://bit.ly/432-2025-minute-25) available at <https://bit.ly/432-2025-minute-25>, due at noon Wednesday 2025-04-16.
+1. There is a [Minute Paper after Class 25](https://bit.ly/432-2025-minute-25) available at <https://bit.ly/432-2025-minute-25>, due at noon **tomorrow**.
 2. Sorry that the recording didn't happen for Class 24 - couldn't be helped. You have the slides, if you missed the session. I intend to record the remaining classes this week and next Thursday.
 3. Lab 7 Comments and Grades are available now in our Course Grading Roster.
     - We awarded up to 5 bonus points for on-time submission, and if you avoided certain problems.

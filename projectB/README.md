@@ -8,7 +8,7 @@
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-17 | 3:45 - 4:10 PM | Carly DaCosta and <br /> Gabrielle Davis | "Socioeconomic Drivers of Educational Disparities in U.S. Districts"
+04-17 | 3:45 - 4:10 PM | Carly DaCosta and <br /> Gabrielle Davis | "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
 04-17 | 4:15 - 4:40 PM | Ben Hauk | "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
 04-17 | 4:45 - 5:10 PM | Anika Krishna and <br /> Adam Salem | "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
 04-17 | 5:15 - 5:40 PM | Manu Bulusu | "Determinants of Sleep Quality and Long-Term Health Outcomes"

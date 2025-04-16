@@ -12,6 +12,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda and Announcements
+## Announcements
 
-To come.
+1. We corrected a small typo in the [Project B portfolio template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd), where section 6.1 is now correctly headed as "Managing Data for Analysis 2" instead of for Analysis 1.
+2. More to come. 

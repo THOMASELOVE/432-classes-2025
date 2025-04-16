@@ -14,7 +14,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Agenda and Announcements
 
-To come.
+- Building and Assessing Statistical Work in 2025
+- Maintaining and Enhancing What You've Learned
+
 
 ## Two Great Courses
 
@@ -27,3 +29,37 @@ I have recommended multiple other things on [our Sources page](https://github.co
 
 I don't promise that they will be there after June 1, 2025, but they will stay up until then.
 
+### Setting Up Today's Thoughts...
+
+![](figures/zobeck0.png)
+![](figures/zobeck1.png)
+![](figures/zobeck2.png)
+![](figures/zobeck3.png)
+![](figures/zobeck4.png)
+![](figures/zobeck5.png)
+![](figures/zobeck6.png)
+
+- [Source (Mark Zobeck's twitter thread)](https://twitter.com/MarkZobeck/status/1506615109170442244)
+- The two references in the final image are dead links. Instead, use these:
+    - [Statistical Problems to Document and To Avoid](https://discourse.datamethods.org/t/author-checklist/3407)
+    - [Glossary of Statistical Terms (from Frank Harrell)](https://hbiostat.org/glossary/)
+
+In addition to these materials, the main topics today come from:
+
+- [A CHecklist for statistical Assessment of Medical Papers (the CHAMP statement): explanation and elaboration](https://bjsm.bmj.com/content/55/18/1009.2)
+- [Biostatistical Modeling Plan](https://www.fharrell.com/post/modplan) from Frank Harrell.
+
+---------------------------------
+
+## References and Resources from Today's Slides or Past Versions of Today's Slides
+
+- Jeff T Leek and Roger D Peng "What is the Question" from *Science* 2015-03-20 [pdf is here](https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf).
+    - Also, see their commentary in *Nature* 2015-03-30 [collected here](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Leek_and_Peng_2015_Pvalues_Nature.pdf).
+    - Carl Howe from RStudio posted (2020-04-22) on "[Getting to the Right Question](https://blog.rstudio.com/2020/04/22/getting-to-the-right-question/)" - an always-critical part of data science work.
+- Andrew Gelman blog post for 2023-04-23 ["Hey - here’s some ridiculous evolutionary psychology for you, along with some really bad data analysis."](https://statmodeling.stat.columbia.edu/2023/04/23/hey-heres-some-ridiculous-evolutionary-psychology-for-you-along-with-some-really-bad-data-analysis/)
+- John D. Cook blog post for 2023-04-23 ["Can you have confidence in a confidence interval?"](https://www.johndcook.com/blog/2023/04/23/confidence-interval/)
+- George Cobb's thoughts on assessment are [available in the PDF here](http://www.rossmanchance.com/artist/proceedings/cobb.pdf).
+- [Frank Harrell's 2023-04-22 tweet](https://twitter.com/f2harrell/status/1649882314833313794) about [this preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417585) entitled "Interpretation of Wide Confidence Intervals in Meta-Analytic Estimates: Is the 'Absence of Evidence' 'Evidence of Absence'?"
+    - The Cochrane Review by Jefferson et al. entitled "Physical interventions to interrupt or reduce the spread of respiratory viruses" [is available here](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full).
+    - The statement by Editor-in-Chief Karla Soares-Weiser [can be found here](https://www.cochrane.org/news/statement-physical-interventions-interrupt-or-reduce-spread-respiratory-viruses-review).
+    - A NY Times opinion piece by Zeynep Tufecki entitled [Here's Why The Science is Clear that Masks Work](https://www.nytimes.com/2023/03/10/opinion/masks-work-cochrane-study.html) from 2023-03-10 may be of interest, too.

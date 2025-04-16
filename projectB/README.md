@@ -2,9 +2,7 @@
 
 ## Thursday, 2025-04-17 
 
-**in person** in Dr. Love's office (Wood WG-82J) on the ground floor of the Wood building
-
-- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+**in person** in Dr. Love's office (Wood WG-82J) on the ground floor of the Wood building. If the door is closed, please don't knock - just wait outside, and I'll open the door when I'm ready for you.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -15,9 +13,7 @@ Date | Time | Investigator(s) | Title
 
 ## Friday, 2025-04-18
 
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
-
-- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -28,9 +24,7 @@ Date | Time | Investigator(s) | Title
 
 ## Monday, 2025-04-21
 
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
-
-- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -48,9 +42,7 @@ Date | Time | Investigator(s) | Title
 
 ## Tuesday, 2025-04-22
 
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
-
-- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
@@ -75,9 +67,7 @@ Date | Time | Investigator(s) | Title
 
 ## Wednesday, 2025-04-23
 
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document.
-
-- See the **432 Project B Plan Feedback for Spring 2025** document in the **Project B Plan Feedback** folder in our Shared Google Drive to find out whether or not I have approved your plan, and if not, what you need to do next in your email response to me, which is due Sunday 2025-04-06 at 5 PM.
+via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------

@@ -15,3 +15,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Agenda and Announcements
 
 To come.
+
+## Two Great Courses
+
+- Frank Harrell's Short Course on Regression Modeling Strategies <https://hbiostat.org/doc/rms/4day.html> given annually (costs money) and his [book on the same subject](https://hbiostat.org/doc/rms/book/) (available online).
+- Richard McIlreath's Statistical Rethinking course <https://github.com/rmcelreath/stat_rethinking_2024> with lectures (from 2023) posted to  YouTube. Bayesian ways of thinking are a main focus here.
+
+I have recommended multiple other things on [our Sources page](https://github.com/THOMASELOVE/432-sources).
+
+## When will the 431 and 432 materials disappear from the web?
+
+I don't promise that they will be there after June 1, 2025, but they will stay up until then.
+

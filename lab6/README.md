@@ -2,19 +2,6 @@
 
 - Links to Fall 2024 431 Web Sites [are found here](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7#new-completed-websites-by-students-in-this-years-class).
 
-## No submission yet
-
-(You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
-
-- Manu	Bulusu
-
-## Blog post submitted but not yet available online
-
-(You need to get this resolved by 2025-04-15. Ask the TAs and your fellow students on Campuswire if you have questions.)
-
-- Saar	Anis
-- Toni	Shoyinka
-
 ## New Web Sites
 
 - [Ben Hauk](https://benhauk.github.io/)
@@ -60,10 +47,12 @@
 - Olivia Lindberg [On Scientific Blogging](https://olivialindberg.github.io/olivialindberg/blog/)
 - Rebecca Stinson [Sharing is Caring](https://beccastinson.github.io/Posts/2025-03-24-ModernScientist/)
 - Reilly Burhanna [A World Beyond p < 0.05](https://reillyburh.github.io/rburhanna/blog/)
+- Saar	Anis [Career Planning](https://saaranismd.github.io/mypage/)
 - Shraddha Dumawat [Moving to a world beyond p < 0.05](https://shraddha-dumawat.github.io/web/BlogPosts/)
 - Spancer Zhou [Beyond p < 0.05: Rethinking What Statistical Significance Means in 2025](https://ran-997.github.io/my-website/blog/)
 - Tatchaporn Ongphichetmetha [How to Be a Modern Scientist: Key Lessons from Jeff Leek](https://tatchaporn.github.io/tatchaporn/blogs/)
 - Tom Kupferer [Why Today’s Scientist Thinks More Like a Programmer](https://twkcco313.github.io/431-Website/posts/2025-03-25-modern-scientist.html)
+- Toni	Shoyinka [Career Planning As Discussed in Jeff Leek's How to Be a Modern Scientist](https://oluwatoni-shoyinka.github.io/toni_shoyinka_/posts/posts_index.html)
 - Veda	Machiraju [How to Be a Modern Scientist: Key Takeaways](https://vmachira.github.io/blog/)
 - Weiyun Liang [Reflection on "How to be a modern scientist"](https://weiyun.me/blog/)
  

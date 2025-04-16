@@ -20,11 +20,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 > To elicit the most common issues encountered during statistical peer review, an internal survey was administered to The BMJ’s statistical editors. Twelve items were identified, and each are described here. There is one item for each of the 12 days of Christmas, the period between 25 December and 5 January when the statisticians conduct their reviews in the mindset of *The Grinch*, but with the kind heart of *Miracle On 34th Street*.
 
-## Two Great Courses
-
-- Frank Harrell's Short Course on Regression Modeling Strategies <https://hbiostat.org/doc/rms/4day.html> and his [book on the subject](https://hbiostat.org/doc/rms/book/)
-- Richard McIlreath's Statistical Rethinking course <https://github.com/rmcelreath/stat_rethinking_2024> with lectures on YouTube.
-
 ## Our Starting Point for Today's Class
 
 - [An Introduction to Hierarchical Modeling (Visual Explanation)](http://mfviz.com/hierarchical-models/) by [Michael Freeman](http://mfviz.com/)
@@ -49,3 +44,17 @@ I've been asked to talk a bit about machine learning, so I'll send you to my mai
 - Frank also has a video of a talk called [Musings on Statistical Models vs. Machine Learning in Health Research](https://www.fharrell.com/talk/mlhealth/) available.
 - Another helpful video on some related issues from Frank is [Controversies in Predictive Modeling, Machine Learning, and Validation](https://www.fharrell.com/talk/stratos19/).
 
+## What Should I Be Working On?
+
+1. [Project B presentations](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) on Thursday - Wednesday.
+    - The [schedule is here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).
+    - If you're coming today, wait outside my office if the door is closed. I'll open it when I'm ready for you.
+    - Join the Zoom (if you're not coming today) 5 minutes prior to your start time, please.
+    - If you have questions for me on the day, email me.
+2. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) will be available to you at noon Friday 2025-04-18 and is due at 9 AM on Monday 2025-04-28.
+    - If you have questions about the Quiz, email Dr. Love.
+3. No 432 class on Tuesday 2025-04-22. We do have our final class of the semester (Class 27: all new material) on Thursday 2025-04-24.
+4. The (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) is due on Friday 2025-04-25 at noon. See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
+5. [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due for everyone, submitting to Canvas, by noon on Wednesday 2025-04-30.
+6. Bonus A on Campuswire is also due at noon on Wednesday 2025-04-30.
+7. The Course Evaluation at <https://webapps.case.edu/courseevals/> should be done anytime after you *present* your project, and is due when CWRU tells you it is in early May. Please do fill this out. It delights me every year when we get 100% participation.

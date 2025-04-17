@@ -48,6 +48,8 @@ I've been asked to talk a bit about machine learning, so I'll send you to my mai
 
 ## Project Presentations This Afternoon
 
+Wood WG-82J on the ground floor of the Wood building is my office. If you're scheduled today, arrive 5 minutes early, and wait outside my office if the door is closed. I'll open it when I'm ready for you.
+
 - 3:45 - 4:10 PM Carly DaCosta and Gabrielle Davis "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
 - 4:15 - 4:40 PM Ben Hauk "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
 - 4:45 - 5:10 PM Anika Krishna and Adam Salem "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
@@ -57,7 +59,6 @@ I've been asked to talk a bit about machine learning, so I'll send you to my mai
 
 1. [Project B presentations](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) on Thursday - Wednesday.
     - The [schedule is here](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB).
-    - If you're coming today, wait outside my office if the door is closed. I'll open it when I'm ready for you.
     - Join the Zoom (if you're not coming today) 5 minutes prior to your start time, please.
     - If you have questions for me on the day, email me.
 2. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) will be available to you at noon Friday 2025-04-18 and is due at 9 AM on Monday 2025-04-28.

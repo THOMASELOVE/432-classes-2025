@@ -48,7 +48,7 @@ I've been asked to talk a bit about machine learning, so I'll send you to my mai
 
 ## Project Presentations This Afternoon
 
-Wood WG-82J on the ground floor of the Wood building is my office. If you're scheduled today, arrive 5 minutes early, and wait outside my office if the door is closed. I'll open it when I'm ready for you.
+Wood WG-82J on the ground floor of the Wood building is my office. If you're scheduled today, arrive 5 minutes early, and wait outside my office if the door is closed. I'll open it when I'm ready for you. Charge up your laptop before you arrive.
 
 - 3:45 - 4:10 PM Carly DaCosta and Gabrielle Davis "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
 - 4:15 - 4:40 PM Ben Hauk "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"

@@ -16,7 +16,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. We corrected a small typo in the [Project B portfolio template](https://github.com/THOMASELOVE/432-data/blob/master/data/432_projectB_portfolio_template.qmd), where section 6.1 is now correctly headed as "Managing Data for Analysis 2" instead of for Analysis 1.
 2. Feedback on the Minute Paper after Class 25 is found at <https://bit.ly/432-2025-min25-feedback>. You'll need to log into Google via CWRU to see it.
-3. A great reference is [On the 12th Day of Christmas, a Statistician Sent to Me](https://doi.org/10.1136/bmj-2022-072883) from BMJ in 2022. Here is an excerpt from the Abstract...
+3. A draft of the first 20 pages of Quiz 2 [is found here](quiz2_draft_first20pages.pdf). Things may change between now and noon tomorrow.
+4. A great reference is [On the 12th Day of Christmas, a Statistician Sent to Me](https://doi.org/10.1136/bmj-2022-072883) from BMJ in 2022. Here is an excerpt from the Abstract...
 
 > To elicit the most common issues encountered during statistical peer review, an internal survey was administered to The BMJ’s statistical editors. Twelve items were identified, and each are described here. There is one item for each of the 12 days of Christmas, the period between 25 December and 5 January when the statisticians conduct their reviews in the mindset of *The Grinch*, but with the kind heart of *Miracle On 34th Street*.
 

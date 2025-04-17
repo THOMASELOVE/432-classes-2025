@@ -46,6 +46,13 @@ I've been asked to talk a bit about machine learning, so I'll send you to my mai
 - Frank also has a video of a talk called [Musings on Statistical Models vs. Machine Learning in Health Research](https://www.fharrell.com/talk/mlhealth/) available.
 - Another helpful video on some related issues from Frank is [Controversies in Predictive Modeling, Machine Learning, and Validation](https://www.fharrell.com/talk/stratos19/).
 
+## Project Presentations This Afternoon
+
+- 3:45 - 4:10 PM Carly DaCosta and Gabrielle Davis "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
+- 4:15 - 4:40 PM Ben Hauk "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
+- 4:45 - 5:10 PM Anika Krishna and Adam Salem "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
+- 5:15 - 5:40 PM Manu Bulusu "Determinants of Sleep Quality and Long-Term Health Outcomes"
+
 ## What Should I Be Working On?
 
 1. [Project B presentations](https://github.com/THOMASELOVE/432-classes-2025/tree/main/projectB) on Thursday - Wednesday.

@@ -12,11 +12,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda and Announcements
+## Agenda
 
 - Building and Assessing Statistical Work in 2025
 - Maintaining and Enhancing What You've Learned
 
+## Announcements
+
+1. When you submit your portfolio for Project B, **you should also submit the slides** you used in your presentation (please submit them as you presented them - without updates) through Canvas, assuming you built slides for your presentation.
 
 ## Two Great Courses
 

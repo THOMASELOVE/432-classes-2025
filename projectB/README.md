@@ -1,16 +1,5 @@
 # Project B Schedule
 
-## Friday, 2025-04-18
-
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
-
-Date | Time | Investigator(s) | Title
-:-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-18 | Noon - 12:25 PM | Jeff Lambe and <br /> Tatchaporn <br /> Ongphichetmetha | "Predicting Disability Among People with Multiple Sclerosis"
-04-18 | 12:30 - 12:55 PM | Trisha Lal and <br /> Monique Katsuki | "Time Toxicity and Survival in Hormone Receptor-Positive Breast Cancer"
-04-18 | 1:00 - 1:25 PM | JiaWei Yu | "Predicting Loneliness and Alcohol Intake Among Adults 18-79 Years of Age"
-04-18 | 1:30 - 1:55 PM | Shraddha Dumawat | "Decoding Early Signs of Cognitive and Tremor Changes in Parkinson’s Disease"
-
 ## Monday, 2025-04-21
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
@@ -75,3 +64,7 @@ Date | Investigator(s) | Title
 04-17 | Ben Hauk | "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
 04-17 | Anika Krishna and <br /> Adam Salem | "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
 04-17 | Manu Bulusu | "Determinants of Sleep Quality and Long-Term Health Outcomes"
+04-18 | Jeff Lambe and <br /> Tatchaporn <br /> Ongphichetmetha | "Predicting Disability Among People with Multiple Sclerosis"
+04-18 | Trisha Lal and <br /> Monique Katsuki | "Time Toxicity and Survival in Hormone Receptor-Positive Breast Cancer"
+04-18 | JiaWei Yu | "Predicting Loneliness and Alcohol Intake Among Adults 18-79 Years of Age"
+04-18 | Shraddha Dumawat | "Decoding Early Signs of Cognitive and Tremor Changes in Parkinson’s Disease"

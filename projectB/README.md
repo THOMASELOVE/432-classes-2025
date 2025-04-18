@@ -1,16 +1,5 @@
 # Project B Schedule
 
-## Thursday, 2025-04-17 
-
-**in person** in Dr. Love's office (Wood WG-82J) on the ground floor of the Wood building. If the door is closed, please don't knock - just wait outside, and I'll open the door when I'm ready for you.
-
-Date | Time | Investigator(s) | Title
-:-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-17 | 3:45 - 4:10 PM | Carly DaCosta and <br /> Gabrielle Davis | "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
-04-17 | 4:15 - 4:40 PM | Ben Hauk | "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
-04-17 | 4:45 - 5:10 PM | Anika Krishna and <br /> Adam Salem | "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
-04-17 | 5:15 - 5:40 PM | Manu Bulusu | "Determinants of Sleep Quality and Long-Term Health Outcomes"
-
 ## Friday, 2025-04-18
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
@@ -77,3 +66,12 @@ Date | Time | Investigator(s) | Title
 04-23 | 10:00-10:25 AM | Arya Patel | "Predictors of Sebaceous Carcinoma Surgical treatment and efficacy"
 04-23 | 10:30-10:55 AM | Megan Zelinsky | "Predicting Neurosurgical Selection in 1,796 Patient Management Conferences"
 04-23 | 11:00-11:25 AM | Jose Diz Ferre | "Risk factors predicting overall health and atrial fibrillation"
+
+## Completed Presentations
+
+Date | Investigator(s) | Title
+:-----: | :--------------------: | -----------------------------------------------------------------------------
+04-17 | Carly DaCosta and <br /> Gabrielle Davis | "Socioeconomic Factors Shaping Childhood Disparities in U.S. School Districts"
+04-17 | Ben Hauk | "Predicting Breast Cancer Outcomes Using Bulk RNA-Seq and Tumor Mutation Data"
+04-17 | Anika Krishna and <br /> Adam Salem | "Modeling Traffic Stop Outcomes and Search Decisions in Nashville"
+04-17 | Manu Bulusu | "Determinants of Sleep Quality and Long-Term Health Outcomes"

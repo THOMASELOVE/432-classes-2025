@@ -4,6 +4,8 @@
 
 See the list on the Class 27 README.
 
+- After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it.
+
 ## Getting Help
 
 - [Campuswire](https://campuswire.com/) closes at noon on Wednesday 2025-04-30.

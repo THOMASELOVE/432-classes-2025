@@ -1,4 +1,4 @@
-# End-of-Semester Notes Regarding 432 For Spring 2024
+# End-of-Semester Notes Regarding 432 For Spring 2025
 
 ## Remaining Course Deliverables
 

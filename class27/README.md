@@ -19,7 +19,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. When you submit your portfolio for Project B, **you should also submit the slides** you used in your presentation (please submit them as you presented them - without updates) through Canvas, assuming you built slides for your presentation.
+1. If you want me to review the grade on any Lab this semester, fill out the (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) by Friday 2025-04-25 at noon.
+    - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
+2. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) is due Monday 2025-04-28 at 9 AM. The [Google Form](https://bit.ly/432-2025-quiz2-form) will close at 9:30 AM on Monday and will not re-open, so do not wait until the last minute.
+    - I will address any Quiz 2 questions you have at the end of today's class.
+    - I remind you all to look at [the Quiz 2 page](https://thomaselove.github.io/432-2025/quiz2.html) for details on revisions to the PDF file since its initial posting.
+3. The [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due to Canvas on Wednesday 2025-04-30 at Noon.
+    - A complete submission includes four things: (1) your .qmd file, (2) the resulting .html file, (3) the slides **exactly as you used them in your presentation** if you used slides in your presentation, and (4) your R data set.
+    - Those of you using data that cannot be shared with me be sure to submit [what I've asked for in the instructions](https://thomaselove.github.io/432-2025/projB.html#submitting-your-data).
+    - If you are working with a partner, one of you supplies the portfolio and the other submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
+4. Bonus A on Campuswire is also due at noon on Wednesday 2025-04-30.
+5. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it.
 
 ## Two Great Courses
 

@@ -1,13 +1,5 @@
 # Project B Schedule
 
-## Monday, 2025-04-21
-
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
-
-Date | Time | Investigator(s) | Title
-:-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-21 | 5:00 - 5:25 PM | Tom Kupferer | "Seeing Isn’t Always Believing: Predicting Health from Lifestyle Patterns"
-
 ## Tuesday, 2025-04-22
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
@@ -66,3 +58,4 @@ Date | Investigator(s) | Title
 04-21 | Graham Stockdale | "Predicting Premier League Match Outcomes"
 04-21 | Nick Nazak and <br /> Rebecca Stinson | "Modeling Private School Characteristics Based on Socioeconomic Metrics"
 04-21 | Gina Lin | "Predicting Coffee Flavor Rating and Processing Methods"
+04-21 | Tom Kupferer | "Seeing Isn’t Always Believing: Predicting Health from Lifestyle Patterns"

@@ -6,7 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-21 | 4:00 - 4:25 PM | Nick Nazak and <br /> Rebecca Stinson | "Modeling Private School Characteristics Based on Socioeconomic Metrics"
 04-21 | 4:30 - 4:55 PM | Gina Lin | "Predicting Coffee Flavor Rating and Processing Methods"
 04-21 | 5:00 - 5:25 PM | Tom Kupferer | "Seeing Isn’t Always Believing: Predicting Health from Lifestyle Patterns"
 
@@ -66,3 +65,4 @@ Date | Investigator(s) | Title
 04-21 | Nihit Mehta and <br /> Kartik Lakhotiya | "College Tier Classification and Flagship Status in the U.S."
 04-21 | Feriel Presswalla <br /> and Alayna Rowell | "Can we predict if a senior will die at home by their age and length of illness?"
 04-21 | Graham Stockdale | "Predicting Premier League Match Outcomes"
+04-21 | Nick Nazak and <br /> Rebecca Stinson | "Modeling Private School Characteristics Based on Socioeconomic Metrics"

@@ -31,6 +31,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - A complete submission includes four things: (1) your .qmd file, (2) the resulting .html file, (3) the slides **exactly as you used them in your presentation** if you used slides in your presentation, and (4) your R data set.
     - Those of you using data that cannot be shared with me be sure to submit [what I've asked for in the instructions](https://thomaselove.github.io/432-2025/projB.html#submitting-your-data).
     - If you are working with a partner, one of you supplies the portfolio and the other submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
+    - I have a list of 8 things I plan to review in each portfolio, since I won't have time to read every part of every portfolio. You can probably guess that three of them are: loading packages, your codebook, and the conclusions/discussion section.
 5. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
 6. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it.
 

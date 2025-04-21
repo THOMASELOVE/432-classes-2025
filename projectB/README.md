@@ -46,7 +46,7 @@ Date | Time | Investigator(s) | Title
 04-23 | 8:30 - 8:55 AM | Olivia Lindberg | "Health and Adoption Outcomes for Long Beach Rescue Cats"
 04-23 | 9:00 - 9:25 AM | Toni Shoyinka and <br /> Harshita Kumar | "Exploring Factors That Affect the Taste of Coffee Beans"
 04-23 | 9:30 - 9:55 AM | Leia George | "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
-04-23 | 10:00-10:25 AM | Arya Patel | "Predictors of Sebaceous Carcinoma Surgical treatment and efficacy"
+04-23 | 10:00-10:25 AM | Arya Patel | "Predictors of Surgical Treatment Timing and Survival Outcomes in Sebaceous Carcinoma Patients"
 04-23 | 10:30-10:55 AM | Megan Zelinsky | "Predicting Neurosurgical Selection in 1,796 Patient Management Conferences"
 04-23 | 11:00-11:25 AM | Jose Diz Ferre | "Risk factors predicting overall health and atrial fibrillation"
 

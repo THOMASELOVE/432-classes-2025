@@ -6,8 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-21 | 1:00 - 1:25 PM | Spancer Zhou | "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
-04-21 | 1:30 - 1:55 PM | Morgan McLoughlin | "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"
 04-21 | 2:00 - 2:25 PM | Nihit Mehta and <br /> Kartik Lakhotiya | "College Tier Classification and Flagship Status in the U.S."
 -- | *break*
 04-21 | 3:00 - 3:25 PM | Feriel Presswalla <br /> and <br /> Alayna Rowell | "Can we predict if a senior will die at home by their age and length of illness?"
@@ -67,3 +65,5 @@ Date | Investigator(s) | Title
 04-18 | JiaWei Yu | "Predicting Loneliness and Alcohol Intake Among Adults 18-79 Years of Age"
 04-18 | Shraddha Dumawat | "Decoding Early Signs of Cognitive and Tremor Changes in Parkinson’s Disease"
 04-21 | Kelao Neumbo | "Factors Influencing Healthcare Utilization and Injury Risk"
+04-21 | Spancer Zhou | "Modeling Survival Time and Disease Stage in Patients with Liver Cirrhosis"
+04-21 | Morgan McLoughlin | "Predicting Arrest Among Adolescents Enrolled in a Parenting Intervention Study"

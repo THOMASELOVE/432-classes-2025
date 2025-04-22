@@ -6,7 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-22 | 1:30 - 1:55 PM | Veda Machiraju <br /> and Brooke <br /> Bhattacharya | "Predicting Anxiety and Substance Use Diagnoses with 2022 MHCLD Data"
 04-22 | 2:00 - 2:25 PM | Ajay Mahenthiran | "Modeling the Social Determinants of Child Mortality and Life Expectancy"
 04-22 | 2:30 - 2:55 PM | Lingzhu Shen | "Predicting Mortality and Diabetes Status Using NHANES 2017–2018"
 -- | *break*
@@ -57,3 +56,4 @@ Date | Investigator(s) | Title
 04-22 | Reilly Burhanna | "Predictions of Player Positions and Total Yellow Cards"
 04-22 | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"
 04-22 | Debbie Seifert | "Predicting poor childhood diet from activity and weight"
+04-22 | Veda Machiraju and <br /> Brooke Bhattacharya | "Predicting Anxiety and Substance Use Diagnoses with 2022 MHCLD Data"

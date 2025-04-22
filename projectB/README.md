@@ -6,7 +6,7 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-22 | 11:00-11:25 AM | Reilly <br /> Burhanna | "Predictions of Player Positions and Total Yellow Cards"
+04-22 | 11:00-11:25 AM | Reilly Burhanna | "Predictions of Player Positions and Total Yellow Cards"
 04-22 | 11:30-11:55 AM | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"
 -- | *break*
 04-22 | 1:00 - 1:25 PM | Debbie Seifert | "Predicting poor childhood diet from activity and weight"

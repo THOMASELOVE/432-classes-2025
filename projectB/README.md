@@ -6,8 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-22 | 11:30-11:55 AM | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"
--- | *break*
 04-22 | 1:00 - 1:25 PM | Debbie Seifert | "Predicting poor childhood diet from activity and weight"
 04-22 | 1:30 - 1:55 PM | Veda Machiraju <br /> and Brooke <br /> Bhattacharya | "Predicting Anxiety and Substance Use Diagnoses with 2022 MHCLD Data"
 04-22 | 2:00 - 2:25 PM | Ajay Mahenthiran | "Modeling the Social Determinants of Child Mortality and Life Expectancy"
@@ -58,3 +56,4 @@ Date | Investigator(s) | Title
 04-22 | Saar Anis | "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"
 04-22 | Katherine <br /> Papahadjopoulos | "Predicting Average Number of Hours Watching TV in U.S. High School Students"
 04-22 | Reilly Burhanna | "Predictions of Player Positions and Total Yellow Cards"
+04-22 | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"

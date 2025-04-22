@@ -6,10 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-22 | 8:30 - 8:55 AM | Mahsa Sheikh and <br /> Tatiana Dombrovski | "Exploring Dental Health Using 2023 National Survey of Children’s Health"
-04-22 | 9:00 - 9:25 AM | Dana Jian | "Acculturation and Menstrual Regularity: Exploring Social and Health Patterns"
-04-22 | 9:30 - 9:55 AM | Saar Anis | "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"
--- | *break*
 04-22 | 10:30-10:55 AM | Katherine <br /> Papahadjopoulos | "Predicting Average Number of Hours Watching TV in U.S. High School Students"
 04-22 | 11:00-11:25 AM | Reilly <br /> Burhanna | "Predictions of Player Positions and Total Yellow Cards"
 04-22 | 11:30-11:55 AM | Dalí Nemecio | "Predicting Food Source Based on Its Nutritional Composition"
@@ -59,3 +55,6 @@ Date | Investigator(s) | Title
 04-21 | Nick Nazak and <br /> Rebecca Stinson | "Modeling Private School Characteristics Based on Socioeconomic Metrics"
 04-21 | Gina Lin | "Predicting Coffee Flavor Rating and Processing Methods"
 04-21 | Tom Kupferer | "Seeing Isn’t Always Believing: Predicting Health from Lifestyle Patterns"
+04-22 | Mahsa Sheikh and <br /> Tatiana Dombrovski | "Exploring Dental Health Using 2023 National Survey of Children’s Health"
+04-22 | Dana Jian | "Acculturation and Menstrual Regularity: Exploring Social and Health Patterns"
+04-22 | Saar Anis | "Predicting Genetic Mutation Carrier Status and Gait Instability in Parkinson's"

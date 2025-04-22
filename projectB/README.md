@@ -12,7 +12,7 @@ Date | Time | Investigator(s) | Title
 04-22 | 2:30 - 2:55 PM | Lingzhu Shen | "Predicting Mortality and Diabetes Status Using NHANES 2017–2018"
 -- | *break*
 04-22 | 3:30 - 3:55 PM | Mohammad <br /> Nasirpour and <br /> Medhat Farwati | "Associations Between BMI Categories and Hemoglobin A1C in U.S. Adults"
-04-22 | 4:00 - 4:25 PM | Weiyun Liang | "Sleep Duration and Glucose Levels: Insights from Two Regression Models"
+04-22 | 4:00 - 4:25 PM | Weiyun Liang | "Snoring Severity and Glucose Levels: Insights from Two Regression Models"
 04-22 | 4:30 - 4:55 PM | Zuhair Khan | "Prescription Drug Costs, Hospital Utilization and Chronic Conditions"
 04-22 | 5:00 - 5:25 PM | Haley Altadonna | "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
 04-22 | 5:30 - 5:55 PM | Kelly Bowen | "Predicting Tornado Severity in the United States in 2024"

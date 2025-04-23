@@ -1,13 +1,5 @@
 # Project B Schedule
 
-## Wednesday, 2025-04-23
-
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
-
-Date | Time | Investigator(s) | Title
-:-------: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-23 | 11:00-11:25 AM | Jose Diz Ferre | "Risk factors predicting overall health and atrial fibrillation"
-
 ## Completed Presentations
 
 Date | Investigator(s) | Title
@@ -49,3 +41,4 @@ Date | Investigator(s) | Title
 04-23 | Leia George | "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
 04-23 | Arya Patel | "Predictors of Surgical Treatment Timing and Survival Outcomes in <br /> Sebaceous Carcinoma Patients"
 04-23 | Megan Zelinsky | "Predicting Neurosurgical Selection in 1,777 Patient Management <br /> Conferences"
+04-23 | Jose Diz Ferre | "Risk factors predicting overall health and atrial fibrillation"

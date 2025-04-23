@@ -6,7 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-------: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-23 | 10:00-10:25 AM | Arya Patel | "Predictors of Surgical Treatment Timing and Survival Outcomes in <br /> Sebaceous Carcinoma Patients"
 04-23 | 10:30-10:55 AM | Megan Zelinsky | "Predicting Neurosurgical Selection in 1,796 Patient Management <br /> Conferences"
 04-23 | 11:00-11:25 AM | Jose Diz Ferre | "Risk factors predicting overall health and atrial fibrillation"
 
@@ -49,3 +48,4 @@ Date | Investigator(s) | Title
 04-23 | Olivia Lindberg | "Health and Adoption Outcomes for Long Beach Rescue Cats"
 04-23 | Toni Shoyinka <br /> and <br /> Harshita Kumar | "Exploring Factors That Affect the Taste of Coffee Beans"
 04-23 | Leia George | "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
+04-23 | Arya Patel | "Predictors of Surgical Treatment Timing and Survival Outcomes in <br /> Sebaceous Carcinoma Patients"

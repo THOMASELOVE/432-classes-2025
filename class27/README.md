@@ -48,7 +48,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - I have a list of five things I plan to review in each portfolio, since I won't have time to read every part of every portfolio (38 portfolios in a day is more than I can read.) I will read the whole portfolio for anyone on the boundary of an A/B in the class, of course.
         - You can probably guess that two of the five things I will look at are: loading packages properly, and the conclusions/discussion section. I won't specify the other three.
 5. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
-6. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it.
+6. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it. I had 6 responses as of 2025-04-23 at 12:25 PM.
 
 ## Four Interesting post-432 Learning Pathways
 

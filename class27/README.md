@@ -31,7 +31,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. TA office hours are completed for the semester. Campuswire will remain open until noon on Wednesday 2025-04-30.
+1. TA office hours have ended for the semester. Many thanks to the TAs for their exceptional efforts. Campuswire will remain open until noon on Wednesday 2025-04-30.
 2. If you want me to review the grade on any Lab this semester, fill out the (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) by Friday 2025-04-25 at noon.
     - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
 3. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) is due Monday 2025-04-28 at 9 AM. The [Google Form](https://bit.ly/432-2025-quiz2-form) will close at 9:30 AM on Monday and will not re-open, so do not wait until the last minute.

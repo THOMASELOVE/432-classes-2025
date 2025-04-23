@@ -1,6 +1,6 @@
 # Project B Schedule
 
-## Completed Presentations
+## All presentations are complete.
 
 Date | Investigator(s) | Title
 :-----: | :--------------------: | -----------------------------------------------------------------------------

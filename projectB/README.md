@@ -6,7 +6,6 @@ via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Proj
 
 Date | Time | Investigator(s) | Title
 :-------: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-23 | 9:00 - 9:25 AM | Toni Shoyinka <br /> and <br /> Harshita Kumar | "Exploring Factors That Affect the Taste of Coffee Beans"
 04-23 | 9:30 - 9:55 AM | Leia George | "Social Determinants and Mental Health Outcomes in U.S. Adults Surveyed in 2022"
 04-23 | 10:00-10:25 AM | Arya Patel | "Predictors of Surgical Treatment Timing and Survival Outcomes in <br /> Sebaceous Carcinoma Patients"
 04-23 | 10:30-10:55 AM | Megan Zelinsky | "Predicting Neurosurgical Selection in 1,796 Patient Management <br /> Conferences"
@@ -49,3 +48,4 @@ Date | Investigator(s) | Title
 04-22 | Haley Altadonna | "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
 04-22 | Kelly Bowen | "Predicting Tornado Severity in the United States in 2024"
 04-23 | Olivia Lindberg | "Health and Adoption Outcomes for Long Beach Rescue Cats"
+04-23 | Toni Shoyinka <br /> and <br /> Harshita Kumar | "Exploring Factors That Affect the Taste of Coffee Beans"

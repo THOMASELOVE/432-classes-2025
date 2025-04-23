@@ -22,9 +22,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - All of the presentations are done. Thank you for your effort and for being on time for your presentations and being well-prepared, which let me get through this with a minimum of pain. I really appreciate it.
 - The range of presentation grades was **71** to **97**.
-- You should have an email from me with my comments on your presentation. The scale for the "Rate these concerns" questions was Excellent/Good/Acceptable/Needs Improvement. The scale for the items that followed those questions was Yes/Somewhat/No, although sometimes I used a different phrase (like "Not Quite" or "Mostly") to indicate "Somewhat".
-- Several of the presentations were outstanding, and I am hoping to share the slides from those presentations with you.
-- I have deleted the recordings for all of the Project B presentations.
+- You should have an email from me with my comments on your presentation.
+    - The scale for the "Rate these concerns" questions was Excellent/Good/Acceptable/Needs Improvement.
+    - The scale for the items that followed those questions was Yes/Somewhat/No, although sometimes I used a different phrase (like "Not Quite" or "Mostly") to indicate "Somewhat".
+- Several of the presentations were outstanding, and I have shared some of those slides from those presentations with you on our Shared Drive in the **Some Sample Project B Slides** folder.
+    - Note that I have deleted the recordings for all of the Project B presentations.
+- My method for calculating your eventual Project B grade is found in the **How Will I estimate your grade in 432? (Spring 2025)** document on our Shared Google Drive.
 
 ## Announcements
 

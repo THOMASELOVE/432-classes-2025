@@ -18,6 +18,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Maintaining and Enhancing What You've Learned
 - Your Questions, My Answers on Quiz 2, Project B and anything else...
 
+## Project B Presentations
+
+- All of the presentations are done. Thank you for your effort and for being on time for your presentations and being well-prepared, which let me get through this with a minimum of pain. I really appreciate it.
+- The range of presentation grades was **71** to **97**.
+- You should have an email from me with my comments on your presentation. The scale for the "Rate these concerns" questions was Excellent/Good/Acceptable/Needs Improvement. The scale for the items that followed those questions was Yes/Somewhat/No, although sometimes I used a different phrase (like "Not Quite" or "Mostly") to indicate "Somewhat".
+- Several of the presentations were outstanding, and I am hoping to share the slides from those presentations with you.
+- I have deleted the recordings for all of the Project B presentations.
+
 ## Announcements
 
 1. TA office hours are completed for the semester. Campuswire will remain open until noon on Wednesday 2025-04-30.
@@ -28,11 +36,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - I remind you all to look at [the Quiz 2 page](https://thomaselove.github.io/432-2025/quiz2.html) for details on revisions to the PDF file since its initial posting.
     - **Hint**: A correct answer to Question 10 includes the data from subject `H012304`, who is in the 172nd row of the `data3` tibble.
 4. The [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due to Canvas on Wednesday 2025-04-30 at Noon.
-    - A complete submission includes four things: (1) your .qmd file, (2) the resulting .html file, (3) the slides **exactly as you used them in your presentation** if you used slides in your presentation, and (4) your R data set.
+    - A complete portfolio submission includes four things: (1) your .qmd file, (2) the resulting .html file, (3) the slides **exactly as you used them in your presentation** (most people used slides, a few will send their presented .html), and (4) your R data set.
     - Those of you using data that cannot be shared with me be sure to submit [what I've asked for in the instructions](https://thomaselove.github.io/432-2025/projB.html#submitting-your-data).
     - If you are working with a partner, one of you supplies the portfolio and the other submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
-    - I have a list of five things I plan to review in each portfolio, since I won't have time to read every part of every portfolio (38 portfolios in a day is more than I can read.)
-        - You can probably guess that two of them are: loading packages properly, and the conclusions/discussion section. I won't specify the other three.
+    - I have a list of five things I plan to review in each portfolio, since I won't have time to read every part of every portfolio (38 portfolios in a day is more than I can read.) I will read the whole portfolio for anyone on the boundary of an A/B in the class, of course.
+        - You can probably guess that two of the five things I will look at are: loading packages properly, and the conclusions/discussion section. I won't specify the other three.
 5. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
 6. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it.
 

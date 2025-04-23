@@ -1,14 +1,5 @@
 # Project B Schedule
 
-## Tuesday, 2025-04-22
-
-via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
-
-Date | Time | Investigator(s) | Title
-:-----: | :------: | :--------------------: | -----------------------------------------------------------------------------
-04-22 | 5:00 - 5:25 PM | Haley Altadonna | "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
-04-22 | 5:30 - 5:55 PM | Kelly Bowen | "Predicting Tornado Severity in the United States in 2024"
-
 ## Wednesday, 2025-04-23
 
 via **Zoom** - Zoom links are found in our Shared Google Drive in the **432 Project B Presentations Zoom Links** document. I encourage you to join the Zoom five minutes before your presentation time.
@@ -56,3 +47,5 @@ Date | Investigator(s) | Title
 04-22 | Mohammad <br /> Nasirpour and <br /> Medhat Farwati | "Associations Between BMI Categories and Hemoglobin A1C in U.S. Adults"
 04-22 | Weiyun Liang | "Snoring Severity and Glucose Levels: Insights from Two Regression Models"
 04-22 | Zuhair Khan | "Prescription Drug Costs, Hospital Utilization and Chronic Conditions"
+04-22 | Haley Altadonna | "Predicting Poor Mental Health Days and Depression Diagnoses in U.S. Adults"
+04-22 | Kelly Bowen | "Predicting Tornado Severity in the United States in 2024"

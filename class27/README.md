@@ -12,12 +12,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ---
 
-## Agenda
+## Agenda in Today's Slides
 
 - Eight Loose Ends
 - Building and Assessing Statistical Work in 2025
 - Maintaining and Enhancing What You've Learned
-- Your Questions, My Answers on Quiz 2, Project B and anything else...
+
 
 ## Project B Presentations
 
@@ -29,6 +29,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Several of the presentations were outstanding, and I have shared some of those slides from those presentations with you on our Shared Drive in the **Some Sample Project B Slides** folder.
     - Note that I have deleted the recordings for all of the Project B presentations.
 - My method for calculating your eventual Project B grade is found in the **How Will I estimate your grade in 432? (Spring 2025)** document on our Shared Google Drive.
+
+--------
 
 ## Announcements
 
@@ -52,6 +54,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 6. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
 7. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it. I had 6 responses as of 2025-04-23 at 12:25 PM.
 
+---------
 
 ## Five Interesting post-432 Learning Pathways
 
@@ -104,6 +107,8 @@ In addition to these materials, the main topics today come from:
     - The Cochrane Review by Jefferson et al. entitled "Physical interventions to interrupt or reduce the spread of respiratory viruses" [is available here](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006207.pub6/full).
     - The statement by Editor-in-Chief Karla Soares-Weiser [can be found here](https://www.cochrane.org/news/statement-physical-interventions-interrupt-or-reduce-spread-respiratory-viruses-review).
     - A NY Times opinion piece by Zeynep Tufecki entitled [Here's Why The Science is Clear that Masks Work](https://www.nytimes.com/2023/03/10/opinion/masks-work-cochrane-study.html) from 2023-03-10 may be of interest, too.
+
+----------------------------
 
 # After the Course is Over
 

@@ -34,21 +34,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. TA office hours have ended for the semester. Many thanks to the TAs for their exceptional efforts. [Campuswire](https://campuswire.com/) will remain open until noon on Wednesday 2025-04-30.
 2. If you want me to review the grade on any Lab this semester, fill out the (optional) [Lab Regrade Request form](https://bit.ly/432-2025-lab-regrades) by Friday 2025-04-25 at noon.
     - See [Section 8.5 of our Syllabus](https://thomaselove.github.io/432-syllabus-2025/08-grading.html) for more on this.
-3. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) is due Monday 2025-04-28 at 9 AM. The [Google Form](https://bit.ly/432-2025-quiz2-form) will close at 9:30 AM on Monday and will not re-open, so do not wait until the last minute.
+3. [R version 4.5.0](https://cran.case.edu/) is now available! The current production version of RStudio is `2024.12.1+563` released `2025-02-13`.
+4. [Quiz 2](https://thomaselove.github.io/432-2025/quiz2.html) is due Monday 2025-04-28 at 9 AM. The [Google Form](https://bit.ly/432-2025-quiz2-form) will close at 9:30 AM on Monday and will not re-open, so do not wait until the last minute.
     - I will address any Quiz 2 questions you have at the end of today's class.
     - I remind you all to look at [the Quiz 2 page](https://thomaselove.github.io/432-2025/quiz2.html) for details on revisions to the PDF file since its initial posting.
     - Here are three hints for the Quiz:
         - In **Question 9**, if one of the indicator variables for a multi-categorical predictor is included in the "best subsets" result, include the entire multi-categorical predictor in the model you select.
         - A correct answer to **Question 10** includes the data from subject `H012304`, who is in the 172nd row of the `data3` tibble.
         - In **Question 12**, I will be looking to see that you accurately describe the meaning of both the point estimate and the 99% confidence interval. As noted, an excellent answer will show that you've reviewed the description of the variables contained in `data4`.
-4. The [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due to Canvas on Wednesday 2025-04-30 at Noon.
+5. The [Project B portfolio](https://thomaselove.github.io/432-2025/projB.html#the-project-portfolio) is due to Canvas on Wednesday 2025-04-30 at Noon.
     - A complete portfolio submission includes four things: (1) your .qmd file, (2) the resulting .html file, (3) the slides **exactly as you used them in your presentation** (most people used slides, a few will send their presented .html), and (4) your R data set.
     - Those of you using data that cannot be shared with me be sure to submit [what I've asked for in the instructions](https://thomaselove.github.io/432-2025/projB.html#submitting-your-data).
     - If you are working with a partner, one of you supplies the portfolio and the other submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
     - I have a list of five things I plan to review in each portfolio, since I won't have time to read every part of every portfolio (38 portfolios in a day is more than I can read.) I will read the whole portfolio for anyone on the boundary of an A/B in the class, of course.
         - You can probably guess that two of the five things I will look at are: loading packages properly, and the conclusions/discussion section. I won't specify the other three.
-5. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
-6. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it. I had 6 responses as of 2025-04-23 at 12:25 PM.
+6. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
+7. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it. I had 6 responses as of 2025-04-23 at 12:25 PM.
 
 ## Four Interesting post-432 Learning Pathways
 

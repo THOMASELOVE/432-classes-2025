@@ -57,7 +57,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. Richard McIlreath's Statistical Rethinking course <https://github.com/rmcelreath/stat_rethinking_2024> with lectures (from 2023) posted to  YouTube. Bayesian ways of thinking are a major focus here.
 3. [Get Started with Tidymodels](https://www.tidymodels.org/start/) is a great place to start learning about tidymodels. The book is [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge.
 4. Generalized Additive Models (gams) in R: See [Noam Ross' online (free) short course](https://noamross.github.io/gams-in-r-course/) and Michael Clark's [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/) and the [gratia package](https://github.com/gavinsimpson/gratia) which provides `ggplot`-based graphics and utility functions for working with generalized additive models (GAMs) fitted using the `mgcv` package.
-5. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) is a useful (if somewhat dated) text by Bradley Boehmke & Brandon Greenwell.
+5. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) is a useful (if somewhat dated) text by Bradley Boehmke & Brandon Greenwell. So is [R for Supervised Learning](https://daviddalpiaz.github.io/r4sl/) by David Dalpiaz.
 
 I have recommended multiple other things on [our Sources page](https://github.com/THOMASELOVE/432-sources).
 

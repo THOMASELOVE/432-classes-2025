@@ -51,12 +51,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 6. Bonus A on [Campuswire](https://campuswire.com/) is also due at noon on Wednesday 2025-04-30. I've reminded you enough on this, I think.
 7. After you have completed the **CWRU course evaluation** at <https://webapps.case.edu/courseevals/>, which you can do at any time now, please email me to let me know, and if I receive such an email (please use the subject line **432 course evaluation done**) from you, I will stop pestering you to do it. I had 6 responses as of 2025-04-23 at 12:25 PM.
 
-## Four Interesting post-432 Learning Pathways
+## Five Interesting post-432 Learning Pathways
 
-1. Frank Harrell's Short Course on Regression Modeling Strategies <https://hbiostat.org/doc/rms/4day.html> given annually (costs money) and his [book on the same subject](https://hbiostat.org/doc/rms/book/) (available online).
+1. Frank Harrell's Short Course on Regression Modeling Strategies <https://hbiostat.org/doc/rms/4day.html> given annually (costs money) and his [book on the same subject](https://hbiostat.org/doc/rms/book/) (available online). A good starting point is [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) if you find the book too rough at the start.
 2. Richard McIlreath's Statistical Rethinking course <https://github.com/rmcelreath/stat_rethinking_2024> with lectures (from 2023) posted to  YouTube. Bayesian ways of thinking are a major focus here.
 3. [Get Started with Tidymodels](https://www.tidymodels.org/start/) is a great place to start learning about tidymodels. The book is [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge.
 4. Generalized Additive Models (gams) in R: See [Noam Ross' online (free) short course](https://noamross.github.io/gams-in-r-course/) and Michael Clark's [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/) and the [gratia package](https://github.com/gavinsimpson/gratia) which provides `ggplot`-based graphics and utility functions for working with generalized additive models (GAMs) fitted using the `mgcv` package.
+5. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) is a useful (if somewhat dated) text by Bradley Boehmke & Brandon Greenwell.
 
 I have recommended multiple other things on [our Sources page](https://github.com/THOMASELOVE/432-sources).
 

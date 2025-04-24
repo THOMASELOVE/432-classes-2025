@@ -14,6 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Agenda
 
+- Eight Loose Ends
 - Building and Assessing Statistical Work in 2025
 - Maintaining and Enhancing What You've Learned
 - Your Questions, My Answers on Quiz 2, Project B and anything else...

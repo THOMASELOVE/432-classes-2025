@@ -16,12 +16,13 @@ See the list on [the Class 27 README](https://github.com/THOMASELOVE/432-classes
 2. The **Course Notes** and other materials from 431 and 432 that are available now (including the recordings) will remain where they are until **2025-06-01** at which point some or all of them will disappear, and you would have to email me to get access, if I even still have it. So deal with this in May, please, if you want something.
 3. If you are interested in **serving as a TA for 431 and/or 432 next year**, we will have opportunities for both paid and volunteer positions. I will email you about this in the month of June. No need to get in touch with me before then to express interest, although you are welcome to do so.
 
-## Four Interesting post-432 Learning Pathways
+## Five Interesting post-432 Learning Pathways
 
 1. Frank Harrell's Short Course on Regression Modeling Strategies <https://hbiostat.org/doc/rms/4day.html> given annually (costs money) and his [book on the same subject](https://hbiostat.org/doc/rms/book/) (available online). A good starting point is [Biostatistics for Biomedical Research](https://hbiostat.org/bbr/) if you find the book too rough at the start.
 2. Richard McIlreath's Statistical Rethinking course <https://github.com/rmcelreath/stat_rethinking_2024> with lectures (from 2023) posted to  YouTube. Bayesian ways of thinking are a major focus here.
-3. [Get Started with Tidymodels](https://www.tidymodels.org/start/) is a great place to start learning about tidymodels. The book is [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge.
+3. [Get Started with Tidymodels](https://www.tidymodels.org/start/) is a great place to start learning about tidymodels. The book is [Tidy Modeling with R](https://www.tmwr.org/) by Max Kuhn and Julia Silge. 
 4. Generalized Additive Models (gams) in R: See [Noam Ross' online (free) short course](https://noamross.github.io/gams-in-r-course/) and Michael Clark's [Generalized Additive Models](https://m-clark.github.io/generalized-additive-models/) and the [gratia package](https://github.com/gavinsimpson/gratia) which provides `ggplot`-based graphics and utility functions for working with generalized additive models (GAMs) fitted using the `mgcv` package.
+5. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) is a useful (if somewhat dated) text by Bradley Boehmke & Brandon Greenwell. So is [R for Supervised Learning](https://daviddalpiaz.github.io/r4sl/) by David Dalpiaz.
 
 I have recommended multiple other things on [our Sources page](https://github.com/THOMASELOVE/432-sources).
 
